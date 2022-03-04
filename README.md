@@ -8,7 +8,7 @@
 
 
 #### Why are you interested in Bio?
-1. I am interested in Bio because bio is fundamental of nature, bodies, and our lives. At the same time, bio is full of mystery like the universe which is endless and nobody has never saw the end. That is the reason Bio has a gravity that attracts people for centuries.（...）
+1. I am interested in Bio because bio is fundamental of nature, bodies, and our lives. At the same time, bio is full of mystery like the universe which is endless, and nobody has never saw the end. That is the reason Bio has a gravity that attracts people for centuries.（...）
 
 2. As symbolized by the DIYbio, various people has try to joining to know and do biology in this decade. I am curious about why Bio fascinates people, and how forms of Bio might transform in near future.
 

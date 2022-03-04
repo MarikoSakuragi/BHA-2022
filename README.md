@@ -2,15 +2,14 @@
 
 ##Mariko Sakuragi
 
-<div style="text-align: center;">
-![image_profile](/img/139282151_412049590032179_3432442983651064912_n.jpeg)
+![image_profile](photo/139282151_412049590032179_3432442983651064912_n.jpg)
 
-I am a doctoral student at Osaka University, focusing on medical anthropology and STS. Her doctoral project is about current citizen science movement in Japan and in Indonesia. Particularly, she examines the DIY biology movement, investigating the DIY practices regarding biotechnology and new understandings of technology by sharing and circulation of tools. Her interests also include the new human-nonhuman relationships forming by way of these movements.
-</div>
+I am a doctoral student at Osaka University, focusing on medical anthropology and STS. My doctoral project is about current citizen science movement in Japan. Particularly, I examine the DIY biology movement, investigating the DIY practices regarding biotechnology and new understandings of technology by sharing and circulation of tools. My interests also include the new human-nonhuman relationships forming by way of these movements.  
+
 
 # Week1
 
-### Homework: Answer the following questions:
+### Homework
 #### What is Life? How would you define it, can you actually define it?
 
 

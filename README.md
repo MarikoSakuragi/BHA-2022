@@ -10,7 +10,9 @@ I am a doctoral student at Osaka University, focusing on medical anthropology an
 # Week1
 
 #### What is Life? How would you define it, can you actually define it?
+The word "Life" reminds me an aggregation that is continuously moving. In my image, Life is related to continuousness, because it renews our bodies by metabolisms, and hand down something to the next generation by reproduction.
 
+In addition, Life is not single but many: it is both the process and results of various species' work and interactions. We can see Life in many scales -- microbiomes, groups of plants, animals, and insects, and ecosystems -- but what is most important is no living things cannot live without other living things. We co-exist by making use of each other, for example, eating, hunting, and  parasitizing.
 
 #### What is BioHacking? What does it mean for you?
 

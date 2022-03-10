@@ -1,6 +1,5 @@
 
 [About Me]<br>
-[Week1](week1/index.md)<br>
 [Week1](week1/)<br>
 [Week2]<br>
 [Week3]<br>

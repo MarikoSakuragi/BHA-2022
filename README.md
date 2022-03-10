@@ -1,6 +1,6 @@
 
 [About Me]<br>
-[Week1]（/Week1）<br>
+[Week1](/week1）<br>
 [Week2]<br>
 [Week3]<br>
 [Week4]<br>

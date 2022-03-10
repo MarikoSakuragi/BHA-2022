@@ -1,24 +1,4 @@
-
-[・About Me]
-[・Week1]（/Week1.md）
-[・Week2]
-[・Week3]
-[・Week4]
-[・Week5]
-[・Week6]
-[・Week7]
-[・Week8]
-[・Week9]
-[・Week10]
-
-![image_profile](photo/139282151_412049590032179_3432442983651064912_n.jpg)
-
-# About me
-## Mariko Sakuragi
-I am a doctoral student at Osaka University, focusing on medical anthropology and Science and Technology Studies (STS). My doctoral project is about current citizen science movement in Japan. Particularly, I examine the DIY biology movement, investigating the DIY practices regarding biotechnology and new understandings of technology by sharing and circulation of tools. My interests also include the new human-nonhuman relationships forming by way of these movements.  
-[Link to Researchmap](https://researchmap.jp/marikosakuragi)  
-***
-# Week1（https://github.com/MarikoSakuragi/BHA-2022/Week1）
+# Week1
 
 #### What is Life? How would you define it, can you actually define it?
 Defining "what is life" is a awkward question. So, I would like to point the part of significant elements that Life includes, instead of putting exact answer. The word "Life" reminds me an aggregation that is continuously moving. In my thought, Life is related to continuousness, because it renews our bodies by metabolisms, and hand down something to the next generation by reproduction. In addition, Life is not single but many: it is both the process and results of various species' work and interactions. We can see Life in many scales -- microbiomes, groups of plants, animals, and insects, and ecosystems -- but what is most important is no living things cannot live without the relation with other living things. We co-exist by making use of each other, for example, eating, hunting, and  parasitizing.
@@ -41,4 +21,3 @@ As a social scientist, my interests is in the Biohacker and social/cultural side
 ![image_2](photo/62677.jpg)
 <br>
 ***
-Still in construction...

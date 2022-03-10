@@ -1,7 +1,7 @@
 
-[About Me]<br>
+[About Me]<about/index.md><br>
 [Week1](week1/)<br>
-[Week2]<br>
+[Week2](week2/)<br>
 [Week3]<br>
 [Week4]<br>
 [Week5]<br>

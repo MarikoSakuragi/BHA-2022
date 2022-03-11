@@ -1,5 +1,5 @@
 
-![image_profile](photo/139282151_412049590032179_3432442983651064912_n.jpg)
+![image_profile](139282151_412049590032179_3432442983651064912_n.jpg)
 
 # About me
 ## Mariko Sakuragi

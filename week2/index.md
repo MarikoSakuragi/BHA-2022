@@ -28,15 +28,17 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 <br/>
 ### 2. Pocket PCR
 #### <font color="Olive">- About Pocket PCR
-（・・・）
-（URLを貼る）<br/>
+・説明<br/>
+・オープンソースで改良可能<br/>
+・値段<br/>
+・（URLを貼る）<br/>
 <br/>
 #### <font color="Olive">- Making Pocket PCR
 **・Soldering**<br/>
 The parts of  Pocket PCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board. You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space in order to bond the parts steadily.(脚をつける。３Dプリンタで作れるケースにある)<br/>
 <br/>
 **・Start PCR**<br/>
-When connected to power source with type-C cable, Pocket PCR works and the screen on. You can use computer or mobile buttery as power source. In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch the <br/>
+When connected to power source with type-C cable, Pocket PCR works and the screen on. You can use computer or mobile buttery as power source. In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. <br/>
 （動くことに感動。意外としっかりとした作りをしている。容量は小さそうだが十分か？）
 <br/>
 ## 3/10(Thu)

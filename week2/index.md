@@ -1,7 +1,5 @@
 # Week2: Deconstruction/Construction of Hardware
 
-## What I learned
-
 ## 3/8(Tue) Foldscope, Pocket PCR
 #### Participants: Georg, Tsuchiya, Yokogawa, Sakuragi
 <br/>
@@ -11,9 +9,9 @@
 #### <font color="Olive">- Contents</font>
 ・Instruction manual<br/>
 ・Parts of Assembly<br/>
- 　　**Main Parts**<br/>
+  **Main Parts**<br/>
 　　　　Lens stage, Sample stage, Panning guide, Focus ramp<br/>
-　**Sub Parts**<br/>
+　 **Sub Parts**<br/>
 　　　　Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
 
 #### <font color="Olive">- How to make Foldscope
@@ -28,3 +26,9 @@
 <br/>
 ## 3/10(Thu)
 #### Participants: Georg, Haneda, Sakuragi
+
+
+## What I learned through Week2
+・History of microscope
+・Basic structure of microscope: lens, light, stability of stage, and XYZ-axis to focus on.
+・and more...

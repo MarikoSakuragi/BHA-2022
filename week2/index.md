@@ -8,7 +8,7 @@
 ### Making Foldscope
 #### - What is Foldscope?
 (...)<br/>
-#### <font color="RoyalBlue">- Contents</font>
+#### <font color="DarkSlateGray">- Contents</font>
 ・Instruction manual<br/>
 ・Parts of Assembly<br/>
  　　**Main Parts**<br/>

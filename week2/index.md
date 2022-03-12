@@ -9,9 +9,9 @@
 #### Contents
 ・Instruction manual<br/>
 ・Parts of Assembly<br/>
- Main Parts<br/>
+ **Main Parts**<br/>
 　Lens stage, Sample stage, Panning guide, Focus ramp<br/>
-Sub Parts<br/>
+**Sub Parts**<br/>
 　Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
 
 #### How to make Foldscope

@@ -6,7 +6,7 @@
 #### Participants: Georg, Tsuchiya, Yokogawa, Sakuragi
 <br/>
 ### Making Foldscope
-#### - What is Foldscope?
+#### <font color="Olive">- What is Foldscope?
 (...)<br/>
 #### <font color="Olive">- Contents</font>
 ・Instruction manual<br/>
@@ -16,7 +16,7 @@
 　**Sub Parts**<br/>
 　　　　Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
 
-#### - How to make Foldscope
+#### <font color="Olive">- How to make Foldscope
 1. Tear off each parts along perforation.<br/>
 2. Place and insert coupler into center holes.<br/>
 3. Flip Lens Stage, put coupler into down holes.<br/>

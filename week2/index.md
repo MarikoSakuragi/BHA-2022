@@ -31,7 +31,8 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 ・説明<br/>
 ・オープンソースで改良可能<br/>
 ・値段<br/>
-If you want to know more detail, please access to [PocketPCR official website ](https://gaudi.ch/PocketPCR/）<br/>
+If you interested in, please access to [PocketPCR official website][1]:https://gaudi.ch/PocketPCR/
+<br/>
 <br/>
 #### <font color="Olive">- Making PocketPCR</font>
 **・Soldering**<br/>

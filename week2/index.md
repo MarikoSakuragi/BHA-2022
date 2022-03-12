@@ -30,9 +30,10 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 #### <font color="Olive">- About Pocket PCR
 <br/>
 #### <font color="Olive">- Making Pocket PCR
-・Soldering<br/>
+**・Soldering**<br/>
 The parts of  Pocket PCR is quite simple: a circuit board, small electric fan, and a button. A tube hole and a monitor are put on the reverse side of the circuit board. You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space.<br/>
-・Start PCR<br/>
+<br/>
+**・Start PCR**<br/>
 Connected to power source with type-C cable, Pocker PCR works. You can use computer or mobile buttery as power source.<br/>
 
 ## 3/10(Thu)

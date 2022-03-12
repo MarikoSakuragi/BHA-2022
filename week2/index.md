@@ -24,6 +24,7 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 　（Causion: If you don't assemble them right, sample stage will not move.)<br/>
 6. Assemple (5) and Lens Stage.<br/>
 7. Finish! Let's check if you make correctly by sliding Panning guide and Focus ramp. If these are moved smoothly, it's done! Let's look through the microscope.<br/>
+
 <br/>
 ### 2. Pocket PCR
 #### <font color="Olive">- About Pocket PCR

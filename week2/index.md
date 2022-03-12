@@ -5,13 +5,13 @@
 <br/>
 ### Making Foldscope
 #### <font color="Olive">- What is Foldscope?
-(...)<br/>
+Foldscope is a small microscope made by paper. costs 1 US dollar.<br/>
 #### <font color="Olive">- Contents</font>
 ・Instruction manual<br/>
 ・Parts of Assembly<br/>
   **Main Parts**<br/>
 　　　　Lens stage, Sample stage, Panning guide, Focus ramp<br/>
-　 **Sub Parts**<br/>
+　**Sub Parts**<br/>
 　　　　Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
 
 #### <font color="Olive">- How to make Foldscope
@@ -25,10 +25,10 @@
 7. Finish! Let's check if you make correctly by sliding Panning guide and Focus ramp. If these are moved smoothly, it's done. Let's look through the microscope.<br/>
 <br/>
 ## 3/10(Thu)
-#### Participants: Georg, Haneda, Sakuragi
+#### Participants: Georg, Haneda, Sakuragi, Hirose
 
-
+<br/>
 ## What I learned through Week2
-・History of microscope
-・Basic structure of microscope: lens, light, stability of stage, and XYZ-axis to focus on.
-・and more...
+・History of microscope<br/>
+・Basic structure of microscope: lens, light, stability of stage, and XYZ-axis to focus on.<br/>
+・and more...<br/>

@@ -36,10 +36,11 @@ If you interested in, please access to [PocketPCR official website][1]:https://g
 <br/>
 #### <font color="Olive">- Making PocketPCR</font>
 **・Soldering**<br/>
-The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board. You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space in order to bond the parts steadily.(脚をつける。３Dプリンタで作れるケースにある)<br/>
+The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board. You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space in order to bond the parts steadily. Lastly, put the legs on the four courners of the board. (脚をつける。３Dプリンタで作れるケースにある)<br/>
 <br/>
 **・Start PCR**<br/>
 When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer or mobile buttery as power source. In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. <br/>
+I was impressed by how well PocketPCR works even it is so small.
 （動くことに感動。意外としっかりとした作りをしている。容量は小さそうだが十分か、やや不安。実際に実験で使ってみない限り性能は評価できない。）
 <br/>
 ## 3/10(Thu)

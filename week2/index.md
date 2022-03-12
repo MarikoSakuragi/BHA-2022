@@ -5,7 +5,7 @@
 <br/>
 ### Making Foldscope
 #### <font color="Olive">- What is Foldscope?
-Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University, hoping to make microscope more accessible for children in developing countries like India. The price is only 1 US dollar.<br/>
+Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University, hoping to make microscope more accessible for children in developing countries like India. <br/>
 On March 8th, we assmbled Foldscope from the kit, and do observing by it.<br/>
 #### <font color="Olive">- Contents</font>
 ・Instruction manual<br/>

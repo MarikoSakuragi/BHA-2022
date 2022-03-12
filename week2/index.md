@@ -26,19 +26,19 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 7. Finish! Let's check if you make correctly by sliding Panning guide and Focus ramp. If these are moved smoothly, it's done! Let's look through the microscope.<br/>
 #### <font color="Olive">- Observation</font>
 <br/>
-### 2. Pocket PCR
-#### <font color="Olive">- About Pocket PCR</font>
+### 2. PocketPCR
+#### <font color="Olive">- About PocketPCR</font>
 ・説明<br/>
 ・オープンソースで改良可能<br/>
 ・値段<br/>
-[You can buy it here](https://gaudi.ch/PocketPCR/）<br/>
+[The official website of PocketPCR](https://gaudi.ch/PocketPCR/）<br/>
 <br/>
-#### <font color="Olive">- Making Pocket PCR</font>
+#### <font color="Olive">- Making PocketPCR</font>
 **・Soldering**<br/>
-The parts of  Pocket PCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board. You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space in order to bond the parts steadily.(脚をつける。３Dプリンタで作れるケースにある)<br/>
+The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board. You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space in order to bond the parts steadily.(脚をつける。３Dプリンタで作れるケースにある)<br/>
 <br/>
 **・Start PCR**<br/>
-When connected to power source with type-C cable, Pocket PCR works and the screen on. You can use computer or mobile buttery as power source. In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. <br/>
+When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer or mobile buttery as power source. In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. <br/>
 （動くことに感動。意外としっかりとした作りをしている。容量は小さそうだが十分か、やや不安。実際に実験で使ってみない限り性能は評価できない。）
 <br/>
 ## 3/10(Thu)

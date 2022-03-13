@@ -38,7 +38,7 @@ You can also take a picture by attatching your phone camera with Foldscope lens.
 ![Picture by phone camera](1647131798476.jpg)<br/>
 The picture below is the photo micrograph of fern that  I took by my phone.<br/>
 <br/>
-<img src="Foldscope_Fern.jpeg" width="70%")
+![Fern Photo](Foldscope_Fern.jpeg)<br/>
 <br/>
 ### 2. PocketPCR
 #### <font color="Olive">- About PocketPCR</font>

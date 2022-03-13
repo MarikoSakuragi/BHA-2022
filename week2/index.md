@@ -58,11 +58,9 @@ These are different in size and price, but main function is almost same.<br/><br
 We opened up the 80's PCR and learned the basic structure of PCR.<br/>
 ![Inside 80's PCR](/photo/IMG20220308175450.jpg)<br/>
 It consists of perche system which control the temporature, fan, and circuit board. I found that basic structure and function of PCR have not been changed dramatically since initial PCR models.<br/>
-However, because I am not a engineering person, I couldn't get what functions each parts on the circuit board have. But some of our team who is familiar with fabrication supeculated and tought the others about each parts on the board. In this experience, I think it would hepl to analyze hardware with friends who is good with machines.
-
-・基板のことはよくわからない。基板について知っていればもっとよくPCRの構造が理解できただろう。エンジニアリング系の人が近くにいると助かりそう。
-・発見　基本的な構造は80年代版から変わっていないこと
-・PCR機（サーマルサイクラー）働き自体はシンプル。高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
+However, because I am not a engineering person, I couldn't get what functions each parts on the circuit board have. But some of our team who is familiar with fabrication supeculated and tought the others about each parts on the board. In this experience, I think it would help to analyze hardware with friends who is good with machines.<br/>
+PCR is used for the amplification of specific DNA sequence. The PCR's function is simple, it repeat the cycle of heating and cooling at certain temprature (95℃→55-60℃→70-74℃).
+・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
 <br/>
 ### 2. PocketPCR
 #### <font color="Olive">- About PocketPCR</font>

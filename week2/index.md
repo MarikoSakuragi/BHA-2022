@@ -11,10 +11,10 @@ Foldscope is a small and low-cost microscope made by paper. It was designed by M
 #### <font color="Olive">- Contents</font>
 ![Parts](/photo/IMG20220308151958-2.jpg)<br/>
 <br/>
-・Instruction manual<br/>
-・Parts of Assembly<br/>
-　・Main Parts: Lens stage, Sample stage, Panning guide, Focus ramp<br/>
-  ・Sub Parts: Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
+-Instruction manual<br/>
+-Parts of Assembly<br/>
+・Main Parts: Lens stage, Sample stage, Panning guide, Focus ramp<br/>
+・Sub Parts: Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
 <br/>
 #### <font color="Olive">- How to make Foldscope</font>
 1. Tear off each parts along perforation.<br/>

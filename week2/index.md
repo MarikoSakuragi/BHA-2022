@@ -6,7 +6,8 @@
 ### 1. Making Foldscope
 We assmbled Foldscope from the kit, and do observation.<br/>
 #### <font color="Olive">- About Foldscope</font>
-Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University. He developed Foldscope by hoping to make microscope more accessible for children in developing countries such as India. <u>[Foldscope Website](https://www.foldscope.com)</u><br/>
+Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University. He developed Foldscope by hoping to make microscope more accessible for children in developing countries such as India.<br/>
+<u>[Foldscope Website](https://www.foldscope.com)</u><br/>
 
 #### <font color="Olive">- Contents</font>
 ![Parts](/photo/IMG20220308151958-2.jpg)<br/>
@@ -68,7 +69,6 @@ PCR is used for the amplification of specific DNA sequence. The PCR's function i
 ### 3. Making PocketPCR
 ![Pocket PCR](/photo/IMG20220308194338.jpeg)<br/>
 <div style="text-align: center;">Pocket PCR</div>
-<br/>
 #### <font color="Olive">- About PocketPCR</font>
 *"The PocketPCR is a low-cost, small size thermocycler capable of activating biological reactions such as polymerase chain reaction (PCR)."*(cited from [here](https://gaudishop.ch/index.php/product/pocketpcr-kit/))<br/>
 ・Cost: €99<br/>

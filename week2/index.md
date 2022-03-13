@@ -47,6 +47,7 @@ The picture below is the photo micrograph of fern that  I took by my phone.<br/>
 <br/>
 ![Fern Photo](/photo/Foldscope_Fern.jpeg)<br/>
 <br/>
+***
 ### 2. Deconstruction of PCR
 We have watched PCR machine and learn how it works. We watched together three types of PCR(thermal cyclers): 80's PCR, BentoLab, and PocketPCR.<br/>
 <br/>
@@ -63,6 +64,7 @@ Since I am not a engineering person, I couldn't get what functions each parts on
 PCR is used for the amplification of specific DNA sequence. The PCR's function is simple, it repeat the cycle of heating and cooling at certain temprature (95℃→55-60℃→70-74℃→95℃→...).<br/>
 ・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
 <br/>
+***
 ### 3. Making PocketPCR
 ![Pocket PCR](/photo/IMG20220308194338.jpeg)<br/>
 <div style="text-align: center;">Pocket PCR</div>

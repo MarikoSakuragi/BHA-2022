@@ -88,7 +88,6 @@ Reference:[https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocy
 （cited by PocketPCR website）<br/>
 <br/>
 #### <font color="Olive">- Making PocketPCR</font>
-<br/>
 ![Parts](/photo/IMG20220308191525.jpeg)<br/>
 <br/>
 **・Soldering**<br/>

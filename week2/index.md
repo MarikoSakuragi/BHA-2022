@@ -76,13 +76,15 @@ PCR is used for the amplification of specific DNA sequence. The PCR's function i
 [https://github.com/GaudiLabs/PocketPCR](https://github.com/GaudiLabs/PocketPCR)<br/>
 If you interested in or want to buy it, please access to [PocketPCR official website](https://gaudi.ch/PocketPCR/)<br/>
 <br/>
-[Reference:https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be](https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be)
+Reference:[https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be](https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be)
 <br/>
 #### <font color="Olive">- Making PocketPCR</font>
 **・Soldering**<br/>
 The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board.<br/>
 <br/>
 ![Upside](/photo/IMG20220308182911.jpg)<br/>
+<br/>
+![Downside](/photo/IMG20220308192245.jpg)<br/>
 <br/>
 You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space in order to bond the parts steadily.<br/>
 <br/>

@@ -102,8 +102,7 @@ You have to solder the button and fan in the ordered place of the circuit board,
 ![Soldering](/photo/IMG20220308192104.jpg)<br/>
 <br/>
 Lastly, put the legs on the four courners of the board.<br/>
-If you like, it can be combine PocketPCR with a 3D-printed case. <br/>
-You can download the design file [here.](https://www.thingiverse.com/thing:4094823)<br/>
+If you like, it can be combine PocketPCR with a 3D-printed case. You can download the design file from [here.](https://www.thingiverse.com/thing:4094823)<br/>
 <br/>
 ![Put legs](/photo/IMG20220308193848.jpeg)<br/>
 <br/>

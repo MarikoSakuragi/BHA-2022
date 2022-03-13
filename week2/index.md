@@ -4,7 +4,7 @@
 #### Participants: Georg, Tsuchiya, Yokogawa, Sakuragi
 <br/>
 ### 1. Making Foldscope
-On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
+We assmbled Foldscope from the kit, and do observation.<br/>
 #### <font color="Olive">- About Foldscope</font>
 Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University. He developed Foldscope by hoping to make microscope more accessible for children in developing countries such as India. <u>[Foldscope Website](https://www.foldscope.com)</u><br/>
 
@@ -13,10 +13,8 @@ Foldscope is a small and low-cost microscope made by paper. It was designed by M
 <br/>
 ・Instruction manual<br/>
 ・Parts of Assembly<br/>
-  **Main Parts**<br/>
-　　　　Lens stage, Sample stage, Panning guide, Focus ramp<br/>
-　**Sub Parts**<br/>
-　　　　Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
+　・Main Parts: Lens stage, Sample stage, Panning guide, Focus ramp<br/>
+  ・Sub Parts: Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
 <br/>
 #### <font color="Olive">- How to make Foldscope</font>
 1. Tear off each parts along perforation.<br/>
@@ -25,10 +23,10 @@ Foldscope is a small and low-cost microscope made by paper. It was designed by M
 2. Place and insert coupler into center holes.<br/>
 ![Step2](photo/220308-24-2.jpg)<br/>
 3. Flip Lens Stage, put coupler into down holes.<br/>
-4. Turn back lens stage. Insert Focus ramp under the lens which is put at (2).<br/>
+4. Turn back lens stage. Insert Focus ramp under the lens which is put at Step2.<br/>
 5. Assemple Sample stage and Panning guide<br/>
-　（Causion: If you don't assemble them right, sample stage will not move.)<br/>
-6. Assemple (5) and Lens Stage.<br/>
+（Causion: If you don't assemble them right, sample stage will not move.)<br/>
+6. Assemple 5. and Lens Stage.<br/>
 ![Step6](/photo/220308-31-2.jpg)<br/>
 7. Finish!<br/>
 ![Foldscope](/photo/IMG20220308160240.jpeg)<br/>
@@ -66,6 +64,7 @@ PCR is used for the amplification of specific DNA sequence. The PCR's function i
 ・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
 <br/>
 ### 3. Making PocketPCR
+![Pocket PCR]()
 #### <font color="Olive">- About PocketPCR</font>
 ・説明<br/>
 ・オープンソースで改良可能<br/>
@@ -77,8 +76,14 @@ If you interested in, please access to [PocketPCR official website](https://gaud
 **・Soldering**<br/>
 The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board. You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space in order to bond the parts steadily. Lastly, put the legs on the four courners of the board. (脚をつける。３Dプリンタで作れるケースにある)<br/>
 <br/>
+![Parts](/photo/IMG20220308191525.jpeg)<br/>
+<br/>
 **・Start PCR**<br/>
-When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer or mobile buttery as power source. In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. <br/>
+When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer or mobile buttery as power source. <br/>
+![Connect to PC](/photo/IMG20220308194628.jpg)<br/>
+In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. <br/>
+![Setup](/photo/IMG20220308194743.jpg)<br/>
+<br/>
 I was impressed by how well PocketPCR works even it is so small.
 （動くことに感動。意外としっかりとした作りをしている。容量は小さそうだが十分か、やや不安。実際に実験で使ってみない限り性能は評価できない。）
 <br/>

@@ -40,7 +40,7 @@ When you want to see something, you put the sample on a slide glass, and set the
 <br/>
 ![Focusing](/photo/FocusingFoldscope.gif)<br/>
 <br/>
-A light source is important for observation. "To view directly, bring the lens to the eye and view while  holding the Foldscope up to a light source, such as daylight or artificial lighting"(from "View methods" of official website). <br/>
+A light source is important for observation. "To view directly, bring the lens to the eye and view while  holding the Foldscope up to a light source, such as daylight or artificial lighting"(cited from "View methods" of official website). <br/>
 ![Looking into Foldscope](/photo/220308-39-2.jpg)<br/>
 At first, I could see nothing in my view. It was caused because I made a made a mistake that put a slide glass upside down. After fixed it, I coud see clearly each fern's cells and nucleus inside them.<br/>
 You can also take a picture by attatching your phone camera with Foldscope lens. <br/>
@@ -48,6 +48,21 @@ You can also take a picture by attatching your phone camera with Foldscope lens.
 The picture below is the photo micrograph of fern that  I took by my phone.<br/>
 <br/>
 ![Fern Photo](/photo/Foldscope_Fern.jpeg)<br/>
+<br/>
+### 3. Deconstruction of PCR
+We have watched PCR machine and learn how it works. We watched together three types of PCR(thermal cyclers): 80's PCR, BentoLab, and PocketPCR.<br/>
+<br/>
+![80's PCR](week2/photo/IMG20220308150609.jpeg)<br/>
+<br/>
+These are different in size and price, but main function is almost same.<br/>
+We opened up the 80's PCR and learned the basic structure of PCR.<br/>
+![Inside 80's PCR](week2/photo/IMG20220308175450.jpg)<br/>
+It consists of perche system which control the temporature, fan, and circuit board. I found that basic structure and function of PCR have not been changed dramatically since initial PCR models.<br/>
+However, because I am not a engineering person, I couldn't get what functions each parts on the circuit board have. But some of our team who is familiar with fabrication supeculated and tought the others about each parts on the board. In this experience, I think it would hepl to analyze hardware with friends who is good with machines.
+
+・基板のことはよくわからない。基板について知っていればもっとよくPCRの構造が理解できただろう。エンジニアリング系の人が近くにいると助かりそう。
+・発見　基本的な構造は80年代版から変わっていないこと
+・PCR機（サーマルサイクラー）働き自体はシンプル。高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
 <br/>
 ### 2. PocketPCR
 #### <font color="Olive">- About PocketPCR</font>

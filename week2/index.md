@@ -111,12 +111,12 @@ If you like, it can be combine PocketPCR with a 3D-printed case. You can downloa
 When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer or mobile buttery as power source. <br/>
 <br/>
 ![Connect to PC](/photo/IMG20220308194628.jpg)<br/>
-In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. <br/>
+In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. What temprature is it now is displayed on the screen.<br/>
 <br/>
 ![Setup](/photo/IMG20220308194743.jpg)<br/>
 <br/>
 I was impressed by how well PocketPCR works even it is so small.
-（動くことに感動。意外としっかりとした作りをしている。容量は小さそうだが十分か、やや不安。実際に実験で使ってみない限り性能は評価できない。）
+（動くことに感動。思ったより精巧な作りをしていた。容量は小さそうだが十分か、やや不安。実際に実験で使ってみない限り性能は評価できない。）
 <br/>
 <br/>
 ## 3/10(Thu)

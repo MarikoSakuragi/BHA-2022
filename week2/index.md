@@ -52,11 +52,11 @@ The picture below is the photo micrograph of fern that  I took by my phone.<br/>
 ### 3. Deconstruction of PCR
 We have watched PCR machine and learn how it works. We watched together three types of PCR(thermal cyclers): 80's PCR, BentoLab, and PocketPCR.<br/>
 <br/>
-![80's PCR](week2/photo/IMG20220308150609.jpeg)<br/>
+![80's PCR](/photo/IMG20220308150609.jpeg)<br/>
 <br/>
 These are different in size and price, but main function is almost same.<br/>
 We opened up the 80's PCR and learned the basic structure of PCR.<br/>
-![Inside 80's PCR](week2/photo/IMG20220308175450.jpg)<br/>
+![Inside 80's PCR](/photo/IMG20220308175450.jpg)<br/>
 It consists of perche system which control the temporature, fan, and circuit board. I found that basic structure and function of PCR have not been changed dramatically since initial PCR models.<br/>
 However, because I am not a engineering person, I couldn't get what functions each parts on the circuit board have. But some of our team who is familiar with fabrication supeculated and tought the others about each parts on the board. In this experience, I think it would hepl to analyze hardware with friends who is good with machines.
 

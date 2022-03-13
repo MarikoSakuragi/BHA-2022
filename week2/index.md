@@ -75,16 +75,22 @@ If you interested in, please access to [PocketPCR official website](https://gaud
 #### <font color="Olive">- Making PocketPCR</font>
 **・Soldering**<br/>
 The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board.<br/>
+<br/>
 ![Upside](/photo/IMG20220308182911.jpg)<br/>
+<br/>
 You have to solder the button and fan in the ordered place of the circuit board, following instructions. To make it easy, it is better heat  the position which will be soldered, with soldering iron. Be careful not to leave any space in order to bond the parts steadily.<br/>
+<br/>
 ![Soldering](/photo/IMG20220308192104.jpg)<br/>
-Lastly, put the legs on the four courners of the board. (脚をつける。３Dプリンタで作れるケースにある)<br/>
+<br/>
+Lastly, put the legs on the four courners of the board. (３Dプリンタで作れるケースもある)<br/>
+<br/>
 ![Put legs](/photo/IMG20220308193848.jpeg)<br/>
 <br/>
 ![Parts](/photo/IMG20220308191525.jpeg)<br/>
 <br/>
 **・Start PCR**<br/>
 When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer or mobile buttery as power source. <br/>
+<br/>
 ![Connect to PC](/photo/IMG20220308194628.jpg)<br/>
 In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. <br/>
 <br/>

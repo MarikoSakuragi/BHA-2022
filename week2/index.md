@@ -4,9 +4,10 @@
 #### Participants: Georg, Tsuchiya, Yokogawa, Sakuragi
 <br/>
 ### 1. Making Foldscope
+On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 #### <font color="Olive">- About Foldscope</font>
 Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University. He developed Foldscope by hoping to make microscope more accessible for children in developing countries such as India. [Foldscope Website](https://www.foldscope.com)<br/>
-On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
+
 #### <font color="Olive">- Contents</font>
 ![Parts](/photo/IMG20220308151958-2.jpg)<br/>
 <br/>
@@ -19,13 +20,17 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 <br/>
 #### <font color="Olive">- How to make Foldscope</font>
 1. Tear off each parts along perforation.<br/>
+![Step1](/photo/IMG20220308152559-2.jpg)<br/>
+<br/>
 2. Place and insert coupler into center holes.<br/>
 3. Flip Lens Stage, put coupler into down holes.<br/>
 4. Turn back lens stage. Insert Focus ramp under the lens which is put at (2).<br/>
 5. Assemple Sample stage and Panning guide<br/>
 　（Causion: If you don't assemble them right, sample stage will not move.)<br/>
 6. Assemple (5) and Lens Stage.<br/>
-7. Finish! Let's check if you make correctly by sliding Panning guide and Focus ramp. If these are moved smoothly, it's done! Let's look through the microscope.<br/>
+7. Finish!<br/>
+![Foldscope](/photo/IMG20220308160240.jpeg)<br/>
+Let's check if you make correctly by sliding Panning guide and Focus ramp. If these are moved smoothly, it's done! Let's look through the microscope.<br/>
 <br/>
 #### <font color="Olive">- Observation</font>
 Foldscope's magnification is 140X. You may able to watch microorganisms and plants tissues. Our local cordinator Georg Tremmel reccomended us to use pond water as a sample for example. He said also that Tardigrade (Kumamushi）is also interest sample to watch by microscope. This time, we saw the cross section of a fern through the Foldscope.</br>

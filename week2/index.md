@@ -29,8 +29,7 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 Foldscope's magnification is 140X. You may able to watch microorganisms and plants tissues. Our local cordinator Georg Tremmel reccomended us to use pond water as a sample for example. He said also that Tardigrade (Kumamushi）is also interest sample to watch by microscope. This time, we saw the cross section of a fern through the Foldscope.</br>
 When you want to see something, you put the sample on a slide glass, and set the slide glass above the lens. Then, adjust focus by moving Panning guide and Focus ramp. Panning guide can  adjust X and Y axis, and Focus ramp changes Z axis: the distance between lens and subject. <br/>
 <br/>
-![Adjusting](IMG20220308154409-2.jpeg)<br/>
-![Adjusting2](Adjusting focus.gif)
+![Focusing](FocusingFoldscope.gif)<br/>
 <br/>
 A light source is important for observation. "To view directly, bring the lens to the eye and view while  holding the Foldscope up to a light source, such as daylight or artificial lighting"(from "View methods" of official website). At first, I could see nothing in my view. It was caused because I made a made a mistake that put a slide glass upside down. After fixed it, I coud see clearly each fern's cells and nucleus inside them.</br>
 You can also take a picture by attatching your phone camera with Foldscope lens. The picture below is the photo micrograph of fern that  I took by my phone.<br/>

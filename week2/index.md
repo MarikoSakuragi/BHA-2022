@@ -51,7 +51,7 @@ The picture below is the photo micrograph of fern that  I took by my phone.<br/>
 We have watched PCR machine and learn how it works. We watched together three types of PCR(thermal cyclers): 80's PCR, BentoLab, and PocketPCR.<br/>
 <br/>
 ![80's PCR](/photo/IMG20220308150609.jpeg)<br/>
-<div style="text-align: center;">*80's PCR machine*</div><br/>
+<div style="text-align: center;">80's PCR machine</div><br/>
 These are different in size and price, but main function is almost same.<br/><br/>
 We opened up the 80's PCR and learned the basic structure of PCR.<br/>
 <br/>
@@ -64,7 +64,8 @@ PCR is used for the amplification of specific DNA sequence. The PCR's function i
 ・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
 <br/>
 ### 3. Making PocketPCR
-<div style="text-align: center;">![Pocket PCR](/photo/IMG20220308194338.jpeg)</div><br/>
+![Pocket PCR](/photo/IMG20220308194338.jpeg)<br/>
+<div style="text-align: center;">Pocket PCR</div>
 <br/>
 #### <font color="Olive">- About PocketPCR</font>
 *"The PocketPCR is a low-cost, small size thermocycler capable of activating biological reactions such as polymerase chain reaction (PCR). PCR is a method widely used in molecular biology to make copies of a specific DNA segment. Applications of the technique include DNA cloning for sequencing, analysis of genetic fingerprints, amplification of ancient DNA and gene cloning.""(cited from [here](https://gaudishop.ch/index.php/product/pocketpcr-kit/))*<br/>

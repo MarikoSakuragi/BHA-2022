@@ -40,7 +40,7 @@ When you want to see something, you put the sample on a slide glass, and set the
 <br/>
 A light source is important for observation. "To view directly, bring the lens to the eye and view while  holding the Foldscope up to a light source, such as daylight or artificial lighting"(cited from "View methods" of official website). <br/>
 ![Looking into Foldscope](/photo/220308-39-2.jpg)<br/>
-At first, I could see nothing in my view. It was caused because I made a made a mistake that put a slide glass upside down. After fixed it, I coud see clearly each fern's cells and nucleus inside them.<br/>
+At first, I could see nothing in my view. It was caused because I made a mistake that put a slide glass upside down. After fixed it, I coud see clearly each fern's cells and nucleus inside them.<br/>
 You can also take a picture by attatching your phone camera with Foldscope lens. <br/>
 ![Picture by phone camera](/photo/1647131798476.jpg)<br/>
 The picture below is the photo micrograph of fern that  I took by my phone.<br/>
@@ -91,7 +91,7 @@ Reference:[https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocy
 ![Parts](/photo/IMG20220308191525.jpeg)<br/>
 <br/>
 **・Soldering**<br/>
-The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board.<br/>
+The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタも） A tube hole and a monitor are put on the reverse side of the circuit board.<br/>
 <br/>
 ![Upside](/photo/IMG20220308182911.jpg)<br/>
 <br/>

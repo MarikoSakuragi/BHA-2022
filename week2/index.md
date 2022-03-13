@@ -7,7 +7,7 @@
 We assmbled Foldscope from the kit, and do observation.<br/>
 #### <font color="Olive">- About Foldscope</font>
 Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University. His hope is to make microscope (and bioscience) more accessible for children, especially in developing countries such as India. That is why he invented Foldscope.<br/>
-<u>[Foldscope Website](https://www.foldscope.com)</u><br/>
+[Foldscope Website](https://www.foldscope.com)<br/>
 
 #### <font color="Olive">- Contents</font>
 ![Parts](/photo/IMG20220308151958-2.jpg)<br/>
@@ -63,7 +63,6 @@ It consists of perche system which control the temprature, fan, and circuit boar
 Since I am not a engineer, I couldn't get what functions each parts on the circuit board have. But some of our team who is familiar with fabrication supeculated and tought the others about each parts on the board. In this experience, I think it would help to analyze hardware with friends who is good with machines.<br/>
 <br/>
 PCR is used for the amplification of specific DNA sequence. The PCR's function is simple, it repeat the cycle of heating and cooling at certain temprature (95℃→55-60℃→70-74℃→95℃→...).<br/>
-・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
 <br/>
 ***
 ### 3. Making PocketPCR
@@ -91,7 +90,7 @@ Reference:[https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocy
 ![Parts](/photo/IMG20220308191525.jpeg)<br/>
 <br/>
 **・Soldering**<br/>
-The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタも） A tube hole and a monitor are put on the reverse side of the circuit board.<br/>
+The parts of  PocketPCR is quite simple: a circuit board, a small electric fan, a button. A tube hole and a monitor are put on the reverse side of the circuit board.<br/>
 <br/>
 ![Upside](/photo/IMG20220308182911.jpg)<br/>
 <br/>
@@ -111,12 +110,15 @@ If you like, it can be combine PocketPCR with a 3D-printed case. You can downloa
 When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer, mobile phone, or mobile buttery as a power source. <br/>
 <br/>
 ![Connect to PC](/photo/IMG20220308194628.jpg)<br/>
-In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. Don't touch coils around the tubes during heating because it is getting high temprature. What temprature is it now is displayed on the screen.<br/>
+In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. A lid can be attached with the top of PCR tubes. Don't touch coils around the tubes during heating because it is getting high temprature. What temprature is it now is displayed on the screen.<br/>
 <br/>
 ![Setup](/photo/IMG20220308194743.jpg)<br/>
 <br/>
-I was impressed by how well PocketPCR works even it is so small.
-（動くことに感動。思ったより精巧な作りをしていた。容量は小さそうだが十分か、やや不安。実際に実験で使ってみない限り性能は評価できない。）
+#### <font color="Blue">Comments and Questions</font>
+・I was amazed that PocketPCR is elaborate and works well even it's tiny body.
+・But it is still unanswered that it is enogh to be used in actual PCR experiments. We may need further  PCR experiments by using it in order to evaluate it. We will see that during BHA.
+・How could PocketPCR be made such small? Are there something ommitted when comparing PocketPCR with standard PCR machine?
+・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
 <br/>
 <br/>
 ## 3/10(Thu)

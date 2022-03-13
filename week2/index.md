@@ -5,7 +5,7 @@
 <br/>
 ### 1. Making Foldscope
 #### <font color="Olive">- About Foldscope</font>
-Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University. He developed Foldscope by hoping to make microscope more accessible for children in developing countries such as India. <br/>
+Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University. He developed Foldscope by hoping to make microscope more accessible for children in developing countries such as India. [Foldscope Website](https://www.foldscope.com)<br/>
 On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 #### <font color="Olive">- Contents</font>
 ・Instruction manual<br/>
@@ -14,7 +14,7 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 　　　　Lens stage, Sample stage, Panning guide, Focus ramp<br/>
 　**Sub Parts**<br/>
 　　　　Slides, Coupler, Lens, Ring sticker, Covership stickers<br/>
-
+<br/>
 #### <font color="Olive">- How to make Foldscope</font>
 1. Tear off each parts along perforation.<br/>
 2. Place and insert coupler into center holes.<br/>
@@ -25,6 +25,9 @@ On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 6. Assemple (5) and Lens Stage.<br/>
 7. Finish! Let's check if you make correctly by sliding Panning guide and Focus ramp. If these are moved smoothly, it's done! Let's look through the microscope.<br/>
 #### <font color="Olive">- Observation</font>
+Foldscope's magnification is 140X. You may able to watch microorganisms and plants tissues. Our local cordinator Georg Tremmel reccomended us to use pond water as a sample for example. He said also that Tardigrade (Kumamushi）is also interest sample to watch by microscope. This time, we saw the cross section of a fern through the Foldscope. </br>
+When you want to see something, you put the sample on a slide glass, and set the slide glass above the lens. Then, adjust focus by moving Panning guide and Focus ramp slightly. Panning guide moves X and Y axis, and Focus ramp changes Z axis: the distance between lens and subject. A light source is important for observation. "To view directly, bring the lens to the eye and view while  holding the Foldscope up to a light source, such as daylight or artificial lighting"(from "View methods" of official website). At first, I could see nothing in my view. It was caused because I made a made a mistake that put a slide glass upside down. After fixed it, I coud see clearly each fern's cells and nucleus inside them. </br>
+You can also take a picture by attatching your phone camera with Foldscope lens. 
 <br/>
 ### 2. PocketPCR
 #### <font color="Olive">- About PocketPCR</font>

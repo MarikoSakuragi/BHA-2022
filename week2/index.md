@@ -64,8 +64,8 @@ PCR is used for the amplification of specific DNA sequence. The PCR's function i
 ・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
 <br/>
 ### 3. Making PocketPCR
-![Pocket PCR](/photo/IMG20220308194338.jpeg)<br/>
-<div style="text-align: center;">Pocket PCR</div>
+<div style="text-align: center;">![Pocket PCR](/photo/IMG20220308194338.jpeg)<br/>
+Pocket PCR</div>
 <br/>
 #### <font color="Olive">- About PocketPCR</font>
 *"The PocketPCR is a low-cost, small size thermocycler capable of activating biological reactions such as polymerase chain reaction (PCR). PCR is a method widely used in molecular biology to make copies of a specific DNA segment. Applications of the technique include DNA cloning for sequencing, analysis of genetic fingerprints, amplification of ancient DNA and gene cloning."*(cited from [here](https://gaudishop.ch/index.php/product/pocketpcr-kit/))<br/>

@@ -2,7 +2,7 @@
 
 ## 3/8(Tue) Foldscope, Pocket PCR
 #### Participants: Georg, Tsuchiya, Yokogawa, Sakuragi
-<br/>
+15:00-20:30<br/>
 ### 1. Making Foldscope
 We assmbled Foldscope from the kit, and do observation.<br/>
 #### <font color="Olive">- About Foldscope</font>
@@ -121,8 +121,7 @@ I was impressed by how well PocketPCR works even it is so small.
 <br/>
 ## 3/10(Thu)
 #### Participants: Georg, Haneda, Sakuragi, Hirose
-
-<br/>
+16:00-21:00<br/>
 ## What I learned through Week2?
 ・History of microscope<br/>
 ・Basic structure of microscope: lens, light, stability of stage, and XYZ-axis to focus on.<br/>

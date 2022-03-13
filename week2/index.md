@@ -72,8 +72,9 @@ PCR is used for the amplification of specific DNA sequence. The PCR's function i
 ・Cost: €99<br/>
 ・PockerPCR is open source device. You can see the designs on GitHub.<br/>
 [https://github.com/GaudiLabs/PocketPCR](https://github.com/GaudiLabs/PocketPCR)<br/>
-If you interested in or want to buy it, please access to [PocketPCR official website](https://gaudi.ch/PocketPCR/)
+If you interested in or want to buy it, please access to [PocketPCR official website](https://gaudi.ch/PocketPCR/)<br/>
 <br/>
+[Reference:https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be](https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be)
 <br/>
 #### <font color="Olive">- Making PocketPCR</font>
 **・Soldering**<br/>

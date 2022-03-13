@@ -88,6 +88,9 @@ Reference:[https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocy
 （cited by PocketPCR website）<br/>
 <br/>
 #### <font color="Olive">- Making PocketPCR</font>
+<br/>
+![Parts](/photo/IMG20220308191525.jpeg)<br/>
+<br/>
 **・Soldering**<br/>
 The parts of  PocketPCR is quite simple: a circuit board, small electric fan, and a button.（＋フタ、オプションでケース） A tube hole and a monitor are put on the reverse side of the circuit board.<br/>
 <br/>
@@ -101,11 +104,10 @@ You have to solder the button and fan in the ordered place of the circuit board,
 <br/>
 Lastly, put the legs on the four courners of the board.<br/>
 If you like, it can be combine PocketPCR with a 3D-printed case. <br/>
-You can download the design file [here](https://www.thingiverse.com/thing:4094823)<br/>
+You can download the design file [here.](https://www.thingiverse.com/thing:4094823)<br/>
 <br/>
 ![Put legs](/photo/IMG20220308193848.jpeg)<br/>
 <br/>
-![Parts](/photo/IMG20220308191525.jpeg)<br/>
 <br/>
 **・Start PCR**<br/>
 When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer or mobile buttery as power source. <br/>

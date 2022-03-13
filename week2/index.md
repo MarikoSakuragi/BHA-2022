@@ -115,10 +115,10 @@ In the setup page, you can set heating/cooling tempratures, time, and cycles of 
 ![Setup](/photo/IMG20220308194743.jpg)<br/>
 <br/>
 #### <font color="Blue">Comments and Questions</font>
-・I was amazed that PocketPCR is elaborate and works well even it's tiny body.
-・But it is still unanswered that it is enogh to be used in actual PCR experiments. We may need further  PCR experiments by using it in order to evaluate it. We will see that during BHA.
-・How could PocketPCR be made such small? Are there something ommitted when comparing PocketPCR with standard PCR machine?
-・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。
+・I was amazed that PocketPCR is elaborate and works well even it's tiny body.<br/>
+・But it is still unanswered that it is enogh to be used in actual PCR experiments. We may need further  PCR experiments by using it in order to evaluate it. We will see that during BHA.<br/>
+・How could PocketPCR be made such small? Are there something ommitted when comparing PocketPCR with standard PCR machine?<br/>
+・高い製品とポケットPCRのような最低限の機能は備えたPCRとでは何が異なっているのか疑問に感じた。<br/>
 <br/>
 <br/>
 ## 3/10(Thu)

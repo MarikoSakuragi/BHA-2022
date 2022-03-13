@@ -8,7 +8,7 @@
 Foldscope is a small and low-cost microscope made by paper. It was designed by Manu Prakash, a Professor of Oxford University. He developed Foldscope by hoping to make microscope more accessible for children in developing countries such as India. [Foldscope Website](https://www.foldscope.com)<br/>
 On March 8th, we assmbled Foldscope from the kit, and do observation by it.<br/>
 #### <font color="Olive">- Contents</font>
-![Parts](IMG20220308151958-2.jpg)<br/>
+![Parts](/photo/IMG20220308151958-2.jpg)<br/>
 <br/>
 ・Instruction manual<br/>
 ・Parts of Assembly<br/>
@@ -35,10 +35,10 @@ When you want to see something, you put the sample on a slide glass, and set the
 <br/>
 A light source is important for observation. "To view directly, bring the lens to the eye and view while  holding the Foldscope up to a light source, such as daylight or artificial lighting"(from "View methods" of official website). At first, I could see nothing in my view. It was caused because I made a made a mistake that put a slide glass upside down. After fixed it, I coud see clearly each fern's cells and nucleus inside them.</br>
 You can also take a picture by attatching your phone camera with Foldscope lens. <br/>
-![Picture by phone camera](1647131798476.jpg)<br/>
+![Picture by phone camera](/photo/1647131798476.jpg)<br/>
 The picture below is the photo micrograph of fern that  I took by my phone.<br/>
 <br/>
-![Fern Photo](Foldscope_Fern.jpeg)<br/>
+![Fern Photo](/photo/Foldscope_Fern.jpeg)<br/>
 <br/>
 ### 2. PocketPCR
 #### <font color="Olive">- About PocketPCR</font>

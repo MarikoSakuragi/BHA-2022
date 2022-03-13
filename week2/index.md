@@ -76,7 +76,16 @@ PCR is used for the amplification of specific DNA sequence. The PCR's function i
 [https://github.com/GaudiLabs/PocketPCR](https://github.com/GaudiLabs/PocketPCR)<br/>
 If you interested in or want to buy it, please access to [PocketPCR official website](https://gaudi.ch/PocketPCR/)<br/>
 <br/>
-Reference:[https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be](https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be)
+Reference:[https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be](https://www.hackster.io/news/gaudilabs-releases-pocket-sized-thermocycler-with-the-pocketpcr-5f86674e44be)<br/>
+#### <font color="Olive">- Specifications</font>
+・PID temperature control<br/>
+・Temperature range: Ambient to 99°C<br/>
+・Technology: Resistive Heating, assisted cooling<br/>
+・USB powered from any 2A power adapter or computer port<br/>
+・Sample Tubes: 5 x 0.2ml PCR tubes<br/>
+・Small size of 33mm x 105mm x 50mm<br/>
+・Weight: 50 grams<br/>
+（cited by PocketPCR website）<br/>
 <br/>
 #### <font color="Olive">- Making PocketPCR</font>
 **・Soldering**<br/>

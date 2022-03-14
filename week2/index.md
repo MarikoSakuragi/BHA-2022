@@ -117,7 +117,7 @@ In the setup page, you can set heating/cooling tempratures, time, and cycles of 
 <br/>
 ![Setup](/photo/IMG20220308194743.jpg)<br/>
 <br/>
-#### <span style="background-color:Gray">Comments and Questions</span>
+#### <span style="background-color:LightGray">Comments and Questions</span>
 ・I was amazed that PocketPCR is elaborate and works even it's tiny body.<br/>
 ・But it is still uncertain whether it work enogh in actual PCR experiments. We may need further  PCR experiments by using it in order to evaluate it. We will see that during BHA.<br/>
 ・How could PocketPCR be made such small? Are there something ommitted when comparing PocketPCR with standard PCR machine?<br/>
@@ -125,7 +125,8 @@ In the setup page, you can set heating/cooling tempratures, time, and cycles of 
 <br/>
 <br/>
 
-## What I learned through Week2?
+##＃＃ <span style="background-color:LightGray">What I learned through Week2</span>
+・Basic equipments in a biology laboratory<br/>
 ・History of microscope<br/>
 ・Basic structure of microscope: lens, light, stability of stage, and XYZ-axis to focus on.<br/>
 ・How does PCR works and what is the main function.<br/>

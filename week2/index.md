@@ -1,6 +1,6 @@
 # Week2: Deconstruction/Construction of Hardware
 
-# Making Foldscope, Pocket PCR, Disassemble &Compare PCR
+# Making Foldscope and Pocket PCR, Disassemble & Compare PCRs
 ## 3/8(Tue) & 3/10(Thu)
 #### Participants
 3/8(Tue): Georg, Tsuchiya, Yokogawa, Sakuragi
@@ -125,7 +125,7 @@ In the setup page, you can set heating/cooling tempratures, time, and cycles of 
 <br/>
 <br/>
 
-##＃＃ <span style="background-color:LightGray">What I learned through Week2</span>
+#### <span style="background-color:LightGray">What I learned through Week2</span>
 ・Basic equipments in a biology laboratory<br/>
 ・History of microscope<br/>
 ・Basic structure of microscope: lens, light, stability of stage, and XYZ-axis to focus on.<br/>

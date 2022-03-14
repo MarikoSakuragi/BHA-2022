@@ -3,8 +3,8 @@
 # Making Foldscope and Pocket PCR, Disassemble & Compare PCRs
 ## 3/8(Tue) & 3/10(Thu)
 #### Participants
-3/8(Tue): Georg, Tsuchiya, Yokogawa, Sakuragi
-3/10(Thu): Georg, Haneda, Sakuragi, Hirose
+3/8(Tue): Georg, Tsuchiya, Yokogawa, Sakuragi<br/>
+3/10(Thu): Georg, Haneda, Sakuragi, Hirose<br/>
 
 ### 1. Making Foldscope
 We assmbled Foldscope from the kit, and do observation.<br/>
@@ -123,8 +123,6 @@ In the setup page, you can set heating/cooling tempratures, time, and cycles of 
 ・How could PocketPCR be made such small? Are there something ommitted when comparing PocketPCR with standard PCR machine?<br/>
 ・There is no any difference between "normal" PCR and Pocket PCR (or other DIY PCR)?<br/>
 <br/>
-<br/>
-
 #### <span style="background-color:LightGray">What I learned through Week2</span>
 ・Basic equipments in a biology laboratory<br/>
 ・History of microscope<br/>

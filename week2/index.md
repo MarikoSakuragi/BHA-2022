@@ -1,4 +1,4 @@
-# Week2: Deconstruction/Construction of Hardware
+# Week2: Deconstructing of the Lab
 
 # Making Foldscope and Pocket PCR, Disassemble & Compare PCRs
 ## 3/8(Tue) & 3/10(Thu)

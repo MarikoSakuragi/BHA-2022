@@ -1,4 +1,6 @@
-# Week3:
+# Week3: Making the Lab
+In this week, we are going to get used to fabrication tools (3D printer, laser cutter, and 3D design software.). The purpose of this week is to learn how to make hardware by using fabrication tools.<br/>
+I guess this week gonna be a hardest challenge for me who haven’t had any experiences of using nor design and modeling software...<br/>
 <br/>
 ### 1. Localize GitHub repositories
 "Localize" means to clone a remote repository and save it in your page.<br/>

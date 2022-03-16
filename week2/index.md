@@ -110,7 +110,7 @@ If you like, it can be combine PocketPCR with a 3D-printed case. You can downloa
 <br/>
 <br/>
 **・Start PCR**<br/>
-When connected to power source with type-C cable, PocketPCR starts to work and the screen on. You can use computer, mobile phone, or mobile buttery as a power source. <br/>
+When connected to power source with a type-C cable, PocketPCR starts to work and the screen on. You can use computer, mobile phone, or mobile buttery as a power source. <br/>
 <br/>
 ![Connect to PC](/photo/IMG20220308194628.jpg)<br/>
 In the setup page, you can set heating/cooling tempratures, time, and cycles of PCR by push or turn the button. The setup manipulation is not difficult. After press the "Run PCR," PCR will start. A lid can be attached with the top of PCR tubes. Don't touch coils around the tubes during heating because it is getting high temprature. What temprature is it now is displayed on the screen.<br/>
@@ -123,7 +123,7 @@ In the setup page, you can set heating/cooling tempratures, time, and cycles of 
 ・How could PocketPCR be made such small? Are there something ommitted when comparing PocketPCR with standard PCR machine?<br/>
 ・There is no any difference between "normal" PCR and Pocket PCR (or other DIY PCR)?<br/>
 <br/>
-#### <span style="background-color:LightGray">What I learned through Week2</span>
+#### <span style="background-color:LightGray">What I learned from Week2</span>
 ・Basic equipments in a biology laboratory<br/>
 ・History of microscope<br/>
 ・Basic structure of microscope: lens, light, stability of stage, and XYZ-axis to focus on.<br/>

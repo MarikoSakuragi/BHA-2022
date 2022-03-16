@@ -1,6 +1,6 @@
 # Week3: Making the Lab
-In this week, we are going to get used to fabrication tools (3D printer, laser cutter, and 3D design software.). The purpose of this week is to learn how to make hardware by using fabrication tools.<br/>
-I guess this week gonna be a hardest challenge for me who haven’t had any experiences of using nor design and modeling software...<br/>
+In this week, we are going to get used to fabrication tools (3D printer, laser cutter, and 3D design software). The purpose of this week is to learn how to make hardware by using fabrication tools.<br/>
+I guess this week gonna be a hardest challenge for me who haven’t had any experiences of using either design nor modeling software...<br/>
 <br/>
 ### 1. Localize GitHub repositories
 "Localize" means to clone a remote repository and save it in your page.<br/>
@@ -10,7 +10,7 @@ By localizing, you can edit the codes and files of the original.<br/>
 This time, I have localized BHA's DIY magnetic stirrer.<br/>
 ![Local1](/photo/w3_screenshot_1.png)<br/>
 <br/>
-・To localize Push a "local" button on the upper right of the page.<br/>
+・To localize, push a "local" button on the upper right of the page.<br/>
 ![Local2](/photo/w3_screenshot_2.png)<br/>
 <br/>
 ・Then, the page is localized to your own page.<br/>

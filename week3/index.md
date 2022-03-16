@@ -1,6 +1,6 @@
-# Week3: Deconstruction/Construction of Hardware
+# Week3:
 <br/>
-### 1. How to localize GitHub repositories
+### 1. Localize GitHub repositories
 "Localize" means to clone a remote repository and save it in your page.<br/>
 By localizing, you can edit the codes and files of the original.<br/>
 <br/>
@@ -23,3 +23,5 @@ This time, I have localized BHA's DIY magnetic stirrer.<br/>
 ・Click "Code" and "Open with GitHub Desktop," the GitHub Desktop automatically open, and you can edit the code.<br/>
 ![Local6](/photo/w3_screenshot_6.png)<br/>
 <br/>
+STLダウンロード参考<br/>
+![STLダウンロード参考](https://www.kkaneko.jp/db/cg/blenderimportexport.html#S3)<br/>

@@ -30,7 +30,7 @@ Reference: [「置き薬の歴史」](https://www.zenhaikyo.com/history/)<br/>
 I want to put historical elements of science into my final project.<br/>
 I'm interested in not only the brand-new science but also the historical side of science, especially the improvement of scientific tools. I would like to represent classic scientific tool or reinvent them.<br/>
 <br/>
-###History of Incubator
+### History of Incubator
 [Wiki page]（https://en.m.wikipedia.org/wiki/Incubator_(culture)） written about incubator is interesting.<br>
 <br>
 I am surprised that incubator has long history. At the same time, I'm interested in the multiplicity in the use of it.<br>
@@ -48,7 +48,8 @@ Later, an American physician Julius H. Hess created the first electric infant in
 I was fascinated the history of incubator. I think there is a keyword = "care": caring baby and caring cells. <br/>
 <br/>
 👉Infant-incubator-formed incubator for cell culture?<br/>
-###Centrifuge<br/>
+<br/>
+### Centrifuge
 Classic design of centrifuge (1941, made by Shimazu Seisaku-sho)<br/>
 ![centrifuge in 1941_1](/photo/1941centrifuge_1.jpg)<br/>
 ![centrifuge in 1941_2](/photo/1941centrifuge_2.jpg)<br/>

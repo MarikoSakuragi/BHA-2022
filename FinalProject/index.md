@@ -21,21 +21,22 @@ Inspirations<br/>
 I want to put historical elements of science into my final project.<br/>
 I'm interested in not only the brand-new science but also the historical side of science, especially the improvement of scientific tools. I would like to represent classic scientific tool or reinvent them.<br/>
 <br/>
-富山の薬売り<br/>
-Reference: 「置き薬の歴史」(https://www.zenhaikyo.com/history/)<br/>
-![富山の置き薬](FinalProject/photo/Okigusuri1.jpg)<br!>
-![富山の置き薬](FinalProject/photo/Okigusuri2.jpg)<br!>
+・地元、富山の薬売り　箱状のリュック、持ち運べる箪笥のようなもの<br/>
+→売り歩く。何かを？　バイオ系の行商人みたいな人がいたら面白いんじゃないか<br/>
+細胞とかを持ち運べないか<br/>
+<br/>
+Reference: [「置き薬の歴史」](https://www.zenhaikyo.com/history/)<br/>
+![富山の置き薬1](/photo/Okigusuri1.jpg)<br!>
+![富山の置き薬2](/photo/Okigusuri2.jpg)<br!>
 <br!>
 ### History of Incubator
-[Wiki page written about incubator is interesting.]（https://en.m.wikipedia.org/wiki/Incubator_(culture)）<br>
+[Wiki page]（https://en.m.wikipedia.org/wiki/Incubator_(culture)） written about incubator is interesting.<br>
 <br>
 I am surprised that incubator has long history. At the same time, I'm interested in the multiplicity in the use of it.<br>
 <br>
-I thought that incubator is the machine that helps cell culture.<br>
-But not only in science, it has also been used in medical purpose. <br>
+I thought that incubator is the machine that helps cell culture.But not only in science, it has also been used in medical purpose. <br>
 <br>
-To begin with, incubator is not intended for scientific purpose. <br>
-The earliest incubators were used for warming chicken eggs in ancient Egypt and China. <br>
+To begin with, incubator is not intended for scientific purpose. The earliest incubators were used for warming chicken eggs in ancient Egypt and China. <br>
 In the 17th century, a entomologist Rene-Antoine Ferchault de Reaumur invented more sophisticated incubator. Reaumur made the incubater with a wood stove. <br>
 <br>
 ![infant incubator](FinalProject/photo/Incubatrice_di_Hess.jpg)<br>

@@ -3,7 +3,7 @@
 リサーチャーなので、調査をベースとしたものにしたい<br/>
 <br/>
 ## Ideas and keywords
-
+3/18
 **Mobility**<br/>
 I'm interested in the challenges in DIYbio to make laboratory mobile.<br/>
 Go outside from laboratory<br/>
@@ -26,8 +26,7 @@ I'm interested in not only the brand-new science but also the historical side of
 細胞とかを持ち運べないか<br/>
 <br/>
 Reference: [「置き薬の歴史」](https://www.zenhaikyo.com/history/)<br/>
-![富山の置き薬1](/photo/Okigusuri1.jpg)<br/>
-![富山の置き薬2](/photo/Okigusuri2.jpg)<br/>
+![富山の置き薬1](/photo/Okigusuri1.jpg)![富山の置き薬2](/photo/Okigusuri2.jpg)<br/>
 <br/>
 ・History of Incubator
 [Wiki page]（https://en.m.wikipedia.org/wiki/Incubator_(culture)） written about incubator is interesting.<br>
@@ -45,3 +44,11 @@ In 19th, incubator began to be used for culturing cell. Moreover, doctors found 
 Later, an American physician Julius H. Hess created the first electric infant incubator.<br>
 <br>
 I was fascinated the history of incubator. I think there is a keyword = "care": caring baby and caring cells. <br/>
+<br/>
+👉Infant-incubator-formed incubator for cell culture?
+***
+**Centrifuge**<br/>
+Classic design of centrifuge (1941, made by Shimazu Seisaku-sho)<br/>
+![centrifuge in 1941_1](FinalProject/photo/1941centrifuge_1.jpg)<br/>
+![centrifuge in 1941_2](FinalProject/photo/1941centrifuge_2.jpg)<br/>
+<br/>

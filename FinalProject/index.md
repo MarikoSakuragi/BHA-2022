@@ -20,7 +20,9 @@ Inspirations<br/>
 **History**<br/>
 I want to put historical elements of science into my final project.<br/>
 I'm interested in not only the brand-new science but also the historical side of science, especially the improvement of scientific tools. I would like to represent classic scientific tool or reinvent them.<br/>
-
+![富山の置き薬](FinalProject/photo/Okigusuri1.jpg)<br!>
+![富山の置き薬](FinalProject/photo/Okigusuri2.jpg)<br!>
+<br!>
 ### History of Incubator
 [Wiki page written about incubator is interesting.]（https://en.m.wikipedia.org/wiki/Incubator_(culture)）<br>
 <br>

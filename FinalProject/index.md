@@ -45,7 +45,7 @@ Later, an American physician Julius H. Hess created the first electric infant in
 <br>
 I was fascinated the history of incubator. I think there is a keyword = "care": caring baby and caring cells. <br/>
 <br/>
-👉Infant-incubator-formed incubator for cell culture?
+👉Infant-incubator-formed incubator for cell culture?<br/>
 ***
 **Centrifuge**<br/>
 Classic design of centrifuge (1941, made by Shimazu Seisaku-sho)<br/>

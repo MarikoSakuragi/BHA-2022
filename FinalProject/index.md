@@ -49,6 +49,6 @@ I was fascinated the history of incubator. I think there is a keyword = "care": 
 ***
 **Centrifuge**<br/>
 Classic design of centrifuge (1941, made by Shimazu Seisaku-sho)<br/>
-![centrifuge in 1941_1](FinalProject/photo/1941centrifuge_1.jpg)<br/>
-![centrifuge in 1941_2](FinalProject/photo/1941centrifuge_2.jpg)<br/>
+![centrifuge in 1941_1](/photo/1941centrifuge_1.jpg)<br/>
+![centrifuge in 1941_2](/photo/1941centrifuge_2.jpg)<br/>
 <br/>

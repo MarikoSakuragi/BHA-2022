@@ -3,7 +3,7 @@
 リサーチャーなので、調査をベースとしたものにしたい<br/>
 <br/>
 ## Ideas and keywords
-3/18
+3/18<br>
 **Mobility**<br/>
 I'm interested in the challenges in DIYbio to make laboratory mobile.<br/>
 Go outside from laboratory<br/>
@@ -16,19 +16,21 @@ Inspirations<br/>
 <br/>
 👉Can scientists be free from their laboratory?<br/>
 👉Can scientists go travel over the world with mobile scientific tool-kit?<br/>
-
-**History**<br/>
-I want to put historical elements of science into my final project.<br/>
-I'm interested in not only the brand-new science but also the historical side of science, especially the improvement of scientific tools. I would like to represent classic scientific tool or reinvent them.<br/>
 <br/>
 ・地元、富山の薬売り　箱状のリュック、持ち運べる箪笥のようなもの<br/>
+・蟲師の箱的な<br/>
 →売り歩く。何かを？　バイオ系の行商人みたいな人がいたら面白いんじゃないか<br/>
 細胞とかを持ち運べないか<br/>
 <br/>
 Reference: [「置き薬の歴史」](https://www.zenhaikyo.com/history/)<br/>
 ![富山の置き薬1](/photo/Okigusuri1.jpg)![富山の置き薬2](/photo/Okigusuri2.jpg)<br/>
 <br/>
-・History of Incubator
+<br/>
+**History**<br/>
+I want to put historical elements of science into my final project.<br/>
+I'm interested in not only the brand-new science but also the historical side of science, especially the improvement of scientific tools. I would like to represent classic scientific tool or reinvent them.<br/>
+<br/>
+###History of Incubator
 [Wiki page]（https://en.m.wikipedia.org/wiki/Incubator_(culture)） written about incubator is interesting.<br>
 <br>
 I am surprised that incubator has long history. At the same time, I'm interested in the multiplicity in the use of it.<br>
@@ -46,8 +48,7 @@ Later, an American physician Julius H. Hess created the first electric infant in
 I was fascinated the history of incubator. I think there is a keyword = "care": caring baby and caring cells. <br/>
 <br/>
 👉Infant-incubator-formed incubator for cell culture?<br/>
-***
-**Centrifuge**<br/>
+###Centrifuge<br/>
 Classic design of centrifuge (1941, made by Shimazu Seisaku-sho)<br/>
 ![centrifuge in 1941_1](/photo/1941centrifuge_1.jpg)<br/>
 ![centrifuge in 1941_2](/photo/1941centrifuge_2.jpg)<br/>

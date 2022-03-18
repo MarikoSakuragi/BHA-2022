@@ -26,10 +26,10 @@ I'm interested in not only the brand-new science but also the historical side of
 細胞とかを持ち運べないか<br/>
 <br/>
 Reference: [「置き薬の歴史」](https://www.zenhaikyo.com/history/)<br/>
-![富山の置き薬1](/photo/Okigusuri1.jpg)<br!>
-![富山の置き薬2](/photo/Okigusuri2.jpg)<br!>
-<br!>
-### History of Incubator
+![富山の置き薬1](/photo/Okigusuri1.jpg)<br/>
+![富山の置き薬2](/photo/Okigusuri2.jpg)<br/>
+<br/>
+・History of Incubator
 [Wiki page]（https://en.m.wikipedia.org/wiki/Incubator_(culture)） written about incubator is interesting.<br>
 <br>
 I am surprised that incubator has long history. At the same time, I'm interested in the multiplicity in the use of it.<br>
@@ -39,7 +39,7 @@ I thought that incubator is the machine that helps cell culture.But not only in 
 To begin with, incubator is not intended for scientific purpose. The earliest incubators were used for warming chicken eggs in ancient Egypt and China. <br>
 In the 17th century, a entomologist Rene-Antoine Ferchault de Reaumur invented more sophisticated incubator. Reaumur made the incubater with a wood stove. <br>
 <br>
-![infant incubator](FinalProject/photo/Incubatrice_di_Hess.jpg)<br>
+![infant incubator](/photo/Incubatrice_di_Hess.jpg)<br>
 <br>
 In 19th, incubator began to be used for culturing cell. Moreover, doctors found that it could be apllied to keep premature infants alive. <br>
 Later, an American physician Julius H. Hess created the first electric infant incubator.<br>

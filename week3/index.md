@@ -42,13 +42,14 @@ But, I failed to download OpenSCAD and FreeCad due to the security reason of Mac
 <br/>
 ## Making Spur Gear by Fusion360
 For an excercise, I made a spur gear. <br/>
-**Reference**
-[【歯車マスターへの道】超入門編・Fusion360での歯車の作り方](https://www.youtube.com/watch?v=fEFBxSfHgyg)<br/>
-[Fusion360による歯車設計](https://fabble.cc/robotakun/fusion360xxxxxxx)<br/>
+**Reference**<br/>
+・[【歯車マスターへの道】超入門編・Fusion360での歯車の作り方](https://www.youtube.com/watch?v=fEFBxSfHgyg)<br/>
+・[Fusion360で歯車を簡単に作る方法｜噛み合わせて回転させるには？](https://www.fact-cam.co.jp/product/2019/10/fusion360/archives/000447.html)<br/>
+・[Fusion360による歯車設計](https://fabble.cc/robotakun/fusion360xxxxxxx)<br/>
 ---
 <br/>
 | Standard　| Metric　|
-|----|----|
+|-----------|---------|
 | Pressure Angle | 20deg　|
 | Module | 1　|
 | Number of Teeth | 24 |

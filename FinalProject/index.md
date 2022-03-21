@@ -55,6 +55,17 @@ Classic design of centrifuge (1941, made by Shimazu Seisaku-sho)<br/>
 ![centrifuge in 1941_2](/photo/1941centrifuge_2.jpg)<br/>
 <br/>
 <br/>
-References
-[『島津化学器械目録』（1941）200号](https://dl.ndl.go.jp/info:ndljp/pid/1875752)(Link to National Diet Library Digital Collections)<br/>
+**References**
+<br/>
+[・『島津化学器械目録』（1941）200号](https://dl.ndl.go.jp/info:ndljp/pid/1875752) (From National Diet Library Digital Collections)<br/>
+[・『島津化学器械目録』（1936）300号](https://dl.ndl.go.jp/info:ndljp/pid/1172650)<br/>
 [・「光学顕微鏡の技術系統化調査」(PDF)](https://dl.ndl.go.jp/view/download/digidepo_11546712_po_101.pdf?contentNo=1&alternativeNo=)(I haven't read yet)<br/>
+[・Evolution of the Laboratory Centrifuge (PDF)](https://cdn2.hubspot.net/hubfs/547446/LabManager/Downloads/Infographics/Centrifuge/LM_Centrifuge_Infographic-2017-final.pdf?t=1501057410560)<br/>
+<br/>
+『医療筌蹄. 上巻 』
+ヘルマン・リーデル 著[他] (南江堂, 1897)<br/>
+ドイツ製の遠心分離機が紹介<br/>
+<br/>
+p.219<br/>
+「スチーンベック、リッテンの遠心分離機（Steenbech-Litten’sche Centrifuge）は特に尿を速かに沈澱せしめ、之に依て診断を速定し得るの目的にて案出せしものなり。／此器械は手柄を装せし曲柄（a）に依て廻転せられ、而して歯輪伝搬の作用に依て需要の回転速力を得るものに＊青銅色の台上に鋼鉄円柱ありて之に二個の硝子管（cc）を有する遠心分離臀（b）を附せり。／小硝子円筒（第百二十六回（？））は此器械に供用すへき液を入るるに充て且つ硝子/p.220/の破裂に於けるか如き不慮の事変を予防せん為め金属鞘（第百二十五回（？）c）の中に包容す。／器械の安置し在るときは硝子円筒及ひ金属鞘は横棹の両端に於て鉛直に懸吊し、器械の動作を＊なむときは金属鞘と硝子円筒は一個の間接中に運動し得るを以て高挙せられて、第百二十五回の點線を以て仮示せるか如く横棹と同方向即ち地平の方向を取って振動す、此際液を充填（漢字）しある円筒硝子の其基底は一圏の周辺を描き其中心を横棹の中央に在す、此遠心力に依って液中の固形分即ち最も重き成分は圏の最外部即ち硝子円筒の基底に向/p.221/つて駆逐せらる而して既に全く固形文を沈澱するの后は之を吸液菅に取りて顕微鏡的及ひ化学的に固形分の検査に着手すへし。（以下略）」<br/>
+<br/>

@@ -27,3 +27,33 @@ This time, I have localized BHA's DIY magnetic stirrer.<br/>
 <br/>
 STLダウンロード参考<br/>
 ![STLダウンロード参考](https://www.kkaneko.jp/db/cg/blenderimportexport.html#S3)<br/>
+<br/>
+### 1. Using 3D modeling software
+
+## Lists of software
+I have used software shown below<br/>
+・SketchUp<br/>
+・OpenSCAD<br/>
+・FreeCAD<br/>
+・Blender<br/>
+・Fusion360<br/>
+<br/>
+But, I failed to download OpenSCAD and FreeCad due to the security reason of Macbook.<br/>
+<br/>
+## Making Spur Gear by Fusion360
+For excercise, I made a spur gear, using a YouTube video and blog posts as a reference.<br/>
+---
+Reference:[【歯車マスターへの道】超入門編・Fusion360での歯車の作り方](https://www.youtube.com/watch?v=fEFBxSfHgyg)<br/>
+[Fusion360による歯車設計](https://fabble.cc/robotakun/fusion360xxxxxxx)<br/>
+---
+<br/>
+| :Standard:　| :Metric:　|　数字の単位（cm/inch。Metricがcm）
+| Pressure Angle | 20deg　|（刃先の大きさ）
+| Module | 1　|ピッチ円➗歯車数
+| Number of Teeth | 24　|歯車の数
+| Backlash | 0.00mm |「遊び」
+| Root Fillet Radius | 0.00mm |
+| Gear Thickness | 2.5mm　|（ギアの厚さ）
+| Hole Diameter | 2.5mm　 |（穴の大きさ）
+| Pitch Diameter | 24.00mm |（自動計算）
+<br/>

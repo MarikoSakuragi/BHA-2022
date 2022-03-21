@@ -80,5 +80,11 @@ About items...<br/>
 ・Hole Diameter: The size of hole<br/>
 ・Pitch Diameter: 〃  <br/>
 <br/>
+・A spur gear will be shown.
 ![Gear6](/photo/Fusion_pic_6.jpeg)<br/>
+<br/>
+・I add a small spun gear. It can be easily made by changing the number of teeth when setting details.<br/>
+![Gear7](/photo/Fusion_pic_7.jpeg)<br/>
+<br/>
+<br/>
 <br/>

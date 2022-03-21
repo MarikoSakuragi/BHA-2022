@@ -31,14 +31,12 @@ STLダウンロード参考<br/>
 ### 1. Using 3D modeling software
 
 ## Lists of software
-I have used software shown below<br/>
+I have used software shown below.But I failed to download OpenSCAD and FreeCad due to the security reason of Macbook.<br/>
 ・SketchUp<br/>
 ・OpenSCAD<br/>
 ・FreeCAD<br/>
 ・Blender<br/>
 ・Fusion360<br/>
-<br/>
-But, I failed to download OpenSCAD and FreeCad due to the security reason of Macbook.<br/>
 <br/>
 ## Making Spur Gear by Fusion360
 For an excercise, I made a spur gear. <br/>
@@ -47,8 +45,8 @@ For an excercise, I made a spur gear. <br/>
 ・[【歯車マスターへの道】超入門編・Fusion360での歯車の作り方](https://www.youtube.com/watch?v=fEFBxSfHgyg)<br/>
 ・[Fusion360で歯車を簡単に作る方法｜噛み合わせて回転させるには？](https://www.fact-cam.co.jp/product/2019/10/fusion360/archives/000447.html)<br/>
 ・[Fusion360による歯車設計](https://fabble.cc/robotakun/fusion360xxxxxxx)<br/>
----
-![Fusion](/photo/Fusion_pic_2.jpeg)<br/>
+<br/>
+![Fusion](/photo/Fusion_pic_1.jpeg)<br/>
 <br/>
 ・ Utirity -> Add-in<br/>
 ![Gear2](/photo/Fusion_pic_2.jpeg)<br/>

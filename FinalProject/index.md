@@ -59,10 +59,10 @@ Classic design of centrifuge (1941, made by Shimazu Seisaku-sho)<br/>
 <br/>
 [・『島津化学器械目録』（1941）200号](https://dl.ndl.go.jp/info:ndljp/pid/1875752) (From National Diet Library Digital Collections)<br/>
 [・『島津化学器械目録』（1936）300号](https://dl.ndl.go.jp/info:ndljp/pid/1172650)<br/>
-[・「光学顕微鏡の技術系統化調査」(PDF)](https://dl.ndl.go.jp/view/download/digidepo_11546712_po_101.pdf?contentNo=1&alternativeNo=)(I haven't read yet)<br/>
+[・「光学顕微鏡の技術系統化調査」(PDF)](https://dl.ndl.go.jp/view/download/digidepo_11546712_po_101.pdf?contentNo=1&alternativeNo=)<br/>
 [・Evolution of the Laboratory Centrifuge (PDF)](https://cdn2.hubspot.net/hubfs/547446/LabManager/Downloads/Infographics/Centrifuge/LM_Centrifuge_Infographic-2017-final.pdf?t=1501057410560)<br/>
 <br/>
-『医療筌蹄. 上巻 』
+[・『医療筌蹄. 上巻 』](https://dl.ndl.go.jp/info:ndljp/pid/833119/20?tocOpened=1)<br/>
 ヘルマン・リーデル 著[他] (南江堂, 1897)<br/>
 ドイツ製の遠心分離機が紹介<br/>
 <br/>

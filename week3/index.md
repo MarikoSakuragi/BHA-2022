@@ -69,15 +69,16 @@ For an excercise, I made a spur gear. <br/>
 | Pitch Diameter　|　2.5mm　|
 <br/>
 <br/>
-Standard: Unit of length<br/>
-Pressure Angle: The size of the cutting edge<br/>
-Module: Pitch Diameter/Number of Teeth<br/>
-Number o Teeth: 〃 <br/>
-Backlash: The expansion gap<br/>
-Root Fillet Radius: <br/>
-Gear Thickness: The thickness of gear<br/>
-Hole Diameter: The size of hole<br/>
-Pitch Diameter: 〃  <br/>
+About items...<br/>
+・Standard: Unit of length<br/>
+・Pressure Angle: The size of the cutting edge<br/>
+・Module: Pitch Diameter/Number of Teeth<br/>
+・Number o Teeth: 〃 <br/>
+・Backlash: The expansion gap<br/>
+・Root Fillet Radius: <br/>
+・Gear Thickness: The thickness of gear<br/>
+・Hole Diameter: The size of hole<br/>
+・Pitch Diameter: 〃  <br/>
 <br/>
 ![Gear6](/photo/Fusion_pic_6.jpeg)<br/>
 <br/>

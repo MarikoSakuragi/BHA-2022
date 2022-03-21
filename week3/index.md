@@ -25,8 +25,8 @@ This time, I have localized BHA's DIY magnetic stirrer.<br/>
 ・Click "Code" and "Open with GitHub Desktop," the GitHub Desktop automatically open, and you can edit the code.<br/>
 ![Local6](/photo/w3_screenshot_6.png)<br/>
 <br/>
-STLダウンロード参考<br/>
-![STLダウンロード参考](https://www.kkaneko.jp/db/cg/blenderimportexport.html#S3)<br/>
+<br/>
+Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/cg/blenderimportexport.html#S3)<br/>
 <br/>
 ### 1. Using 3D modeling software
 
@@ -83,7 +83,7 @@ About items...<br/>
 ・A spur gear will be shown.
 ![Gear6](/photo/Fusion_pic_6.jpeg)<br/>
 <br/>
-・I add a small spun gear. It can be easily made by changing the number of teeth when setting details.<br/>
+・I added another small spun gear. It can be easily made by changing the number of teeth when setting details.<br/>
 ![Gear7](/photo/Fusion_pic_7.jpeg)<br/>
 <br/>
 <br/>

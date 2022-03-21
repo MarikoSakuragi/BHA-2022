@@ -31,7 +31,7 @@ Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/c
 ## 2. Using 3D modeling software
 
 ### Lists of software
-I have used software shown below.But I failed to download OpenSCAD and FreeCad due to the security reason of Macbook.<br/>
+I downloaded and tried to use these software shown below. However, I failed to download OpenSCAD and FreeCad due to the security reason of Macbook. About SketchUp, it appeared that it is usable to create something by myself but  cannot be used for installing STL file unless I update (that means I have to resister the paid version). Also, handling Blender was, in my impression, too high-level for amateur like me. I thought it would be necessary more practice for dealing with these softwares well.<br/>
 ・SketchUp<br/>
 ・OpenSCAD<br/>
 ・FreeCAD<br/>

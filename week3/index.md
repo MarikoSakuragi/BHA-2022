@@ -2,7 +2,7 @@
 In this week, we are going to get used to fabrication tools (3D printer, laser cutter, and 3D design software). The purpose of this week is to learn how to make hardware by using fabrication tools.<br/>
 I guess this week gonna be a hardest challenge for me who haven’t had any experiences of using either design nor modeling software...<br/>
 <br/>
-### 1. Localize GitHub repositories
+## 1. Localize GitHub repositories
 "Localize" means to clone a remote repository and save it in your page.<br/>
 By localizing, you can edit the codes and files of the original.<br/>
 <br/>
@@ -28,9 +28,9 @@ This time, I have localized BHA's DIY magnetic stirrer.<br/>
 <br/>
 Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/cg/blenderimportexport.html#S3)<br/>
 <br/>
-### 1. Using 3D modeling software
+## 2. Using 3D modeling software
 
-## Lists of software
+### Lists of software
 I have used software shown below.But I failed to download OpenSCAD and FreeCad due to the security reason of Macbook.<br/>
 ・SketchUp<br/>
 ・OpenSCAD<br/>
@@ -38,7 +38,7 @@ I have used software shown below.But I failed to download OpenSCAD and FreeCad d
 ・Blender<br/>
 ・Fusion360<br/>
 <br/>
-## Making Spur Gear by Fusion360
+### Making Spur Gear by Fusion360
 For an excercise, I made a spur gear. <br/>
 <br/>
 **Reference**<br/>
@@ -48,10 +48,10 @@ For an excercise, I made a spur gear. <br/>
 <br/>
 ![Fusion](/photo/Fusion_pic_1.jpeg)<br/>
 <br/>
-・ Utirity -> Add-in<br/>
+・ This is start screent of Fusion360.<br/>
 ![Gear2](/photo/Fusion_pic_2.jpeg)<br/>
 <br/>
-・ Select "SpurGear" from a list -> 「実行」<br/>
+・ Utirity -> Add-in- > Select "SpurGear" from a list -> 「実行」<br/>
 ![Gear3](/photo/Fusion_pic_3.jpeg)<br/>
 <br/>
 ・ Setting of a spur gear<br/>

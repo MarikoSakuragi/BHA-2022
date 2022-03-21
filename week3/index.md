@@ -48,9 +48,18 @@ For an excercise, I made a spur gear. <br/>
 ・[Fusion360で歯車を簡単に作る方法｜噛み合わせて回転させるには？](https://www.fact-cam.co.jp/product/2019/10/fusion360/archives/000447.html)<br/>
 ・[Fusion360による歯車設計](https://fabble.cc/robotakun/fusion360xxxxxxx)<br/>
 ---
+![Fusion](/photo/Fusion_pic_2.jpeg)<br/>
+<br/>
 ・ Utirity -> Add-in<br/>
+![Gear2](/photo/Fusion_pic_2.jpeg)<br/>
+<br/>
 ・ Select "SpurGear" from a list -> 「実行」<br/>
+![Gear3](/photo/Fusion_pic_3.jpeg)<br/>
+<br/>
 ・ Setting of a spur gear<br/>
+![Gear4](/photo/Fusion_pic_4.jpeg)<br/>
+![Gear5](/photo/Fusion_pic_5.jpeg)<br/>
+<br/>
 **Settings**<br/>
 | Standard　|　Metric　|
 | Pressure Angle　|　20deg　|
@@ -70,4 +79,6 @@ Root Fillet Radius: <br/>
 Gear Thickness: The thickness of gear<br/>
 Hole Diameter: The size of hole<br/>
 Pitch Diameter: 〃  <br/>
+<br/>
+![Gear6](/photo/Fusion_pic_6.jpeg)<br/>
 <br/>

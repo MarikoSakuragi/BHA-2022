@@ -48,7 +48,10 @@ For an excercise, I made a spur gear. <br/>
 ・[Fusion360で歯車を簡単に作る方法｜噛み合わせて回転させるには？](https://www.fact-cam.co.jp/product/2019/10/fusion360/archives/000447.html)<br/>
 ・[Fusion360による歯車設計](https://fabble.cc/robotakun/fusion360xxxxxxx)<br/>
 ---
-
+・ Utirity -> Add-in<br/>
+・ Select "SpurGear" from a list -> 「実行」<br/>
+・ Setting of a spur gear<br/>
+**Settings**<br/>
 | Standard　|　Metric　|
 | Pressure Angle　|　20deg　|
 | Module　|　1　|
@@ -56,4 +59,5 @@ For an excercise, I made a spur gear. <br/>
 | Backlash　|　0mm　|
 | Root Fillet Radius　|　0mm　|
 | Gear Thickness　|　2.5mm　|
-|　Pitch Diameter　|　2.5mm　|
+| Pitch Diameter　|　2.5mm　|
+<br/>

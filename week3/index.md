@@ -61,3 +61,13 @@ For an excercise, I made a spur gear. <br/>
 | Gear Thickness　|　2.5mm　|
 | Pitch Diameter　|　2.5mm　|
 <br/>
+Standard: Unit of length<br/>
+Pressure Angle: The size of the cutting edge<br/>
+Module: Pitch Diameter/Number of Teeth<br/>
+Number o Teeth: 〃 <br/>
+Backlash: The expansion gap<br/>
+Root Fillet Radius: <br/>
+Gear Thickness: The thickness of gear<br/>
+Hole Diameter: The size of hole<br/>
+Pitch Diameter: 〃  <br/>
+<br/>

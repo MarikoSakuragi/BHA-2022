@@ -31,7 +31,7 @@ I want to put historical elements of science into my final project.<br/>
 I'm interested in not only the brand-new science but also the historical side of science, especially the improvement of scientific tools. I would like to represent classic scientific tool or reinvent them.<br/>
 <br/>
 ### History of Incubator
-[Wiki page]（https://en.m.wikipedia.org/wiki/Incubator_(culture)） written about incubator is interesting.<br>
+[Wiki page](https://en.m.wikipedia.org/wiki/Incubator_(culture)) written about incubator is interesting.<br>
 <br>
 I am surprised that incubator has long history. At the same time, I'm interested in the multiplicity in the use of it.<br>
 <br>
@@ -54,3 +54,7 @@ Classic design of centrifuge (1941, made by Shimazu Seisaku-sho)<br/>
 ![centrifuge in 1941_1](/photo/1941centrifuge_1.jpg)<br/>
 ![centrifuge in 1941_2](/photo/1941centrifuge_2.jpg)<br/>
 <br/>
+<br/>
+References
+[『島津化学器械目録』（1941）200号](https://dl.ndl.go.jp/info:ndljp/pid/1875752)(Link to National Diet Library Digital Collections)<br/>
+[・「光学顕微鏡の技術系統化調査」(PDF)](https://dl.ndl.go.jp/view/download/digidepo_11546712_po_101.pdf?contentNo=1&alternativeNo=)(I haven't read yet)<br/>

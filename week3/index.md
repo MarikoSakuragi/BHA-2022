@@ -48,14 +48,13 @@ For an excercise, I made a spur gear. <br/>
 ・[Fusion360による歯車設計](https://fabble.cc/robotakun/fusion360xxxxxxx)<br/>
 ---
 <br/>
-| Standard　| Metric　|
-|-----------|---------|
-| Pressure Angle | 20deg　|
-| Module | 1　|
-| Number of Teeth | 24 |
-| Backlash | 0.00mm |
-| Root Fillet Radius | 0.00mm |
-| Gear Thickness | 2.5mm|
-| Hole Diameter | 2.5mm　|
-| Pitch Diameter | 24.00mm |
+|  Standard   |  Metric   |
+|  Pressure Angle   |  20deg   |
+|  Module   |   1  |
+|  Number of Teeth  |  24   |
+|  Backlash   |  0mm   |
+|  Root Fillet Radius   |   0mm  |
+|  Gear Thickness   |  2.5mm   |
+|  Pitch Diameter   |  2.5mm   |
+
 <br/>

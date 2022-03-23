@@ -88,16 +88,31 @@ About items...<br/>
 <br/>
 <br/>
 ## 3. Akihabara Tour (optional)
-<br/>
-3/19(Sat)
+## 3/19(Sat)
 As an option of BHA, we did Akihabara tour for looking around electric parts shops. Akihabara is well-known as a electric town which has long history..<br/>
+![Akihabara1](/photo/Akihabara_1.jpg)<br/>
 <br/>
 We visited a lot of shops. Georg, our local instructor, led the way to an area where old stores were lined up along the street and into an alley. Under the low ceilings with exposed piping and electric lights, there was a cluster of small stores with countless goods and parts crammed into as many as possible. There was a store specializing in radio equipment, an audio store selling used videotapes and cassette tapes, a store selling only electrical buttons, etc.
 There were There were also used goods like junk on sale. It was the first time for me to visit such a place, and so to the other female participants. We were curious about everything. <br/>
+![Akihabara2](/photo/Akihabara_2.jpg)<br/>
 <br/>
-Next, we visited to an old building called "Tokyo Radio Department Store(東京ラジオデパート)," which was entirely occupied by parts stores, and then went on a short walk to Akitsuki Denshi Tsusho(秋月電気通商) and Sengoku Densho（千石電商）, both specialized in electric parts and tools. In Akitsuki Denshi Tsusho, the walls of the not-so-spacious store were filled with drawers, and each of the small drawers held various small electronic parts such as resistors, sensors, USB connectors, and so on. Georg opened the drawers and showed me their contents, which all looked the same to me. This is an Arduino, Georg said, and he found a microcomputer Arduino and showed it to me. Georg told us that the Arduino was easy to operate and that we would be able to use it in no time. We opened the drawers at random, and got excited talking to each other about the parts in them and what they were. There were more people than expected, and the store was packed with customers. <br/>
+Next, we visited to an old building called "Tokyo Radio Department Store(東京ラジオデパート)," which was entirely occupied by parts stores.<br/>
+![Akihabara3](/photo/Akihabara_3.jpg)<br/>
+![Akihabara4](/photo/Akihabara_4.jpg)<br/>
+<br/>
+And then went on a short walk to Akitsuki Denshi Tsusho(秋月電気通商) and Sengoku Densho(千石電商), both specialized in electric parts and tools.
+![Akihabara5](/photo/Akihabara_5.jpg)<br/>
+<br/>
+In Akitsuki Denshi Tsusho, the walls of the not-so-spacious store were filled with drawers, and each of the small drawers held various small electronic parts such as resistors, sensors, USB connectors, and so on.
+![Akihabara6](/photo/Akihabara_6.jpg)<br/>
+![Akihabara7](/photo/Akihabara_7.jpg)<br/>
+<br/>
+Georg opened the drawers and showed us their contents, which all looked the same to me. This is an Arduino, Georg said, and he found a microcomputer Arduino and showed it to me. Georg told us that the Arduino was easy to operate and that we would be able to use it in no time. We opened the drawers at random, and got excited talking to each other about the parts in them and what they were. There were more people than expected, and the store was packed with customers. <br/>
+![Akihabara8](/photo/Akihabara_8.jpg)<br/>
+![Akihabara9](/photo/Akihabara_9.jpg)<br/>
 <br/>
 Finally, we went to "Hard-Off" in Akihabara which is a second-hand shop. Hard-Off was a mess of used stereo equipment, used cables, headphones, and tablets. <br/>
+![Akihabara10](/photo/Akihabara_10.jpg)<br/>
 Around 4p.m., our tour came to an end. It was exciting excursion!<br/>
 <br/>
 <br/>

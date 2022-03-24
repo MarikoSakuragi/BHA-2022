@@ -4,12 +4,12 @@
 <br>
 ## 2. Biology Basic
 ### The diversity of life<br/>
-Aristotle, Carl Linnaeus, Ernst Haeckel… They made distinction of life in different way.<br/>
--> How difficult it is to categorize organisms.<br/>
+Aristotle, Carl Linnaeus, Ernst Haeckel… They made distinction of life in different way. It shows how difficult it is to categorize organisms.<br/>
 <br/>
 Complex cells, single cells<br/>
 <br/>
 ### <font color="Olive">Bacteria</font>
+![Bacteria_pic](/photo/Bacteria_pic-2.jpg)
 ・Found in soils and water<br/>
 ・Eats carbohydrates<br/>
 <br/>
@@ -34,6 +34,8 @@ Behave like animal (have memory)<br/>
 ・Material<br/>
 <br/>
 ### <font color="Olive">Slime Mold</font>
+![slimemold_pic](/photo/slime-moldjpg.jpg)<br/>
+[Image from Here](https://pixabay.com/photos/slime-mold-trichia-decipiens-2798148/)<br/>
 ・Unclear how to categorize them<br/>
 <br/>
 ・Single celled amoebas<br/>

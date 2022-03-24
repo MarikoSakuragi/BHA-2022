@@ -104,7 +104,6 @@ And then went on a short walk to Akitsuki Denshi Tsusho(秋月電気通商) and 
 ![Akihabara5](/photo/Akihabara_5.jpg)<br/>
 <br/>
 In Akitsuki Denshi Tsusho, the walls of the not-so-spacious store were filled with drawers, and each of the small drawers held various small electronic parts such as resistors, sensors, USB connectors, and so on.
-![Akihabara6](/photo/Akihabara_6.jpg)<br/>
 ![Akihabara7](/photo/Akihabara_7.jpg)<br/>
 <br/>
 Georg opened the drawers and showed us their contents, which all looked the same to me. This is an Arduino, Georg said, and he found a microcomputer Arduino and showed it to me. Georg told us that the Arduino was easy to operate and that we would be able to use it in no time. We opened the drawers at random, and got excited talking to each other about the parts in them and what they were. There were more people than expected, and the store was packed with customers. <br/>
@@ -114,5 +113,4 @@ Georg opened the drawers and showed us their contents, which all looked the same
 Finally, we went to "Hard-Off" in Akihabara which is a second-hand shop. Hard-Off was a mess of used stereo equipment, used cables, headphones, and tablets. <br/>
 ![Akihabara10](/photo/Akihabara_10.jpg)<br/>
 Around 4p.m., our tour came to an end. It was exciting excursion!<br/>
-<br/>
 <br/>

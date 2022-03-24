@@ -1,9 +1,9 @@
 # Week4
-## Biosafety
+## 1. Biosafety
 （・・・・・）<br>
 <br>
-## Biology Basic
-The diversity of life<br/>
+## 2. Biology Basic
+### The diversity of life<br/>
 Aristotle, Carl Linnaeus, Ernst Haeckel… They made distinction of life in different way.<br/>
 -> How difficult it is to categorize organisms.<br/>
 <br/>
@@ -13,7 +13,7 @@ Complex cells, single cells<br/>
 ・Found in soils and water<br/>
 ・Eats carbohydrates<br/>
 <br/>
-**Characteristics and uses**<br/>
+*Characteristics and uses*<br/>
 ・Violacein<br/>
 ・Antioxidant, anti-fungal and anti-bacterial effects<br/>
 ・Dye<br/>
@@ -21,13 +21,13 @@ Complex cells, single cells<br/>
 ### <font color="Olive">Fungi</font>
 <br/>
 ![Fungi_pic](/photo/Fungi_pic.jpg)<br/>
-(The image is from Unsplash)<br/>
+(I cited this image from [Unsplash](https://unsplash.com))<br/>
 <br/>
-Mushroom, Mycelium（菌糸体）, Eats cellulose(wood)<br/>
+Mushroom, Mycelium(菌糸体), Eats cellulose(wood)<br/>
 Behave like animal (have memory)<br/>
 <br/>
-**Characteristics and uses**<br/>
-・Network: Wood wide web　<br/>
+*Characteristics and uses*<br/>
+・Network: Wood wide web<br/>
   interact with other organisms (flowers, trees, plants, etc)<br/>
 ・Antibacterial Properties: Penicillin<br/>
 ・Bioremediation<br/>

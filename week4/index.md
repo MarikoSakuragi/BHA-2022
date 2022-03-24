@@ -9,7 +9,7 @@ Aristotle, Carl Linnaeus, Ernst Haeckel… They made distinction of life in diff
 Complex cells, single cells<br/>
 <br/>
 ### <font color="Olive">Bacteria</font>
-![Bacteria_pic](/photo/Bacteria_pic-2.jpg)
+![Bacteria_pic](/photo/Bacteria_pic-2.jpg)<br/>
 ・Found in soils and water<br/>
 ・Eats carbohydrates<br/>
 <br/>
@@ -21,7 +21,7 @@ Complex cells, single cells<br/>
 ### <font color="Olive">Fungi</font>
 <br/>
 ![Fungi_pic](/photo/Fungi_pic.jpg)<br/>
-(I cited this image from [Unsplash](https://unsplash.com))<br/>
+[Image from here](https://unsplash.com))<br/>
 <br/>
 Mushroom, Mycelium(菌糸体), Eats cellulose(wood)<br/>
 Behave like animal (have memory)<br/>
@@ -35,7 +35,8 @@ Behave like animal (have memory)<br/>
 <br/>
 ### <font color="Olive">Slime Mold</font>
 ![slimemold_pic](/photo/slime-moldjpg.jpg)<br/>
-[Image from Here](https://pixabay.com/photos/slime-mold-trichia-decipiens-2798148/)<br/>
+[Image from here](https://pixabay.com/photos/slime-mold-trichia-decipiens-2798148/)<br/>
+<br/>
 ・Unclear how to categorize them<br/>
 <br/>
 ・Single celled amoebas<br/>

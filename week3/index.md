@@ -4,7 +4,7 @@ I guess this week gonna be a hardest challenge for me who haven’t had any expe
 <br/>
 ## 1. Folking GitHub repositories
 "Folking" means to clone a remote repository and save it in your page.<br/>
-By localizing, you can edit the codes and files of the original.<br/>
+By folking, you can edit the codes and files of the original.<br/>
 <br/>
 ・Access to the original repository<br/>
 This time, I have localized BHA's DIY magnetic stirrer.<br/>
@@ -92,7 +92,7 @@ About items...<br/>
 As an option of BHA, we did Akihabara tour for looking around electric parts shops. Akihabara is well-known as a electric town which has long history..<br/>
 ![Akihabara1](/photo/Akihabara_1.jpg)<br/>
 <br/>
-We visited a lot of shops. Georg, our local instructor, led the way to an area where old stores were lined up along the street and into an alley. Under the low ceilings with exposed piping and electric lights, there was a cluster of small stores with countless goods and parts crammed into as many as possible. There was a store specializing in radio equipment, an audio store selling used videotapes and cassette tapes, a store selling only electrical buttons, etc.
+We visited a lot of shops. Georg-san, our local instructor, led the way to an area where old stores were lined up along the street and into an alley. Under the low ceilings with exposed piping and electric lights, there was a cluster of small stores with countless goods and parts crammed into as many as possible. There was a store specializing in radio equipment, an audio store selling used videotapes and cassette tapes, a store selling only electrical buttons, etc.
 There were There were also used goods like junk on sale. It was the first time for me to visit such a place, and so to the other female participants. We were curious about everything. <br/>
 ![Akihabara2](/photo/Akihabara_2.jpg)<br/>
 <br/>
@@ -106,7 +106,7 @@ And then went on a short walk to Akitsuki Denshi Tsusho(秋月電気通商) and 
 In Akitsuki Denshi Tsusho, the walls of the not-so-spacious store were filled with drawers, and each of the small drawers held various small electronic parts such as resistors, sensors, USB connectors, and so on.
 ![Akihabara7](/photo/Akihabara_7.jpg)<br/>
 <br/>
-Georg opened the drawers and showed us their contents, which all looked the same to me. This is an Arduino, Georg said, and he found a microcomputer Arduino and showed it to me. Georg told us that the Arduino was easy to operate and that we would be able to use it in no time. We opened the drawers at random, and got excited talking to each other about the parts in them and what they were. There were more people than expected, and the store was packed with customers. <br/>
+Georg-san opened the drawers and showed us their contents, but these all looked the same to me. This is an Arduino, Georg-san said, and he found a microcomputer Arduino and showed it to me. Georg-san told us that the Arduino was easy to operate and that we would be able to use it in no time. We opened the drawers at random, and got excited talking to each other about the parts in them and what they were. There were more people than expected, and the store was packed with customers. <br/>
 ![Akihabara8](/photo/Akihabara_8.jpg)<br/>
 ![Akihabara9](/photo/Akihabara_9.jpg)<br/>
 <br/>

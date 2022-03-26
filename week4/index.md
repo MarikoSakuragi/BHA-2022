@@ -91,15 +91,35 @@ Write it down!<br/>
 ・Your plan and how to execute it.<br/>
 ・All the steps that you performed.<br/>
 <br/>
-<font color="Olive">(4)Results</font><br/>
+<font color="Olive">(4) Results</font><br/>
 A. What are my observations?<br/>
 B. Be as specific as possible<br/>
 c. Be objective, co conclusions or judgement<br/>
 (Just make sure that what are the observation.)<br/>
 <br/>
-<font color="Olive">Conclusion</font><br/>
+<font color="Olive">(5) Conclusion</font><br/>
 a. How do your observation compare to your predictions?<br/>
 B. Do your observations back up your hypothesis?<br/>
 C. What is the answer of your research question?<br/>
 D. (What new research question comes up?)<br/>
 <br/>
+## How To Make Mediums
+### Standard Mediums
+**Contents**<br/>
+・Water 500ml<br/>
+・Sugar 15g<br/>
+・Agar 6g<br/>
+・Vitamin (optional)<br/>
+<br/>
+**How to make**<br/>
+1. Mix every contents
+Make a mixture of agar and nutrients to glow organisms.<br/>
+(1) Put a stirrer bar into a little bigger flask.<br/>
+(2) Pour 500ml water into the flask.<br/>
+(3) Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
+(4)Mix (3) into the water.(It is easier to put the powders if you fold the weighing paper diagnally.)<br/>
+(4) Turn on the magnetic stirrer to mix up the water and the others.<br/>
+2. Sterilization
+
+(1) Autoclave<br/>
+水が入っているかをチェックする。<br/>

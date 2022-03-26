@@ -8,7 +8,7 @@ Aristotle, Carl Linnaeus, Ernst Haeckel… They made distinction of life in diff
 <br/>
 Complex cells, single cells<br/>
 <br/>
-### <font color="Olive">Bacteria</font>
+<font color="Olive">Bacteria</font><br/>
 ![Bacteria_pic](/photo/Bacteria_pic-2.jpg)<br/>
 ・Found in soils and water<br/>
 ・Eats carbohydrates<br/>
@@ -18,10 +18,10 @@ Complex cells, single cells<br/>
 ・Antioxidant, anti-fungal and anti-bacterial effects<br/>
 ・Dye<br/>
 <br/>
-### <font color="Olive">Fungi</font>
+<font color="Olive">Fungi</font><br/>
 <br/>
 ![Fungi_pic](/photo/Fungi_pic.jpg)<br/>
-[Image from here](https://unsplash.com))<br/>
+[Image from here](https://unsplash.com)<br/>
 <br/>
 Mushroom, Mycelium(菌糸体), Eats cellulose(wood)<br/>
 Behave like animal (have memory)<br/>
@@ -33,7 +33,7 @@ Behave like animal (have memory)<br/>
 ・Bioremediation<br/>
 ・Material<br/>
 <br/>
-### <font color="Olive">Slime Mold</font>
+<font color="Olive">Slime Mold</font><br/>
 ![slimemold_pic](/photo/slime-moldjpg.jpg)<br/>
 [Image from here](https://pixabay.com/photos/slime-mold-trichia-decipiens-2798148/)<br/>
 <br/>
@@ -48,4 +48,58 @@ Behave like animal (have memory)<br/>
 　Similarity with robot.<br/>
 <br/>
 ### Survival of the Fittest
+Survival of the Fittest(「適者生存」in Japanese)<br/>
+<br/>
+### Limits to Growth or Petridish Planet
+・Competition for Resources: Food (nutrients), Energy, Space, Water.<br/>
+・Evading Competition: Temperature, Chemicals, Radiation, Gravity<br/>
+<br/>
+### SCOBY
+“Symbiotic culture of bacteria and yeast”<br/>
+Combination/collaboration of organisms.<br/>
+<br/>
+Yeast to produce alcohol from sugar<br/>
+Bacteria to produce acid from alcohol<br/>
+<br/>
+Bacteria produce cellulose<br/>
+<br/>
+### Symbiosis
+“Sym” = “Together”, “Bio” = “Living”<br/>
+Cell is one of the example of symbiosis.<br/>
+<br/>
+### Central Paradigm: DNA-RNA-Protein-Trait
+Any organisms have DNA（DNA=information sources）<br/>
+DNA(Gene) -> RNA(Message) -> Protein<br/>
+<br/>
+### How to observe and writing down
+Empirical Cycle …Basis of observation.<br/>
+What you have done.<br/>
+If you go through the steps all the time, it is much easier to gather information whole experiments.<br/>
+<br/>
+<font color="Olive">(1) Research Question</font><br/>
+A. What do you want to research?<br/>
+<br/>
+<font color="Olive">(2) Hypothesis</font><br/>
+A. What do you think is the answer to your Research Questions?<br/>
+B. Why do you think this?<br/>
+<br/>
+<font color="Olive">(3) Prediction</font><br/>
+A. What do you think is this will show in your experiment?<br/>
+B. Describe your expected results.<br/>
+<br/>
+Write it down!<br/>
+・Your plan and how to execute it.<br/>
+・All the steps that you performed.<br/>
+<br/>
+<font color="Olive">(4)Results</font><br/>
+A. What are my observations?<br/>
+B. Be as specific as possible<br/>
+c. Be objective, co conclusions or judgement<br/>
+(Just make sure that what are the observation.)<br/>
+<br/>
+<font color="Olive">Conclusion</font><br/>
+a. How do your observation compare to your predictions?<br/>
+B. Do your observations back up your hypothesis?<br/>
+C. What is the answer of your research question?<br/>
+D. (What new research question comes up?)<br/>
 <br/>

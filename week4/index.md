@@ -103,8 +103,8 @@ B. Do your observations back up your hypothesis?<br/>
 C. What is the answer of your research question?<br/>
 D. (What new research question comes up?)<br/>
 <br/>
-## How To Make Mediums
-### Standard Mediums
+## Making Mediums
+### Standard Medium
 **Contents**<br/>
 ・Water 500ml<br/>
 ・Sugar 15g<br/>
@@ -112,14 +112,19 @@ D. (What new research question comes up?)<br/>
 ・Vitamin (optional)<br/>
 <br/>
 **How to make**<br/>
-1. Mix every contents
+1. Mix every contents<br/>
 Make a mixture of agar and nutrients to glow organisms.<br/>
 (1) Put a stirrer bar into a little bigger flask.<br/>
 (2) Pour 500ml water into the flask.<br/>
 (3) Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
 (4)Mix (3) into the water.(It is easier to put the powders if you fold the weighing paper diagnally.)<br/>
 (4) Turn on the magnetic stirrer to mix up the water and the others.<br/>
-2. Sterilization
-
+2. Sterilization<br/>
+滅菌する理由。・・・オートクレーブは、高温の蒸気で殺菌を行う機械。<br/>
 (1) Autoclave<br/>
-水が入っているかをチェックする。<br/>
+・水が入っているかをチェックする。<br/>
+・オートクレーブテープ<br/>
+・蓋を締め切ると暴発するので、少しゆるめておくこと<br/>
+・スイッチを入れ、〇〇分。（注意事項）加圧自体が終わっても、圧力が下がり切るまでは開けない。<br/>
+3. Pour Liquid Solution into Petridish<br/>
+<br/>

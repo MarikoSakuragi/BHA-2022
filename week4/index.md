@@ -103,8 +103,9 @@ B. Do your observations back up your hypothesis?<br/>
 C. What is the answer of your research question?<br/>
 D. (What new research question comes up?)<br/>
 <br/>
-## Making Mediums
+## 3. Making Mediums
 ### Standard Medium
+**3/22(Tue) & 3/24(Thu)**<br/>
 **Contents**<br/>
 ・Water 500ml<br/>
 ・Sugar 15g<br/>
@@ -183,6 +184,20 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 [・Organisms (Waag Society)](http://biohackacademy.github.io/bha7/organisms/)<br/>
 <br/>
 ## Combucha
+**3/24(Thu)**<br/>
+![Combucha_1](week4/photo/Combucha_1.jpg)<br/>
+![Combucha_2](week4/photo/Combucha_2.jpg)<br/>
+![Combucha_3](week4/photo/Combucha_3.jpg)<br/>
+![Combucha_4](week4/photo/Combucha_4.jpg)<br/>
+![Combucha_5](week4/photo/Combucha_5.jpg)<br/>
+![Combucha_6](week4/photo/Combucha_6.jpg)<br/>
+![Combucha_7](week4/photo/Combucha_7.jpg)<br/>
+![Combucha_8](week4/photo/Combucha_8.jpg)<br/>
+![Combucha_9](week4/photo/Combucha_9.jpg)<br/>
+![Combucha_10](week4/photo/Combucha_10.jpg)<br/>
+![Combucha_11](week4/photo/Combucha_11.jpg)<br/>
+<br/>
 ![Combucha in refrigerator](/photo/92215.jpg)<br/>
+Waiting for growing...
 <br/>
 <br/>

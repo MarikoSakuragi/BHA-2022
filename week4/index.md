@@ -141,12 +141,13 @@ Place: My kitchen<br/>
 ### Contents
 ![DIY medium Contents](/photo/92198.jpg)<br/>
 <br/>
-・Water 250ml<br/>
+　・Water 250ml<br/>
 　・Agar 4g<br/>
 　・Sugar 6g<br/>
 　・Chicken Soup 2g<br/>
 <br/>
 I bought them from supermarket and ドンキ・ホーテ (a discount chain store). Plus I bought a small alcohol spray in a 100-yen shop for sterilization.<br/>
+<br/>
 If you want to make more special mediums, you should add other stuffs (yeast extract（酵母エキス）, for example).<br/>
 ![Alcohol Spray](/photo/92201.jpg)<br/>
 <br/>
@@ -155,6 +156,7 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 ![Kitchen counter](/photo/92202.jpg)<br/>
 <br/>
 (2) Measure what is need. As I didn't have a scale, I used sugar and agar which packed in small portions.<br/>
+<br/>
 (3) Mix water, agar, sugar, and chicken soup in a pot.<br/>
 ![Mixing](/photo/92203.jpg)<br/>
 <br/>
@@ -179,4 +181,8 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 **References**<br/>
 [・Lists of Medium (Waag Society)](http://biohackacademy.github.io/bha7/cultivation-media/)<br/>
 [・Organisms (Waag Society)](http://biohackacademy.github.io/bha7/organisms/)<br/>
+<br/>
+## Combucha
+![Combucha in refrigerator](/photo/92215.jpg)<br/>
+<br/>
 <br/>

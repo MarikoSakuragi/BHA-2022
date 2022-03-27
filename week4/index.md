@@ -185,6 +185,13 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 <br/>
 ## Combucha
 **3/24(Thu)**<br/>
+![Combucha_package](/photo/Combucha_package.jpg)<br/>
+<div style="text-align: center;">Combucha starter kit</div><br/>
+<br/>
+You can buy it from [Amazon](https://www.amazon.co.jp/WORLD-KOMBUCHA（ワールドコンブチャ）-KOMBUCHA（ワールドコンブチャ）コンブチャスターターキット-ブラックティー【コンブチャ培養キット-菌株（スコビー）と茶葉、日本語説明書セット】/dp/B07S1LXXNT/ref=sr_1_1_sspa?__mk_ja_JP=カタカナ&crid=1YTH3I6DXEYXG&keywords=kombucha+scoby&qid=1648396402&sprefix=kombucha+scob%2Caps%2C268&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNjVTQ1JWNEFRU1JMJmVuY3J5cHRlZElkPUEwMTEzNjA3MVdYTzhaU0dBRDE4UCZlbmNyeXB0ZWRBZElkPUEzVjVaVlBYNFBBUVJUJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)<br/>
+The price is ¥3,456.<br/>
+You can make Combucha from 500ml〜2gallon(3.8L) by
+<br/>
 ![Combucha_1](/photo/Combucha_1.jpg)<br/>
 ![Combucha_2](/photo/Combucha_2.jpg)<br/>
 <br/>

@@ -71,7 +71,7 @@ Cell is one of the example of symbiosis.<br/>
 Any organisms have DNA（DNA=information sources）<br/>
 DNA(Gene) -> RNA(Message) -> Protein<br/>
 <br/>
-### How to observe and writing down
+### How to observe and write down
 Empirical Cycle …Basis of observation.<br/>
 What you have done.<br/>
 If you go through the steps all the time, it is much easier to gather information whole experiments.<br/>
@@ -119,6 +119,7 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 (3) Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
 (4)Mix (3) into the water.(It is easier to put the powders if you fold the weighing paper diagnally.)<br/>
 (4) Turn on the magnetic stirrer to mix up the water and the others.<br/>
+<br/>
 2. Sterilization<br/>
 滅菌する理由。・・・オートクレーブは、高温の蒸気で殺菌を行う機械。<br/>
 (1) Autoclave<br/>
@@ -126,5 +127,40 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 ・オートクレーブテープ<br/>
 ・蓋を締め切ると暴発するので、少しゆるめておくこと<br/>
 ・スイッチを入れ、〇〇分。（注意事項）加圧自体が終わっても、圧力が下がり切るまでは開けない。<br/>
+.<br/>
 3. Pour Liquid Solution into Petridish<br/>
+・オートクレーブから出したフラスコをクリーンベンチの中に入れる。
+・容器からディッシュに１〜３mmほど溶液を注ぎ、入れ終わったら蓋を閉める（やけどに注意）
+・（YCAMはヤカンでやっている！！）
+・滅菌済みでないもの（容器）をクリーンベンチの中に入れるときは、クリーンベンチに入れる前にアルコールスプレーを吹きかけて殺菌する。
+<br/>
+<br/>
+## Homemade Medium
+3/27(Sun)
+Place: My kitchen<br/>
+Medium:<br/>
+　・Water 250ml<br/>
+　・Agar 4g<br/>
+　・Sugar 6g<br/>
+　・Chicken Soup 2g<br/>
+I bought them from supermarket and ドンキ・ホーテ(a discount chain store).<br/>
+Plus, I bought a small alcohol spray in a 100-yen shop for sterilization.<br/>
+If you want to make more specialized mediums for culturing special organisms, you should add other stuffs (yeast extract（酵母エキス）, for example).<br/>
+<br/>
+### Protocol
+1. Clean up the kitchen. I tried to sterilize the kitchen counter by spraying alcohol. I also sprayed alcohol to a measuring cup, a pot, and a spoon.<br/>
+2. Measure what is need. As I didn't have a scale, I used sugar and agar which packed in small portions.<br/>
+3. Mix water, agar, sugar, and chicken soup in a pot.<br/>
+4. After the water comes to a boil, turn the heat to low and cook for 2 minutes with dissolving with spoon.<br/>
+5. Pour it into plates.<br/>
+6. Seal the plate's lid. Parafilm is generally used for it, but in this time I used a clingfilm（サランラップ）.<br/>
+7. Cool them down until the agar get hard. It will take 1 day(?) till agar become hard.<br/>
+<br/>
+**Questions**<br/>
+・Can I put sugar and chicken broth together? Or is it enough to put either?<br/>
+・It was unexpectedly difficult to make a sterilized space in my kitchen. I tried to keep there clean as possible as I could by spraying alcohol, I did not know to what extent I should clean up.<br/>
+・Putting the petri dishes in the fridge might help it harden faster. But I did not it because I was not sure the inside of refrigerator is clean.<br/>
+<br/>
+[・Lists of Medium (Waag Society)](http://biohackacademy.github.io/bha7/cultivation-media/)<br/>
+[・Organisms (Waag Society)](http://biohackacademy.github.io/bha7/organisms/)<br/>
 <br/>

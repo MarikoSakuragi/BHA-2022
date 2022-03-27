@@ -136,31 +136,31 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 <br/>
 <br/>
 ## Homemade Medium
-3/27(Sun)
+**3/27(Sun)**<br/>
 Place: My kitchen<br/>
-Medium:<br/>
+### Contents
 　・Water 250ml<br/>
 　・Agar 4g<br/>
 　・Sugar 6g<br/>
 　・Chicken Soup 2g<br/>
-I bought them from supermarket and ドンキ・ホーテ(a discount chain store).<br/>
-Plus, I bought a small alcohol spray in a 100-yen shop for sterilization.<br/>
-If you want to make more specialized mediums for culturing special organisms, you should add other stuffs (yeast extract（酵母エキス）, for example).<br/>
+I bought them from supermarket and ドンキ・ホーテ(a discount chain store). Plus I bought a small alcohol spray in a 100-yen shop for sterilization.<br/>
+If you want to make more special mediums, you should add other stuffs (yeast extract（酵母エキス）, for example).<br/>
 <br/>
 ### Protocol
-1. Clean up the kitchen. I tried to sterilize the kitchen counter by spraying alcohol. I also sprayed alcohol to a measuring cup, a pot, and a spoon.<br/>
-2. Measure what is need. As I didn't have a scale, I used sugar and agar which packed in small portions.<br/>
-3. Mix water, agar, sugar, and chicken soup in a pot.<br/>
-4. After the water comes to a boil, turn the heat to low and cook for 2 minutes with dissolving with spoon.<br/>
-5. Pour it into plates.<br/>
-6. Seal the plate's lid. Parafilm is generally used for it, but in this time I used a clingfilm（サランラップ）.<br/>
-7. Cool them down until the agar get hard. It will take 1 day(?) till agar become hard.<br/>
+(1) Clean up the kitchen. I tried to sterilize the kitchen counter by spraying alcohol. I also sprayed alcohol to a measuring cup, a pot, and a spoon.<br/>
+(2) Measure what is need. As I didn't have a scale, I used sugar and agar which packed in small portions.<br/>
+(3) Mix water, agar, sugar, and chicken soup in a pot.<br/>
+(4) After the water comes to a boil, turn the heat to low and cook for 2 minutes with dissolving with spoon.<br/>
+(5) Pour it into plates.<br/>
+(6) Seal the plate's lid. Parafilm is generally used for it, but in this time I used a clingfilm（サランラップ）.<br/>
+(7) Cool them down until the agar get hard. It will take 1 day(?) till agar become hard.<br/>
 <br/>
-**Questions**<br/>
+### Questions
 ・Can I put sugar and chicken broth together? Or is it enough to put either?<br/>
 ・It was unexpectedly difficult to make a sterilized space in my kitchen. I tried to keep there clean as possible as I could by spraying alcohol, I did not know to what extent I should clean up.<br/>
 ・Putting the petri dishes in the fridge might help it harden faster. But I did not it because I was not sure the inside of refrigerator is clean.<br/>
 <br/>
+**References**<br/>
 [・Lists of Medium (Waag Society)](http://biohackacademy.github.io/bha7/cultivation-media/)<br/>
 [・Organisms (Waag Society)](http://biohackacademy.github.io/bha7/organisms/)<br/>
 <br/>

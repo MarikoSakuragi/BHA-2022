@@ -185,17 +185,17 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 <br/>
 ## Combucha
 **3/24(Thu)**<br/>
-![Combucha_1](week4/photo/Combucha_1.jpg)<br/>
-![Combucha_2](week4/photo/Combucha_2.jpg)<br/>
-![Combucha_3](week4/photo/Combucha_3.jpg)<br/>
-![Combucha_4](week4/photo/Combucha_4.jpg)<br/>
-![Combucha_5](week4/photo/Combucha_5.jpg)<br/>
-![Combucha_6](week4/photo/Combucha_6.jpg)<br/>
-![Combucha_7](week4/photo/Combucha_7.jpg)<br/>
-![Combucha_8](week4/photo/Combucha_8.jpg)<br/>
-![Combucha_9](week4/photo/Combucha_9.jpg)<br/>
-![Combucha_10](week4/photo/Combucha_10.jpg)<br/>
-![Combucha_11](week4/photo/Combucha_11.jpg)<br/>
+![Combucha_1](/photo/Combucha_1.jpg)<br/>
+![Combucha_2](/photo/Combucha_2.jpg)<br/>
+![Combucha_3](/photo/Combucha_3.jpg)<br/>
+![Combucha_4](/photo/Combucha_4.jpg)<br/>
+![Combucha_5](/photo/Combucha_5.jpg)<br/>
+![Combucha_6](/photo/Combucha_6.jpg)<br/>
+![Combucha_7](/photo/Combucha_7.jpg)<br/>
+![Combucha_8](/photo/Combucha_8.jpg)<br/>
+![Combucha_9](/photo/Combucha_9.jpg)<br/>
+![Combucha_10](/photo/Combucha_10.jpg)<br/>
+![Combucha_11](/photo/Combucha_11.jpg)<br/>
 <br/>
 ![Combucha in refrigerator](/photo/92215.jpg)<br/>
 Waiting for growing...

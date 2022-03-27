@@ -139,21 +139,37 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 **3/27(Sun)**<br/>
 Place: My kitchen<br/>
 ### Contents
-　・Water 250ml<br/>
+![DIY medium Contents](/photo/92198.jpg)<br/>
+<br/>
+・Water 250ml<br/>
 　・Agar 4g<br/>
 　・Sugar 6g<br/>
 　・Chicken Soup 2g<br/>
-I bought them from supermarket and ドンキ・ホーテ(a discount chain store). Plus I bought a small alcohol spray in a 100-yen shop for sterilization.<br/>
+<br/>
+I bought them from supermarket and ドンキ・ホーテ (a discount chain store). Plus I bought a small alcohol spray in a 100-yen shop for sterilization.<br/>
 If you want to make more special mediums, you should add other stuffs (yeast extract（酵母エキス）, for example).<br/>
+![Alcohol Spray](/photo/92201.jpg)<br/>
 <br/>
 ### Protocol
-(1) Clean up the kitchen. I tried to sterilize the kitchen counter by spraying alcohol. I also sprayed alcohol to a measuring cup, a pot, and a spoon.<br/>
+(1) Clean up kitchen at first(unless you keep it clean always). I tried to sterilize the kitchen counter by spraying alcohol. I also sprayed alcohol to a measuring cup, a pot, and a spoon.<br/>
+![Kitchen counter](/photo/92202.jpg)<br/>
+<br/>
 (2) Measure what is need. As I didn't have a scale, I used sugar and agar which packed in small portions.<br/>
 (3) Mix water, agar, sugar, and chicken soup in a pot.<br/>
+![Mixing](/photo/92203.jpg)<br/>
+<br/>
 (4) After the water comes to a boil, turn the heat to low and cook for 2 minutes with dissolving with spoon.<br/>
+![Mixing2](/photo/92207.jpg)<br/>
+<br/>
 (5) Pour it into plates.<br/>
+![Pouring](/photo/92211.jpg)<br/>
+![Pouring2](/photo/92212.jpg)<br/>
+<br/>
 (6) Seal the plate's lid. Parafilm is generally used for it, but in this time I used a clingfilm（サランラップ）.<br/>
+![Closing](/photo/92213.jpg)<br/>
+<br/>
 (7) Cool them down until the agar get hard. It will take 1 day(?) till agar become hard.<br/>
+![Cool down](/photo/92214.jpg)<br/>
 <br/>
 ### Questions
 ・Can I put sugar and chicken broth together? Or is it enough to put either?<br/>

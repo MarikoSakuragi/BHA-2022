@@ -187,6 +187,8 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 **3/24(Thu)**<br/>
 ![Combucha_1](/photo/Combucha_1.jpg)<br/>
 ![Combucha_2](/photo/Combucha_2.jpg)<br/>
+<br/>
+SCOBY/Combucha is speaking!😲<br/>
 ![Combucha_3](/photo/Combucha_3.jpg)<br/>
 ![Combucha_4](/photo/Combucha_4.jpg)<br/>
 ![Combucha_5](/photo/Combucha_5.jpg)<br/>

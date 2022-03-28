@@ -190,7 +190,7 @@ Combucha is known as healthy food. It is totally different from what we Japanese
 <br/>
 *"[K]ombucha is a fermented and sweetened tea often made with black or green tea. It is largely classified as a functional beverage, meaning that it is a non-alcoholic drink that contains vitamins, amino acids or other nutrients associated with health benefits. The process of preparing kombucha can vary but generally involves a double fermentation process wherein a SCOBY (a pancake-shaped symbiotic culture of bacteria and yeast) is placed in a sweetened tea mixture and left to ferment at room temperature for 1-3 weeks, and then bottled for 1-2 weeks to contain released CO2 and encourage carbonation."*<br/>
 <br/>
-The interesting point is that Combucha is made not of tea leaves but bacteria and yeast. According to a instruction manual with the Combucha kit, the taste is fruity. Moreover, the taste changes as fermentation proceeds. <br/>
+The interesting point is that Combucha is made of bacteria and yeast.<br/> Although instruction manual with the Combucha kit says that the taste is fruity, and the taste changes as fermentation proceeds, I can't imagine what it tastes like.<br/>
 <br/>
 As written above, it is a general to drink it with mixing it with blacktea, we tried to make several mixture of tea and Kombucha(昆布茶) as our experiments. We made 10 bottles of Combucha in different ratio of tea and Kombucha.
 ![Combucha_package](/photo/Combucha_package.jpg)<br/>
@@ -205,6 +205,7 @@ As written above, it is a general to drink it with mixing it with blacktea, we t
 <br/>
 SCOBY/Combucha is speaking!😲<br/>
 ![Combucha_3](/photo/Combucha_3.jpg)<br/>
+<br/>
 ![Combucha_4](/photo/Combucha_4.jpg)<br/>
 ![Combucha_5](/photo/Combucha_5.jpg)<br/>
 ![Combucha_6](/photo/Combucha_6.jpg)<br/>
@@ -214,6 +215,7 @@ SCOBY/Combucha is speaking!😲<br/>
 ![Combucha_10](/photo/Combucha_10.jpg)<br/>
 ![Combucha_11](/photo/Combucha_11.jpg)<br/>
 <br/>
+Each of us took home Combucha filled in a container. I put it in a refrigerator. <br/>
 ![Combucha in refrigerator](/photo/92215.jpg)<br/>
 Waiting for growing...
 <br/>

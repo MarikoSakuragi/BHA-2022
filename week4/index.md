@@ -5,6 +5,7 @@
 ## [3. Making Mediums](#making-mediums)<br>
 ## [4. Combucha](#combucha)<br>
 (3/28 Note. I have finally learned how to make index inside a page.)<br>
+<br>
 ## Biosafety
 （・・・・・）<br>
 <br>
@@ -119,27 +120,27 @@ D. (What new research question comes up?)<br/>
 ・Vitamin (optional)<br/>
 <br/>
 **How to make**<br/>
-1. Mix every contents<br/>
+(1)Mix every contents<br/>
 Make a mixture of agar and nutrients to glow organisms.<br/>
-(1) Put a stirrer bar into a little bigger flask.<br/>
-(2) Pour 500ml water into the flask.<br/>
-(3) Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
-(4)Mix (3) into the water.(It is easier to put the powders if you fold the weighing paper diagnally.)<br/>
-(4) Turn on the magnetic stirrer to mix up the water and the others.<br/>
+　a)Put a stirrer bar into a little bigger flask.<br/>
+　b) Pour 500ml water into the flask.<br/>
+　c) Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
+　d)Mix (c) into the water.(It is easier to put the powders if you fold the weighing paper diagnally.)<br/>
+　e) Turn on the magnetic stirrer to mix up the water and the others.<br/>
 <br/>
-2. Sterilization<br/>
+(2)Sterilization<br/>
 滅菌する理由。・・・オートクレーブは、高温の蒸気で殺菌を行う機械。<br/>
-(1) Autoclave<br/>
-・水が入っているかをチェックする。<br/>
-・オートクレーブテープ<br/>
-・蓋を締め切ると暴発するので、少しゆるめておくこと<br/>
-・スイッチを入れ、〇〇分。（注意事項）加圧自体が終わっても、圧力が下がり切るまでは開けない。<br/>
+What is Autoclave?<br/>
+　a)水が入っているかをチェックする。<br/>
+　b)オートクレーブテープ<br/>
+　c)蓋を締め切ると暴発するので、少しゆるめておくこと<br/>
+　d)スイッチを入れ、〇〇分。（注意事項）加圧自体が終わっても、圧力が下がり切るまでは開けない。<br/>
 .<br/>
-3. Pour Liquid Solution into Petridish<br/>
-・オートクレーブから出したフラスコをクリーンベンチの中に入れる。
-・容器からディッシュに１〜３mmほど溶液を注ぎ、入れ終わったら蓋を閉める（やけどに注意）
-・（YCAMはヤカンでやっている！！）
-・滅菌済みでないもの（容器）をクリーンベンチの中に入れるときは、クリーンベンチに入れる前にアルコールスプレーを吹きかけて殺菌する。
+(3)Pour Liquid Solution into Petridish<br/>
+　a)オートクレーブから出したフラスコをクリーンベンチの中に入れる。<br/>
+　b)容器からディッシュに１〜３mmほど溶液を注ぎ、入れ終わったら蓋を閉める（やけどに注意）<br/>
+　c)（YCAMはヤカンでやっている！！）<br/>
+　d)滅菌済みでないもの（容器）をクリーンベンチの中に入れるときは、クリーンベンチに入れる前にアルコールスプレーを吹きかけて殺菌する。<br/>
 <br/>
 **Sampling**<br/>
 Rub wherever you like with a cotton swab or a bamboo skewer, then spread it on the surface of medium. The spreading should be done gently.

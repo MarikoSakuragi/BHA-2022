@@ -156,7 +156,7 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 (1) Clean up kitchen at first(unless you keep it clean always). I tried to sterilize the kitchen counter by spraying alcohol. I also sprayed alcohol to a measuring cup, a pot, and a spoon.<br/>
 ![Kitchen counter](/photo/92202.jpg)<br/>
 <br/>
-(2) Measure what is need. As I didn't have a scale, I used sugar and agar which packed in small portions.<br/>
+(2) Measure what is need. As I didn't have a scale, I used sugar and agar which packed in small portions, because it make it easily to measure how many grams.<br/>
 <br/>
 (3) Mix water, agar, sugar, and chicken soup in a pot.<br/>
 ![Mixing](/photo/92203.jpg)<br/>
@@ -185,12 +185,18 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 <br/>
 ## Combucha
 **3/24(Thu)**<br/>
+### What is Combucha?
+Combucha is known as healthy food. It is totally different from what we Japanese know as Kombucha (昆布茶).[The Forbes' article](https://www.forbes.com/sites/christinatroitino/2017/02/01/kombucha-101-demystifying-the-past-present-and-future-of-the-fermented-tea-drink/?sh=617e668e4ae2) explains Combucha(kombucha) as below.<br/>
+<br/>
+*"[K]ombucha is a fermented and sweetened tea often made with black or green tea. It is largely classified as a functional beverage, meaning that it is a non-alcoholic drink that contains vitamins, amino acids or other nutrients associated with health benefits. The process of preparing kombucha can vary but generally involves a double fermentation process wherein a SCOBY (a pancake-shaped symbiotic culture of bacteria and yeast) is placed in a sweetened tea mixture and left to ferment at room temperature for 1-3 weeks, and then bottled for 1-2 weeks to contain released CO2 and encourage carbonation."*<br/>
+<br/>
+As written above, it is a general to drink it with mixing it with blacktea, we tried to make several mixture of tea and Kombucha(昆布茶) as our experiments. We made 10 bottles of Combucha in different ratio of tea and Kombucha.
 ![Combucha_package](/photo/Combucha_package.jpg)<br/>
 <div style="text-align: center;">Combucha starter kit</div><br/>
-<br/>
-You can buy it from [Amazon](https://www.amazon.co.jp/WORLD-KOMBUCHA（ワールドコンブチャ）-KOMBUCHA（ワールドコンブチャ）コンブチャスターターキット-ブラックティー【コンブチャ培養キット-菌株（スコビー）と茶葉、日本語説明書セット】/dp/B07S1LXXNT/ref=sr_1_1_sspa?__mk_ja_JP=カタカナ&crid=1YTH3I6DXEYXG&keywords=kombucha+scoby&qid=1648396402&sprefix=kombucha+scob%2Caps%2C268&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNjVTQ1JWNEFRU1JMJmVuY3J5cHRlZElkPUEwMTEzNjA3MVdYTzhaU0dBRDE4UCZlbmNyeXB0ZWRBZElkPUEzVjVaVlBYNFBBUVJUJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)<br/>
-The price is ¥3,456.<br/>
-You can make Combucha from 500ml〜2gallon(3.8L) by
+・You can buy it from [Amazon](https://www.amazon.co.jp/WORLD-KOMBUCHA（ワールドコンブチャ）-KOMBUCHA（ワールドコンブチャ）コンブチャスターターキット-ブラックティー【コンブチャ培養キット-菌株（スコビー）と茶葉、日本語説明書セット】/dp/B07S1LXXNT/ref=sr_1_1_sspa?__mk_ja_JP=カタカナ&crid=1YTH3I6DXEYXG&keywords=kombucha+scoby&qid=1648396402&sprefix=kombucha+scob%2Caps%2C268&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNjVTQ1JWNEFRU1JMJmVuY3J5cHRlZElkPUEwMTEzNjA3MVdYTzhaU0dBRDE4UCZlbmNyeXB0ZWRBZElkPUEzVjVaVlBYNFBBUVJUJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)<br/>
+・Price: ¥3,456.<br/>
+・With a Japanese instruction manual<br/>
+・You can make Combucha from 500ml〜2gallon(3.8L) by 1 package.<br/>
 <br/>
 ![Combucha_1](/photo/Combucha_1.jpg)<br/>
 ![Combucha_2](/photo/Combucha_2.jpg)<br/>

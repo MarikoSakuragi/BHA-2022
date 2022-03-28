@@ -135,6 +135,11 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 ・（YCAMはヤカンでやっている！！）
 ・滅菌済みでないもの（容器）をクリーンベンチの中に入れるときは、クリーンベンチに入れる前にアルコールスプレーを吹きかけて殺菌する。
 <br/>
+**Sampling**<br/>
+Rub wherever you like with a cotton swab or a bamboo skewer, then spread it on the surface of medium. The spreading should be done gently.
+<br/>
+We took samples from many place: nose, arm skins, plants, surface of masks, the outside air, etc. Next week We will observe whether bacteria has grow on these mediums. <br/>
+![Samples](/photo/IMG20220324212811-2.jpg)<br/>
 <br/>
 ## Homemade Medium
 **3/27(Sun)**<br/>
@@ -174,7 +179,7 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 (7) Cool them down until the agar get hard. It will take 1 day(?) till agar become hard.<br/>
 ![Cool down](/photo/92214.jpg)<br/>
 <br/>
-### Questions
+### <span style="background-color:LightGray">Comments and Questions</span>
 ・Can I put sugar and chicken broth together? Or is it enough to put either?<br/>
 ・It was unexpectedly difficult to make a sterilized space in my kitchen. I tried to keep there clean as possible as I could by spraying alcohol, I did not know to what extent I should clean up.<br/>
 ・Putting the petri dishes in the fridge might help it harden faster. But I did not it because I was not sure the inside of refrigerator is clean.<br/>
@@ -191,6 +196,8 @@ Combucha is known as healthy food. It is totally different from what we Japanese
 *"[K]ombucha is a fermented and sweetened tea often made with black or green tea. It is largely classified as a functional beverage, meaning that it is a non-alcoholic drink that contains vitamins, amino acids or other nutrients associated with health benefits. The process of preparing kombucha can vary but generally involves a double fermentation process wherein a SCOBY (a pancake-shaped symbiotic culture of bacteria and yeast) is placed in a sweetened tea mixture and left to ferment at room temperature for 1-3 weeks, and then bottled for 1-2 weeks to contain released CO2 and encourage carbonation."*<br/>
 <br/>
 The interesting point is that Combucha is made of bacteria and yeast.<br/> Although instruction manual with the Combucha kit says that the taste is fruity, and the taste changes as fermentation proceeds, I can't imagine what it tastes like.<br/>
+<br/>
+[Wikipedia article](https://en.wikipedia.org/wiki/Kombucha) is also detailed.
 <br/>
 As written above, it is a general to drink it with mixing it with blacktea, we tried to make several mixture of tea and Kombucha(昆布茶) as our experiments. We made 10 bottles of Combucha in different ratio of tea and Kombucha.
 ![Combucha_package](/photo/Combucha_package.jpg)<br/>
@@ -214,8 +221,9 @@ SCOBY/Combucha is speaking!😲<br/>
 ![Combucha_9](/photo/Combucha_9.jpg)<br/>
 <br/>
 We put Combucha which was cut into small pieces into the bottles.<br/>
-<br/>
 ![Combucha_10](/photo/Combucha_10.jpg)<br/>
+<br/>
+Done!<br/>
 ![Combucha_11](/photo/Combucha_11.jpg)<br/>
 <br/>
 Each of us took home Combucha filled in a container. I put it in a refrigerator. <br/>

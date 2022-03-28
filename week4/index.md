@@ -1,15 +1,14 @@
 # Week4 Growing Materials
 # Contents
-## [1. Biosafety](#1-biosafety)<br>
-## [2. Biology Basic](#2-biology-basic)<br>
+## [1. Biosafety](#biosafety)<br>
+## [2. Biology Basic](#biology-basic)<br>
 ## [3. Making Mediums](#making-mediums)<br>
 ## [4. Combucha](#combucha)<br>
-<br>
-(3/28: I have finally learned how to make index inside a page.)<br>
-## 1. Biosafety
+(3/28 Note. I have finally learned how to make index inside a page.)<br>
+## Biosafety
 （・・・・・）<br>
 <br>
-## 2. Biology Basic
+## Biology Basic
 ### The diversity of life<br/>
 Aristotle, Carl Linnaeus, Ernst Haeckel… They made distinction of life in different way. It shows how difficult it is to categorize organisms.<br/>
 <br/>
@@ -110,7 +109,7 @@ B. Do your observations back up your hypothesis?<br/>
 C. What is the answer of your research question?<br/>
 D. (What new research question comes up?)<br/>
 <br/>
-## 3. Making Mediums
+## Making Mediums
 ### Standard Medium
 **3/22(Tue) & 3/24(Thu)**<br/>
 **Contents**<br/>

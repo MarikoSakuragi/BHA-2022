@@ -1,3 +1,8 @@
+### [1. Biosafety](week4/BioSafety/)<br>
+### [2. Biology Basic](week4/Biology Basic/)<br>
+### [3. Making Mediums](week4/Medium/)<br>
+### [4. Combucha/SCOBY](week4/Combucha/)<br>
+
 # Week4 Growing Materials
 ## 1. Biosafety
 （・・・・・）<br>
@@ -152,7 +157,7 @@ Place: My kitchen<br/>
 　・Sugar 6g<br/>
 　・Chicken Soup 2g<br/>
 <br/>
-I bought them from supermarket and ドンキ・ホーテ (a discount chain store). Plus I bought a small alcohol spray in a 100-yen shop for sterilization.<br/>
+I bought these items from supermarket and ドンキ・ホーテ (a discount chain store) near my house. Plus I bought a small alcohol spray in a 100-yen shop for sterilization.<br/>
 <br/>
 If you want to make more special mediums, you should add other stuffs (yeast extract（酵母エキス）, for example).<br/>
 ![Alcohol Spray](/photo/92201.jpg)<br/>
@@ -183,6 +188,7 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 ・Can I put sugar and chicken broth together? Or is it enough to put either?<br/>
 ・It was unexpectedly difficult to make a sterilized space in my kitchen. I tried to keep there clean as possible as I could by spraying alcohol, I did not know to what extent I should clean up.<br/>
 ・Putting the petri dishes in the fridge might help it harden faster. But I did not it because I was not sure the inside of refrigerator is clean.<br/>
+・If I have time, I would like to research where I can get the items for the other kind of mediums.<br/>
 <br/>
 **References**<br/>
 [・Lists of Medium (Waag Society)](http://biohackacademy.github.io/bha7/cultivation-media/)<br/>

@@ -1,9 +1,9 @@
 # Week4 Growing Materials
 # Contents
 ## [1. Biosafety](#1.-biosafety)<br>
-## <font color="RoyalBlue">[2. Biology Basic](#2.-biology-basic)</font><br>
-## <font color="RoyalBlue">[3. Making Mediums](#3.-making-mediums)</font><br>
-## <font color="RoyalBlue">[4. Combucha](#combucha)</font><br>
+## [2. Biology Basic](#2.-biology-basic)<br>
+## [3. Making Mediums](#3.-making-mediums)<br>
+## [4. Combucha](#combucha)<br>
 <br>
 ## 1. Biosafety
 （・・・・・）<br>

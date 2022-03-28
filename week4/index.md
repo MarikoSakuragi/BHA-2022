@@ -212,6 +212,9 @@ SCOBY/Combucha is speaking!😲<br/>
 ![Combucha_7](/photo/Combucha_7.jpg)<br/>
 ![Combucha_8](/photo/Combucha_8.jpg)<br/>
 ![Combucha_9](/photo/Combucha_9.jpg)<br/>
+<br/>
+We put Combucha which was cut into small pieces into the bottles.<br/>
+<br/>
 ![Combucha_10](/photo/Combucha_10.jpg)<br/>
 ![Combucha_11](/photo/Combucha_11.jpg)<br/>
 <br/>

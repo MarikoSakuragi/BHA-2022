@@ -1,7 +1,7 @@
-### [1. Biosafety](week4/BioSafety/)<br>
-### [2. Biology Basic](week4/Biology Basic/)<br>
-### [3. Making Mediums](week4/Medium/)<br>
-### [4. Combucha/SCOBY](week4/Combucha/)<br>
+### [1. Biosafety](week4/BioSafety.md/)<br>
+### [2. Biology Basic](week4/Biology Basic.md/)<br>
+### [3. Making Mediums](week4/Medium.md/)<br>
+### [4. Combucha/SCOBY](week4/Combucha.md/)<br>
 
 # Week4 Growing Materials
 ## 1. Biosafety

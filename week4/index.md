@@ -7,7 +7,19 @@
 (3/28 Note. I have finally learned how to make index inside a page.)<br>
 <br>
 ## Biosafety
-（・・・・・）<br>
+### Be careful to "biological agents"<br>
+・The "biological agents" do not include only what causes harm. Rather, they are any micro-organism, including genetically modified, cell culture or endoparasite.<br>
+### Risks inside & outside the Lab
+・We must avoid risks to yourself, populations, environments...and these are connected each other.<br>
+<br>
+### Bio-occupational Health strategy
+・Change material: safe strain [biological containment]<br>
+・Technical measures（containment）<br>
+・Organization（Training, SOPs, access control）<br>
+・Hygiene（Hands wash）<br>
+・PPE（Coat/gown, gloves, glasses, respirator, …）<br>
+・Vaccination（necessary & safficient）<br>
+・Post exposition prophylaxis（PEP: very much dependent on organism）<br>
 <br>
 ## Biology Basic
 ### The diversity of life<br/>
@@ -150,7 +162,7 @@ We took samples from many place: nose, arm skins, plants, surface of masks, the 
 <br/>
 ## Homemade Medium
 **3/27(Sun)**<br/>
-Place: My kitchen<br/>
+I made a DIY medium at my kitchen.<br/>
 ### Contents
 ![DIY medium Contents](/photo/92198.jpg)<br/>
 <br/>
@@ -183,7 +195,7 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 (6) Seal the plate's lid. Parafilm is generally used for it, but in this time I used a clingfilm（サランラップ）.<br/>
 ![Closing](/photo/92213.jpg)<br/>
 <br/>
-(7) Cool them down until the agar get hard. It will take 1 day(?) till agar become hard.<br/>
+(7) Cool them down until the agar get hard. It will take about half a day till agar become hard.<br/>
 ![Cool down](/photo/92214.jpg)<br/>
 <br/>
 ### <span style="background-color:LightGray">Comments and Questions</span>

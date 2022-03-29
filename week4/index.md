@@ -21,6 +21,9 @@
 ・Vaccination（necessary & safficient）<br>
 ・Post exposition prophylaxis（PEP: very much dependent on organism）<br>
 <br>
+### Biosafety Level
+![Biosafety level](/photo/biosafety_level.png.webp)<br>
+<br>
 ## Biology Basic
 ### The diversity of life<br/>
 Aristotle, Carl Linnaeus, Ernst Haeckel… They made distinction of life in different way. It shows how difficult it is to categorize organisms.<br/>

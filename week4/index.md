@@ -22,6 +22,7 @@
 ・Post exposition prophylaxis（PEP: very much dependent on organism）<br>
 <br>
 ### Biosafety Level
+The are four categories of biosafety level.<br>
 ![Biosafety level](/photo/biosafety_level.png.webp)<br>
 [Image from here](https://theconversation.com/i-study-coronavirus-in-a-highly-secured-biosafety-lab-heres-why-i-feel-safer-here-than-in-the-world-outside-139266)<br>
 <br>

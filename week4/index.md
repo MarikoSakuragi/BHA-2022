@@ -142,25 +142,35 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 　(1-1)Put a stirrer bar into a little bigger flask.<br/>
 　(1-2)Pour 500ml water into the flask.<br/>
 　(1-3)Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
+![Medium_1](/photo/92924.jpg)<br/>
+<br/>
 　(1-4)Mix (1-3) into the water.(It is easier to put the powders if you fold the weighing paper diagnally.)<br/>
+![Medium_2](/photo/92920.jpg)<br/>
+<br/>
 　(1-5)Turn on the magnetic stirrer to mix up the water and the others.<br/>
 <br/>
 (2)Sterilization<br/>
 What is Autoclave? ...Autocrave is used to avoid contamination. Autocrave is like a steamcooker that sterilizes by high temprature steam.<br/>
+![Medium_3](/photo/92913.jpg)<br/>
 <br/>
 **How to use**
  (2-1)Before use, it is necessary to check there is water enough inside an autocrave. To check, kick lightly the side of the autocrave and watch whether the water waves at the bottom.<br/>
  (2-3)Cover the mouth of the bottle with aluminium foil. (I forget why...)<br/>
  (2-2)Seal autocrave tape on somewhere of the bottle. It helps to tell whether it has already went through autocrave. After autocraving, stripes appear on the tape.<br/>
-　(2-3)Point: Loose a lid a little to avoid explosion.<br/>
+　Point: Loose a lid a little to avoid explosion.<br/>
+![Medium_4](/photo/92916.jpg)<br/>
+![Medium_5](/photo/92889.jpg)<br/>
 　(2-4)Turn on the switch. Although autocraving takes around 15 minutes, we need to wait longer till the pressure in the autocrave fully fall. <br/>
 .<br/>
 (3)Pour Liquid Solution into Petridish<br/>
 　(3-1)Place the bottle out of the autoclave in a clean bench. Be careful not to burn!<br/>
 　(3-2) Pour the medium into petri dishes from the bottle, about (1〜3mm).<br/>
 　　　　 Point: Minimize the time to open the lid of a petri dish as possible.<br/>
+![Medium_6](/photo/92891.jpg)<br/>
 　(Trivia: YCAM bio-research team uses a kettle instead of glass bottles 👀‼ According to them, kettle is so convenient to pour mediums.)<br/>
 　(3-4)Point: Sterilize EVERYTHING before put them into clean bench by spraying or wiping with alcohol, since bacterias could be on it. <br/>
+![Medium_7](/photo/92912.jpg)<br/>
+![Medium_8](/photo/92885.jpg)<br/>
 <br/>
 **Sampling**<br/>
 Rub wherever you like with a cotton swab or a bamboo skewer, then spread it on the surface of medium. The spreading should be done gently.
@@ -263,7 +273,8 @@ Done!<br/>
 <br/>
 Each of us took home Combucha filled in a container. I put it in a refrigerator. <br/>
 ![Combucha in refrigerator](/photo/92215.jpg)<br/>
-Waiting for growing...
-3/29(Tue) It appeard that I made a mistake. Combucha need not to put into refrigerator, rather it is better to be warmer place for the fermentation.<br/>
+Waiting for growing...<br/>
+<br/>
+3/29(Tue) It appeard that I made a mistake! Combucha need not to put into refrigerator, rather it is better to be warmer place for the fermentation.<br/>
 <br/>
 <br/>

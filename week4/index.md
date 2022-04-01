@@ -139,8 +139,11 @@ D. (What new research question comes up?)<br/>
 **How to make**<br/>
 (1)Mix every contents<br/>
 Make a mixture of agar and nutrients to glow organisms.<br/>
+<br/>
 　(1-1)Put a stirrer bar into a little bigger flask.<br/>
+<br/>
 　(1-2)Pour 500ml water into the flask.<br/>
+<br/>
 　(1-3)Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
 ![Medium_1](/photo/92924.jpg)<br/>
 <br/>
@@ -150,20 +153,26 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 　(1-5)Turn on the magnetic stirrer to mix up the water and the others.<br/>
 <br/>
 (2)Sterilization<br/>
-What is Autoclave? ...Autocrave is used to avoid contamination. Autocrave is like a steamcooker that sterilizes by high temprature steam.<br/>
+**Autocrave** is used to avoid contamination. Autocrave is like a steamcooker that sterilizes by high temprature steam.<br/>
 ![Medium_3](/photo/92913.jpg)<br/>
 <br/>
-**How to use**
+**How to use**<br/>
  (2-1)Before use, it is necessary to check there is water enough inside an autocrave. To check, kick lightly the side of the autocrave and watch whether the water waves at the bottom.<br/>
+ <br/>
  (2-3)Cover the mouth of the bottle with aluminium foil. (I forget why...)<br/>
+ <br/>
  (2-2)Seal autocrave tape on somewhere of the bottle. It helps to tell whether it has already went through autocrave. After autocraving, stripes appear on the tape.<br/>
 　Point: Loose a lid a little to avoid explosion.<br/>
+<br/>
 ![Medium_4](/photo/92916.jpg)<br/>
 ![Medium_5](/photo/92889.jpg)<br/>
+<br/>
 　(2-4)Turn on the switch. Although autocraving takes around 15 minutes, we need to wait longer till the pressure in the autocrave fully fall. <br/>
-.<br/>
+<br/>
 (3)Pour Liquid Solution into Petridish<br/>
+<br/>
 　(3-1)Place the bottle out of the autoclave in a clean bench. Be careful not to burn!<br/>
+<br/>
 　(3-2) Pour the medium into petri dishes from the bottle, about (1〜3mm).<br/>
 　　　　 Point: Minimize the time to open the lid of a petri dish as possible.<br/>
 ![Medium_6](/photo/92891.jpg)<br/>

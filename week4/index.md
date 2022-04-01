@@ -138,22 +138,22 @@ D. (What new research question comes up?)<br/>
 <br/>
 **How to make**<br/>
 (1)Mix every contents<br/>
-Make a mixture of agar and nutrients to glow organisms.<br/>
+　Make a mixture of agar and nutrients to glow organisms.<br/>
 <br/>
-　(1-1)Put a stirrer bar into a little bigger flask.<br/>
+(1-1)Put a stirrer bar into a little bigger flask.<br/>
 <br/>
-　(1-2)Pour 500ml water into the flask.<br/>
+(1-2)Pour 500ml water into the flask.<br/>
 <br/>
-　(1-3)Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
+(1-3)Mesure exactly sugar and agar powder. When measuring, you should put a weighing paper on a scale.Instead of weighing paper, it is also OK to measure by using cups of beakers on the scale.<br/>
 ![Medium_1](/photo/92924.jpg)<br/>
 <br/>
-　(1-4)Mix (1-3) into the water.(It is easier to put the powders if you fold the weighing paper diagnally.)<br/>
+(1-4)Mix (1-3) into the water.(It is easier to put the powders if you fold the weighing paper diagnally.)<br/>
 ![Medium_2](/photo/92920.jpg)<br/>
 <br/>
-　(1-5)Turn on the magnetic stirrer to mix up the water and the others.<br/>
+(1-5)Turn on the magnetic stirrer to mix up the water and the others.<br/>
 <br/>
 (2)Sterilization<br/>
-**Autocrave** is used to avoid contamination. Autocrave is like a steamcooker that sterilizes by high temprature steam.<br/>
+**Autocrave** is used for sterilization. Autocrave is like a steamcooker that sterilizes by high temprature steam.<br/>
 ![Medium_3](/photo/92913.jpg)<br/>
 <br/>
 **How to use**<br/>
@@ -171,13 +171,14 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 <br/>
 (3)Pour Liquid Solution into Petridish<br/>
 <br/>
-　(3-1)Place the bottle out of the autoclave in a clean bench. Be careful not to burn!<br/>
+(3-1)Place the bottle out of the autoclave in a clean bench. Be careful not to burn!<br/>
 <br/>
-　(3-2) Pour the medium into petri dishes from the bottle, about (1〜3mm).<br/>
-　　　　 Point: Minimize the time to open the lid of a petri dish as possible.<br/>
+(3-2) Pour the medium into petri dishes from the bottle, about (1〜3mm).<br/>
+　　　 Point: Minimize the time to open the lid of a petri dish as possible.<br/>
 ![Medium_6](/photo/92891.jpg)<br/>
-　(Trivia: YCAM bio-research team uses a kettle instead of glass bottles 👀‼ According to them, kettle is so convenient to pour mediums.)<br/>
-　(3-4)Point: Sterilize EVERYTHING before put them into clean bench by spraying or wiping with alcohol, since bacterias could be on it. <br/>
+(Trivia: YCAM bio-research team uses a kettle instead of glass bottles 👀‼ According to them, kettle is so convenient to pour mediums.)<br/>
+<br/>
+(3-4)Point: Sterilize EVERYTHING before put them into clean bench by spraying or wiping with alcohol, since bacterias could be on it. <br/>
 ![Medium_7](/photo/92912.jpg)<br/>
 ![Medium_8](/photo/92885.jpg)<br/>
 <br/>

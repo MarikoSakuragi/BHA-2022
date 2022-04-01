@@ -146,18 +146,21 @@ Make a mixture of agar and nutrients to glow organisms.<br/>
 　(1-5)Turn on the magnetic stirrer to mix up the water and the others.<br/>
 <br/>
 (2)Sterilization<br/>
-滅菌する理由。・・・オートクレーブは、高温の蒸気で殺菌を行う機械。<br/>
-What is Autoclave?<br/>
-　(2-1)水が入っているかをチェックする。<br/>
-　(2-2)オートクレーブテープ<br/>
-　(2-3)蓋を締め切ると暴発するので、少しゆるめておくこと<br/>
-　(2-4)スイッチを入れ、〇〇分。（注意事項）加圧自体が終わっても、圧力が下がり切るまでは開けない。<br/>
+What is Autoclave? ...Autocrave is used to avoid contamination. Autocrave is like a steamcooker that sterilizes by high temprature steam.<br/>
+<br/>
+**How to use**
+ (2-1)Before use, it is necessary to check there is water enough inside an autocrave. To check, kick lightly the side of the autocrave and watch whether the water waves at the bottom.<br/>
+ (2-3)Cover the mouth of the bottle with aluminium foil. (I forget why...)<br/>
+ (2-2)Seal autocrave tape on somewhere of the bottle. It helps to tell whether it has already went through autocrave. After autocraving, stripes appear on the tape.<br/>
+　(2-3)Point: Loose a lid a little to avoid explosion.<br/>
+　(2-4)Turn on the switch. Although autocraving takes around 15 minutes, we need to wait longer till the pressure in the autocrave fully fall. <br/>
 .<br/>
 (3)Pour Liquid Solution into Petridish<br/>
-　(3-1)オートクレーブから出したフラスコをクリーンベンチの中に入れる。<br/>
-　(3-2)容器からディッシュに１〜３mmほど溶液を注ぎ、入れ終わったら蓋を閉める（やけどに注意）<br/>
-　(3-3)（YCAMはヤカンでやっている！！）<br/>
-　(3-4)滅菌済みでないもの（容器）をクリーンベンチの中に入れるときは、クリーンベンチに入れる前にアルコールスプレーを吹きかけて殺菌する。<br/>
+　(3-1)Place the bottle out of the autoclave in a clean bench. Be careful not to burn!<br/>
+　(3-2) Pour the medium into petri dishes from the bottle, about (1〜3mm).<br/>
+　　　　 Point: Minimize the time to open the lid of a petri dish as possible.<br/>
+　(Trivia: YCAM bio-research team uses a kettle instead of glass bottles 👀‼ According to them, kettle is so convenient to pour mediums.)<br/>
+　(3-4)Point: Sterilize EVERYTHING before put them into clean bench by spraying or wiping with alcohol, since bacterias could be on it. <br/>
 <br/>
 **Sampling**<br/>
 Rub wherever you like with a cotton swab or a bamboo skewer, then spread it on the surface of medium. The spreading should be done gently.
@@ -204,7 +207,7 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 ![Cool down](/photo/92214.jpg)<br/>
 <br/>
 ### <span style="background-color:LightGray">Comments and Questions</span>
-・Can I put sugar and chicken broth together? Or is it enough to put either?<br/>
+・Can I put sugar and chicken broth together? Or is it enough to put either? -> OK!(3/31)<br/>
 ・It was unexpectedly difficult to make a sterilized space in my kitchen. I tried to keep there clean as possible as I could by spraying alcohol, I did not know to what extent I should clean up.<br/>
 ・Putting the petri dishes in the fridge might help it harden faster. But I did not it because I was not sure the inside of refrigerator is clean.<br/>
 ・If I have time, I would like to research where I can get the items for the other kind of mediums.<br/>
@@ -261,5 +264,6 @@ Done!<br/>
 Each of us took home Combucha filled in a container. I put it in a refrigerator. <br/>
 ![Combucha in refrigerator](/photo/92215.jpg)<br/>
 Waiting for growing...
+3/29(Tue) It appeard that I made a mistake. Combucha need not to put into refrigerator, rather it is better to be warmer place for the fermentation.<br/>
 <br/>
 <br/>

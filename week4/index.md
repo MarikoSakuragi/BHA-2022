@@ -212,6 +212,13 @@ If you want to make more special mediums, you should add other stuffs (yeast ext
 **References**<br/>
 [・Lists of Medium (Waag Society)](http://biohackacademy.github.io/bha7/cultivation-media/)<br/>
 [・Organisms (Waag Society)](http://biohackacademy.github.io/bha7/organisms/)<br/>
+### Sampling outside
+I took wild samples in my neighborhood.<br/>
+The subject I took were bark, cherry blossom, soils, a manhole.<br/>
+![Sakura](/photo/92743.jpg)<br/>
+![Bark](/photo/92749.jpg)<br/>
+![Soils](/photo/92738.jpg)<br/>
+![Manhole](/photo/92750.jpg)<br/>
 <br/>
 ## Combucha
 **3/24(Thu)**<br/>

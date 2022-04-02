@@ -69,5 +69,58 @@ The author introduces a centrifuge (called "Steenbech-Litten Centrifuge") made b
 p.219<br/>
 「スチーンベック、リッテンの遠心分離機（Steenbech-Litten’sche Centrifuge）は特に尿を速かに沈澱せしめ、之に依て診断を速定し得るの目的にて案出せしものなり。／此器械は手柄を装せし曲柄（a）に依て廻転せられ、而して歯輪伝搬の作用に依て需要の回転速力を得るものに＊青銅色の台上に鋼鉄円柱ありて之に二個の硝子管（cc）を有する遠心分離臀（b）を附せり。／小硝子円筒（第百二十六図）は此器械に供用すへき液を入るるに充て且つ硝子/p.220/の破裂に於けるか如き不慮の事変を予防せん為め金属鞘（第百二十五図　c）の中に包容す。／器械の安置し在るときは硝子円筒及ひ金属鞘は横棹の両端に於て鉛直に懸吊し、器械の動作を＊なむときは金属鞘と硝子円筒は一個の間接中に運動し得るを以て高挙せられて、第百二十五図の點線を以て仮示せるか如く横棹と同方向即ち地平の方向を取って振動す、此際液を充填（漢字）しある円筒硝子の其基底は一圏の周辺を描き其中心を横棹の中央に在す、此遠心力に依って液中の固形分即ち最も重き成分は圏の最外部即ち硝子円筒の基底に向/p.221/つて駆逐せらる而して既に全く固形文を沈澱するの后は之を吸液菅に取りて顕微鏡的及ひ化学的に固形分の検査に着手すへし。（以下略）」<br/>
 <br/>
-[1951年のクリーンベンチ（毎日新聞）](https://photobank.mainichi.co.jp/kiji_detail.php?id=P20130813dd1dd1phj322000)
-<br/)
+[1951年のクリーンベンチ（毎日新聞）](https://photobank.mainichi.co.jp/kiji_detail.php?id=P20130813dd1dd1phj322000)<br/>
+<br/>
+### 3/22(Tue)
+どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
+・[https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/](https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/)<br/>
+￼<br/>
+・回転と力の伝わり方<br/>
+[https://www.mabuchi-motor.co.jp/motorize/teck/](https://www.mabuchi-motor.co.jp/motorize/teck/)<br/>
+<br/>
+歯車ABC 入門編 p.17<br/>
+[https://www.khkgears.co.jp/gear_technology/pdf/gearabc_a.pdf](https://www.khkgears.co.jp/gear_technology/pdf/gearabc_a.pdf)<br/>
+<br/>
+歯車の種類と動き<br/>
+[https://tutorials.shade3d.jp/歯車の種類と動き/post/2391](https://tutorials.shade3d.jp/歯車の種類と動き/post/2391)<br/>
+⇨軸と歯車が組み合わさったものは「ウォームギア」というらしい<br/>
+⇨ネットにデータがありそう。探す。<br/>
+↓<br/>
+Makebotで検索（worm gear）<br/>
+[検索結果](https://www.thingiverse.com/search?q=worm+gear&type=things&sort=relevant)<br/>
+↓<br/>
+色々出てきた。<br/>
+<br/>
+・土台付き手回し歯車<br/>
+[https://www.thingiverse.com/thing:2791504](https://www.thingiverse.com/thing:2791504)<br/>
+￼<br/>
+・ウォームギア<br/>
+[https://www.thingiverse.com/thing:2480647](https://www.thingiverse.com/thing:2480647)￼<br/>
+￼<br/>
+・かなり遠心分離機に近い構造のものも見つかった。回転数はどれほどだろう。￼<br/>
+[https://www.thingiverse.com/thing:2170237](https://www.thingiverse.com/thing:2170237)￼<br/>
+￼<br/>
+・「Centrifuge」で検索をかけたところ、[電動ドリルに取り付けただけの遠心分離機](https://www.thingiverse.com/thing:4583027)を発見した。これはなかなかの代物。<br/>
+<br/>
+・手回し遠心分離機のデータを発見！これはかなり求めているものに近いのではないか。<br/>
+[https://www.thingiverse.com/thing:946640](https://www.thingiverse.com/thing:946640)<br/>
+<br/>
+・ブンブン駒型<br/>
+[https://www.thingiverse.com/thing:1946291](https://www.thingiverse.com/thing:1946291)<br/>
+<br/>
+わかったこと・・・一から設計するのは本当に大変なので、すでに公開されている既存のリソースを使い、できることならそれをアレンジするほうが、よっぽど簡単だと思われる。<br/>
+<br/>
+### 3/23(Wed)
+・動画　かさ歯車<br/>
+[![https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg](https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg)]<br/>
+Fusion360ではなく3DCADを使用<br/>
+<br/>
+・動画　かさ歯車その２<br/>
+[![https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)](https://www.youtube.com/watch?v=4XWLYM0b8FI](https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)](https://www.youtube.com/watch?v=4XWLYM0b8FI)<br/>
+こっちはFusion。英語で検索したら出てきた。見よう見まねでなんとか作れるだろうか。<br/>
+<br/>
+<br/>
+### 4/1(Fri)
+<br/>
+### 4/2(Sat)
+<br/>

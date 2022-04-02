@@ -1,13 +1,18 @@
 # Week5: Growing more (HLN)
 ## GMOs
 
-### Homework: research GMOs in Japan
+### Homework
+・ Find and describe 3 genetically modified organisms<br/>
+・ Describe the traits<br/>
+・ Find out the modification methods<br/>
+・ Extra credit: find gene/gene sequence that has been changed<br/>
+<br/>
 1. Trenia
 [https://scienceportal.jst.go.jp/newsflash/20141125_03/index.html](https://scienceportal.jst.go.jp/newsflash/20141125_03/index.html)<br/>
 ・蛍光タンパク質遺伝子<br/>
 「海洋プランクトンの黄緑色蛍光タンパク質遺伝子を3重に連結して導入し、たくさんの蛍光タンパク質を作れるよう独自に工夫した。」<br/>
 <br/>
-2. Rapeseed （ナタネ／セイヨウアブラナ）
+2. Rapeseed （ナタネ／セイヨウアブラナ）<br/>
 セイヨウアブラナに除草剤耐性遺伝子を組み込んだもの<br/>
 <br/>
 3. Sikworm

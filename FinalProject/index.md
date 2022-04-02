@@ -116,7 +116,7 @@ Fusion360ではなく3DCADを使用<br/>
 <br/>
 ・動画　かさ歯車その２<br/>
 [https://www.youtube.com/watch?v=4XWLYM0b8FI](https://www.youtube.com/watch?v=4XWLYM0b8FI)<br/>
-![https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)](https://www.youtube.com/watch?v=4XWLYM0b8FI](https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)<br/>
+![https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg](https://www.youtube.com/watch?v=4XWLYM0b8FI](https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)<br/>
 こっちはFusion。英語で検索したら出てきた。見よう見まねでなんとか作れるだろうか。<br/>
 <br/>
 <br/>
@@ -186,7 +186,6 @@ Pinion gear <br/>
 Unfortunately, it appears that 6mm shaft is too big to fit after buying it. So, I had to go back the shop to changed it to 5mm. This time, however, it was still not match with the hole of bevel gear. I will have to deal with this problem later (fill a gap with something?).<br/>
 ![Proto_1_6](photo/Proto_1_6.jpg)<br/>
 <br/>
-![Proto_1_7](photo/Proto_1_7.jpg)<br/>
 ![Proto_1_8](photo/Proto_1_8.jpg)<br/>
 ![Proto_1_9](photo/Proto_1_9.jpg)<br/>
 ![Proto_1_10](photo/Proto_1_10.jpg)<br/>
@@ -216,5 +215,5 @@ Anyway, it was good to know that the gears' teeth are meshing and able to move, 
 ・棒の隙間を埋める<br/>
 ・今の歯車の数では回転数がかなり遅いと思われる。より速い回転を得たければ、もっと歯車の数を増やす必要がある。<br/>
 ・ハンドルが小さくて回しにくいので、これも改良したい。<br/>
-・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると活動の焦点が遠心分離機作りからずれていってしまいそうなので、注意したい。
+・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。
 <br/>

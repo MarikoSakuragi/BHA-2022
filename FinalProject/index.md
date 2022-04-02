@@ -120,7 +120,7 @@ Fusion360ではなく3DCADを使用<br/>
 <br/>
 <br/>
 ### 4/1(Fri)
-History of centrifuge
+History of centrifuge<br/>
 [https://youtu.be/Q3CSUfjfgus](https://youtu.be/Q3CSUfjfgus)<br/>
 [![thumbnail](https://img.youtube.com/vi/Q3CSUfjfgus/0.jpg)](https://www.youtube.com/watch?v=Q3CSUfjfgus)<br/>
 The origin of centrifuge that was developed for milk separation.<br/>
@@ -133,7 +133,28 @@ A Swedish engineer invented the first centrifuge in 1880s in order to help cattl
 ### 4/2(Sat)
 (Sentence...)<br/>
 <br/>
+In Sengoku Densho (on the 3rd floor), a variety of gears are sold.
 ![Proto_1_1](FinalProject/photo/Proto_1_1.jpg)<br/>
+<br/>
+**What I bought**
+・Spun gear (50 teeth, 1.0 module) ¥649<br/>
+・Handle (40mm, 3.0module) ¥682<br/>
+・Bevel gear (? teeth, 6.0 module) ¥490<br/>
+・Pinion gear (14 teeth, 1.0 module) ¥363<br/>
+・Screw rod (3mm*29mm) * 2 = ¥594<br/>
+・Stainless shaft (6mm) ¥480 -> (5mm) ¥480<br/>
+<br/>
+※ Since it appears that 6mm shaft is too big to fit after buying it, I changed it to 5mm.)<br/>
+※ I couldn't find a plate in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
+<br/>
+**Additional items purchased**<br/>
+・Hexagon head nut(3mm) * 3 = ¥60<br/>
+・Mini Glue ¥???<br/>
+・Clay（ダイソー）¥108<br/>
+・Cork Board（ダイソー） ¥108<br/>
+<br/>
+※ I bought clay and cork board because I thought it could be used as a foundation.<br/>
+<br/>
 ![Proto_1_1_2](photo/Proto_1_1_2.jpg)<br/>
 ![Proto_1_2](photo/Proto_1_2.jpg)<br/>
 ![Proto_1_3](photo/Proto_1_3.jpg)<br/>

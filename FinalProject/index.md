@@ -131,10 +131,14 @@ A Swedish engineer invented the first centrifuge in 1880s in order to help cattl
 [![thumbnail](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
 <br/>
 ### 4/2(Sat)
-(Sentence...)<br/>
+To understand and speculate the works of gear, I thought about making prototype by assembling gears.<br/>
 <br/>
-In Sengoku Densho (on the 3rd floor), a variety of gears are sold.
-![Proto_1_1](FinalProject/photo/Proto_1_1.jpg)<br/>
+Therefore, I came back Akihabara!!<br/>
+![Akihabara](/photo/Akihabara.jpg)<br/>
+<br/>
+I visited Sengoku Densho again.<br/>
+A variety of gears are soldon the 3rd floor.<br/>
+![Proto_1_1](/photo/Proto_1_1.jpg)<br/>
 <br/>
 **What I bought**
 ・Spun gear (50 teeth, 1.0 module) ¥649<br/>
@@ -153,7 +157,7 @@ In Sengoku Densho (on the 3rd floor), a variety of gears are sold.
 ・Clay（ダイソー）¥108<br/>
 ・Cork Board（ダイソー） ¥108<br/>
 <br/>
-※ I bought clay and cork board because I thought it could be used as a foundation.<br/>
+※ I bought clay and cork board, as I thought it could be used as a foundation.<br/>
 <br/>
 ![Proto_1_1_2](photo/Proto_1_1_2.jpg)<br/>
 ![Proto_1_2](photo/Proto_1_2.jpg)<br/>
@@ -177,4 +181,7 @@ In Sengoku Densho (on the 3rd floor), a variety of gears are sold.
 ![Proto_1_14](photo/Proto_1_14.jpg)<br/>
 ![GIF Cent_proto_2(not working)](photo/Cent_proto_2(not working).gif)<br/>
 ![GIF Cent_proto_3(working)](photo/Cent_proto_3(working).gif)<br/>
+<br/>
+<br/>
+![Motor gear box](photo/Motor gear box.jpg)<br/>
 <br/>

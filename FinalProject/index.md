@@ -122,14 +122,13 @@ Fusion360ではなく3DCADを使用<br/>
 ### 4/1(Fri)
 History of centrifuge
 [https://youtu.be/Q3CSUfjfgus](https://youtu.be/Q3CSUfjfgus)<br/>
-[![](https://img.youtube.com/vi/Q3CSUfjfgus/0.jpg)](https://www.youtube.com/watch?v=Q3CSUfjfgus)<br/>
-牛乳に使われた遠心分離機の歴史<br/>
-1880年代に開発　スイス人エンジニア<br/>
-牛乳から生クリームを分離するために遠心分離機が作られた<br/>
+[![thumbnail](https://img.youtube.com/vi/Q3CSUfjfgus/0.jpg)](https://www.youtube.com/watch?v=Q3CSUfjfgus)<br/>
+The origin of centrifuge that was developed for milk separation.<br/>
+A Swedish engineer invented the first centrifuge in 1880s in order to help cattle farmers to separate fresh cream from milk.<br/>
 <br/>
 "How to work centrifuge basic principe"<br/>
 [https://youtu.be/nX0NNfV8nWw](https://youtu.be/nX0NNfV8nWw)<br/>
-[![](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
+[![thumbnail](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
 <br/>
 ### 4/2(Sat)
 <br/>

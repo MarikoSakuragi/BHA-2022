@@ -131,4 +131,28 @@ A Swedish engineer invented the first centrifuge in 1880s in order to help cattl
 [![thumbnail](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
 <br/>
 ### 4/2(Sat)
+(Sentence...)<br/>
+<br/>
+![Proto_1_1](photo/Proto_1_1.jpg)<br/>
+![Proto_1_1_2](photo/Proto_1_1_2.jpg)<br/>
+![Proto_1_2](photo/Proto_1_2.jpg)<br/>
+![Proto_1_3](photo/Proto_1_3.jpg)<br/>
+![Proto_1_4](photo/Proto_1_4.jpg)<br/>
+![Proto_1_4_2](photo/Proto_1_4_2.jpg)<br/>
+![Proto_1_4_3](photo/Proto_1_4_3.jpg)<br/>
+![Proto_1_5](photo/Proto_1_5.jpg)<br/>
+![Proto_1_6](photo/Proto_1_6.jpg)<br/>
+![Proto_1_7](photo/Proto_1_7.jpg)<br/>
+![Proto_1_8](photo/Proto_1_8.jpg)<br/>
+![Proto_1_9](photo/Proto_1_9.jpg)<br/>
+![Proto_1_10](photo/Proto_1_10.jpg)<br/>
+![Proto_1_11](photo/Proto_1_11.jpg)<br/>
+![Proto_1_12](photo/Proto_1_12.jpg)<br/>
+<br/>
+![Proto_1_13](photo/Proto_1_13.jpg)<br/>
+![GIF Cent_proto_1](photo/Cent_proto_1.gif)<br/>
+<br/>
+![Proto_1_14](photo/Proto_1_14.jpg)<br/>
+![GIF Cent_proto_2(not working)](photo/Cent_proto_2(not working).gif)<br/>
+![GIF Cent_proto_3(working)](photo/Cent_proto_3(working).gif)<br/>
 <br/>

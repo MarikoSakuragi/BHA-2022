@@ -133,7 +133,7 @@ A Swedish engineer invented the first centrifuge in 1880s in order to help cattl
 ### 4/2(Sat)
 (Sentence...)<br/>
 <br/>
-![Proto_1_1](photo/Proto_1_1.jpg)<br/>
+![Proto_1_1](FinalProject/photo/Proto_1_1.jpg)<br/>
 ![Proto_1_1_2](photo/Proto_1_1_2.jpg)<br/>
 ![Proto_1_2](photo/Proto_1_2.jpg)<br/>
 ![Proto_1_3](photo/Proto_1_3.jpg)<br/>

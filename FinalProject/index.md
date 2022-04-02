@@ -88,7 +88,6 @@ p.219<br/>
 ↓<br/>
 Makebotで検索（worm gear）<br/>
 [検索結果](https://www.thingiverse.com/search?q=worm+gear&type=things&sort=relevant)<br/>
-↓<br/>
 色々出てきた。<br/>
 <br/>
 ・土台付き手回し歯車<br/>
@@ -108,11 +107,11 @@ Makebotで検索（worm gear）<br/>
 ・ブンブン駒型<br/>
 [https://www.thingiverse.com/thing:1946291](https://www.thingiverse.com/thing:1946291)<br/>
 <br/>
-わかったこと・・・一から設計するのは本当に大変なので、すでに公開されている既存のリソースを使い、できることならそれをアレンジするほうが、よっぽど簡単だと思われる。<br/>
+わかったこと・・・一から設計するのはかなり骨が折れそうなので、すでに公開されている既存のリソースを有効活用し、できることならそれをアレンジするほうが、よっぽど簡単だと思われる。<br/>
 <br/>
 ### 3/23(Wed)
 ・動画　かさ歯車<br/>
-[![https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg](https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg)]<br/>
+![https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg](https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg)<br/>
 Fusion360ではなく3DCADを使用<br/>
 <br/>
 ・動画　かさ歯車その２<br/>
@@ -121,6 +120,16 @@ Fusion360ではなく3DCADを使用<br/>
 <br/>
 <br/>
 ### 4/1(Fri)
+History of centrifuge
+[https://youtu.be/Q3CSUfjfgus](https://youtu.be/Q3CSUfjfgus)<br/>
+[![](https://img.youtube.com/vi/Q3CSUfjfgus/0.jpg)](https://www.youtube.com/watch?v=Q3CSUfjfgus)<br/>
+牛乳に使われた遠心分離機の歴史<br/>
+1880年代に開発　スイス人エンジニア<br/>
+牛乳から生クリームを分離するために遠心分離機が作られた<br/>
+<br/>
+"How to work centrifuge basic principe"<br/>
+[https://youtu.be/nX0NNfV8nWw](https://youtu.be/nX0NNfV8nWw)<br/>
+[![](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
 <br/>
 ### 4/2(Sat)
 <br/>

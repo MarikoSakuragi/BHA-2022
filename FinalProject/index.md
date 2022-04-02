@@ -86,9 +86,8 @@ p.219<br/>
 ⇨軸と歯車が組み合わさったものは「ウォームギア」というらしい<br/>
 ⇨ネットにデータがありそう。探す。<br/>
 ↓<br/>
-Makebotで検索（worm gear）<br/>
-[検索結果](https://www.thingiverse.com/search?q=worm+gear&type=things&sort=relevant)<br/>
-色々出てきた。<br/>
+[Makebotで検索（Search word: "worm gear"）](https://www.thingiverse.com/search?q=worm+gear&type=things&sort=relevant)<br/>
+⇨色々出てきた。<br/>
 <br/>
 ・土台付き手回し歯車<br/>
 [https://www.thingiverse.com/thing:2791504](https://www.thingiverse.com/thing:2791504)<br/>
@@ -111,11 +110,13 @@ Makebotで検索（worm gear）<br/>
 <br/>
 ### 3/23(Wed)
 ・動画　かさ歯車<br/>
+[https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg](https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg)<br/>
 ![https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg](https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg)<br/>
 Fusion360ではなく3DCADを使用<br/>
 <br/>
 ・動画　かさ歯車その２<br/>
-[![https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)](https://www.youtube.com/watch?v=4XWLYM0b8FI](https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)](https://www.youtube.com/watch?v=4XWLYM0b8FI)<br/>
+[https://www.youtube.com/watch?v=4XWLYM0b8FI](https://www.youtube.com/watch?v=4XWLYM0b8FI)<br/>
+![https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)](https://www.youtube.com/watch?v=4XWLYM0b8FI](https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)<br/>
 こっちはFusion。英語で検索したら出てきた。見よう見まねでなんとか作れるだろうか。<br/>
 <br/>
 <br/>
@@ -132,6 +133,7 @@ A Swedish engineer invented the first centrifuge in 1880s in order to help cattl
 <br/>
 ### 4/2(Sat)
 To understand and speculate the works of gear, I thought about making prototype by assembling gears.<br/>
+とりあえずモデルを作ってみる。それがうまく動けば、3Dモデルソフトでその再現を目指したい。<br/>
 <br/>
 Therefore, I came back Akihabara!!<br/>
 ![Akihabara](/photo/Akihabara.jpg)<br/>
@@ -200,4 +202,11 @@ Therefore, I will make foundation with material which is harder next time.<br/>
 Anyway, it was good to know that the gears' teeth are meshing and able to move, even though it moved awkward.<br/>
 <br/>
 ![Motor gear box](photo/Motor gear box.jpg)<br/>
+<br/>
+**反省点と次回やりたいこと**<br/>
+・コルクボードで土台を作ってみる。もしそれがうまくいかなければ、別の素材を探す。<br/>
+・棒の隙間を埋める<br/>
+・今の歯車の数では回転数がかなり遅いと思われる。より速い回転を得たければ、もっと歯車の数を増やす必要がある。<br/>
+・ハンドルが小さくて回しにくい。これも改良したい。
+・歯車の構造や、さまざまな種類があるのが面白く、歯車にはまってきた。ただ、歯車に夢中になりすぎるあまり活動が遠心分離機作りからずれていってしまいそうなので、注意したい。
 <br/>

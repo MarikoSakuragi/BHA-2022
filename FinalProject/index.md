@@ -143,23 +143,23 @@ A variety of gears are soldon the 3rd floor.<br/>
 ![Proto_1_1](/photo/Proto_1_1.jpg)<br/>
 <br/>
 **What I bought**
-・Spun gear (50 teeth, 1.0 module) ¥649<br/>
-・Handle (40mm, 3.0module) ¥682<br/>
+・[Spun gear (50 teeth, 1.0 module)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=8AGA-HGKC) ¥649<br/>
+・[Handle(40mm, 3.0module)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=4AZU-JFFG()  ¥682<br/>
 ・Bevel gear (? teeth, 6.0 module) ¥490<br/>
-・Pinion gear (14 teeth, 1.0 module) ¥363<br/>
-・Screw rod (3mm*29mm) * 2 = ¥594<br/>
-・Stainless shaft (6mm) ¥480 -> (5mm) ¥480<br/>
+・[Pinion gear (14 teeth, 1.0 module)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-0SDD) ¥363<br/>
+・[Screw rod](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=4A8D-BJEG) (3mm*29mm) * 2 = ¥594<br/>
+・[Stainless shaft (6mm) ¥480 -> (5mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4L6A) ¥480<br/>
 <br/>
-※ I couldn't find a plate in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
+Note: I couldn't find a plate in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
 <br/>
 **Additional items purchased**<br/>
-・Screw rod (3mm*59mm)  ¥396
+・[Screw rod (3mm*59mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=5A8D-CJEJ)  ¥396
 ・Hexagon head nut(3mm) * 6 = ¥60<br/>
-・Mini Glue ¥396<br/>
+・[Mini Glue](https://www.amazon.co.jp/アロンアルフア-EXTRA-ミニ×4-0-5g×4-04611/dp/B000IGRZ2W/ref=asc_df_B000IGRZ2W/?tag=jpgo-22&linkCode=df0&hvadid=222868425990&hvpos=&hvnetw=g&hvrand=13755070881471756200&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20636&hvtargid=pla-440365886762&psc=1&th=1&psc=1) ¥396<br/>
 ・Clay（ダイソー）¥110<br/>
 ・Cork Board（ダイソー） ¥110<br/>
 <br/>
-※ I bought clay and cork board, as I thought it could be used as a foundation.<br/>
+Note: I bought clay and cork board, as I thought it could be used as a foundation.<br/>
 <br/>
 Total amount: ¥4,676<br/>
 <br/>
@@ -208,13 +208,13 @@ After adjusting the height of the bevel gear, then it worked (just a little bit.
 ![GIF Cent_proto_3(working)](photo/Cent_proto_3(working).gif)<br/>
 Anyway, it was good to know that the gears' teeth are meshing and able to move, even though it moved awkward.<br/>
 <br/>
-こっちを使ったほうがよっぽど早いのでは、という誘惑……。しかしひとまずは一から作ることに挑戦してみたい。<br/>
+こっちを使ったほうがよっぽど早いのでは、という誘惑（3000円くらいだし）……。しかしひとまずは一から作ることに挑戦してみたい。<br/>
 ![Motor gear box](photo/Motor gear box.jpg)<br/>
 <br/>
-**反省点と次回やりたいこと**<br/>
+**Reviews & Tasks**<br/>
 ・コルクボードで土台を作ってみる。もしそれがうまくいかなければ、別の素材を探す。<br/>
 ・棒の隙間を埋める<br/>
 ・今の歯車の数では回転数がかなり遅いと思われる。より速い回転を得たければ、もっと歯車の数を増やす必要がある。<br/>
 ・ハンドルが小さくて回しにくいので、これも改良したい。<br/>
-・歯車の仕組みを理解することや、さまざまな種類があるのが面白く、歯車にはまってきた。ただ、あまり歯車自体に夢中になると活動の焦点が遠心分離機作りからずれていってしまいそうなので、注意したい。
+・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると活動の焦点が遠心分離機作りからずれていってしまいそうなので、注意したい。
 <br/>

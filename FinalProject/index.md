@@ -177,6 +177,9 @@ A variety of gears are soldon the 3rd floor.<br/>
 <br/>
 ![Proto_1_13](photo/Proto_1_13.jpg)<br/>
 ![GIF Cent_proto_1](photo/Cent_proto_1.gif)<br/>
+My choice that using clay as foundation was wrong entirely. It was too soft to fix the gears and polls...<br/>
+土台がよわよわすぎた……😭😭<br/>
+Therefore, I will make foundation with material which is harder next time.<br/>
 <br/>
 ![Proto_1_14](photo/Proto_1_14.jpg)<br/>
 ![GIF Cent_proto_2(not working)](photo/Cent_proto_2(not working).gif)<br/>

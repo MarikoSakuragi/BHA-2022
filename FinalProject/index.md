@@ -178,7 +178,7 @@ Screw rod<br/>
 Pinion gear <br/>
 ![Proto_1_5_2](photo/Proto_1_5_2.jpg)<br/>
 <br/>
-Unfortunately, it appears that 6mm shaft is too big to fit after buying it. So, I have to go back the shop to changed it to 5mm. This time, however, it was still not match with the hole of bevel gear. I will have to deal with this problem later(fill a gap with something?).<br/>
+Unfortunately, it appears that 6mm shaft is too big to fit after buying it. So, I had to go back the shop to changed it to 5mm. This time, however, it was still not match with the hole of bevel gear. I will have to deal with this problem later (fill a gap with something?).<br/>
 ![Proto_1_6](photo/Proto_1_6.jpg)<br/>
 <br/>
 ![Proto_1_7](photo/Proto_1_7.jpg)<br/>
@@ -190,7 +190,7 @@ Unfortunately, it appears that 6mm shaft is too big to fit after buying it. So, 
 <br/>
 ![Proto_1_13](photo/Proto_1_13.jpg)<br/>
 ![GIF Cent_proto_1](photo/Cent_proto_1.gif)<br/>
-My choice that using clay as foundation was entirely wrong. It was too soft to fix the gears and polls...<br/>
+My choice that using clay as foundation was entirely mistake, though it helped  to adjust the positions of each parts. It was too soft to fix the gears and polls...<br/>
 土台がよわよわすぎた……😭😭<br/>
 Therefore, I will make foundation with material which is harder next time.<br/>
 <br/>

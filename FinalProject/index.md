@@ -148,7 +148,6 @@ A variety of gears are soldon the 3rd floor.<br/>
 ・Screw rod (3mm*29mm) * 2 = ¥594<br/>
 ・Stainless shaft (6mm) ¥480 -> (5mm) ¥480<br/>
 <br/>
-※ Since it appears that 6mm shaft is too big to fit after buying it, I changed it to 5mm.)<br/>
 ※ I couldn't find a plate in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
 <br/>
 **Additional items purchased**<br/>
@@ -160,14 +159,28 @@ A variety of gears are soldon the 3rd floor.<br/>
 ※ I bought clay and cork board, as I thought it could be used as a foundation.<br/>
 <br/>
 ![Proto_1_1_2](photo/Proto_1_1_2.jpg)<br/>
+<br/>
+Handle<br/>
 ![Proto_1_2](photo/Proto_1_2.jpg)<br/>
+<br/>
 ![Proto_1_3](photo/Proto_1_3.jpg)<br/>
+<br/>
+Spun gear<br/>
 ![Proto_1_4](photo/Proto_1_4.jpg)<br/>
+<br/>
+Connect handle and spun gear with screw rod to have interlock them.<br/>
 ![Proto_1_4_2](photo/Proto_1_4_2.jpg)<br/>
 ![Proto_1_4_3](photo/Proto_1_4_3.jpg)<br/>
+<br/>
+Screw rod<br/>
 ![Proto_1_5](photo/Proto_1_5.jpg)<br/>
+<br/>
+Pinion gear <br/>
 ![Proto_1_5_2](photo/Proto_1_5_2.jpg)<br/>
+<br/>
+Unfortunately, it appears that 6mm shaft is too big to fit after buying it. So, I have to go back the shop to changed it to 5mm. This time, however, it was still not match with the hole of bevel gear. I will have to deal with this problem later(fill a gap with something?).<br/>
 ![Proto_1_6](photo/Proto_1_6.jpg)<br/>
+<br/>
 ![Proto_1_7](photo/Proto_1_7.jpg)<br/>
 ![Proto_1_8](photo/Proto_1_8.jpg)<br/>
 ![Proto_1_9](photo/Proto_1_9.jpg)<br/>
@@ -177,14 +190,14 @@ A variety of gears are soldon the 3rd floor.<br/>
 <br/>
 ![Proto_1_13](photo/Proto_1_13.jpg)<br/>
 ![GIF Cent_proto_1](photo/Cent_proto_1.gif)<br/>
-My choice that using clay as foundation was wrong entirely. It was too soft to fix the gears and polls...<br/>
+My choice that using clay as foundation was entirely wrong. It was too soft to fix the gears and polls...<br/>
 土台がよわよわすぎた……😭😭<br/>
 Therefore, I will make foundation with material which is harder next time.<br/>
 <br/>
 ![Proto_1_14](photo/Proto_1_14.jpg)<br/>
 ![GIF Cent_proto_2(not working)](photo/Cent_proto_2(not working).gif)<br/>
 ![GIF Cent_proto_3(working)](photo/Cent_proto_3(working).gif)<br/>
-<br/>
+Anyway, it was good to know that the gears' teeth are meshing and able to move, even though it moved awkward.<br/>
 <br/>
 ![Motor gear box](photo/Motor gear box.jpg)<br/>
 <br/>

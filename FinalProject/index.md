@@ -153,12 +153,15 @@ A variety of gears are soldon the 3rd floor.<br/>
 ※ I couldn't find a plate in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
 <br/>
 **Additional items purchased**<br/>
-・Hexagon head nut(3mm) * 3 = ¥60<br/>
-・Mini Glue ¥???<br/>
-・Clay（ダイソー）¥108<br/>
-・Cork Board（ダイソー） ¥108<br/>
+・Screw rod (3mm*59mm)  ¥396
+・Hexagon head nut(3mm) * 6 = ¥60<br/>
+・Mini Glue ¥396<br/>
+・Clay（ダイソー）¥110<br/>
+・Cork Board（ダイソー） ¥110<br/>
 <br/>
 ※ I bought clay and cork board, as I thought it could be used as a foundation.<br/>
+<br/>
+Total amount: ¥4,676<br/>
 <br/>
 ![Proto_1_1_2](photo/Proto_1_1_2.jpg)<br/>
 <br/>
@@ -170,7 +173,7 @@ Handle<br/>
 Spun gear<br/>
 ![Proto_1_4](photo/Proto_1_4.jpg)<br/>
 <br/>
-Connect handle and spun gear with screw rod to have interlock them.<br/>
+Connect handle and spun gear with screw to move together.<br/>
 ![Proto_1_4_2](photo/Proto_1_4_2.jpg)<br/>
 ![Proto_1_4_3](photo/Proto_1_4_3.jpg)<br/>
 <br/>
@@ -197,16 +200,21 @@ My choice that using clay as foundation was entirely mistake, though it helped  
 Therefore, I will make foundation with material which is harder next time.<br/>
 <br/>
 ![Proto_1_14](photo/Proto_1_14.jpg)<br/>
+<br/>
+Not working version (pinion gear and bevel gear are not meshing well)<br/>
 ![GIF Cent_proto_2(not working)](photo/Cent_proto_2(not working).gif)<br/>
+<br/>
+After adjusting the height of the bevel gear, then it worked (just a little bit...).<br/>
 ![GIF Cent_proto_3(working)](photo/Cent_proto_3(working).gif)<br/>
 Anyway, it was good to know that the gears' teeth are meshing and able to move, even though it moved awkward.<br/>
 <br/>
+こっちを使ったほうがよっぽど早いのでは、という誘惑……。しかしひとまずは一から作ることに挑戦してみたい。<br/>
 ![Motor gear box](photo/Motor gear box.jpg)<br/>
 <br/>
 **反省点と次回やりたいこと**<br/>
 ・コルクボードで土台を作ってみる。もしそれがうまくいかなければ、別の素材を探す。<br/>
 ・棒の隙間を埋める<br/>
 ・今の歯車の数では回転数がかなり遅いと思われる。より速い回転を得たければ、もっと歯車の数を増やす必要がある。<br/>
-・ハンドルが小さくて回しにくい。これも改良したい。
-・歯車の構造や、さまざまな種類があるのが面白く、歯車にはまってきた。ただ、歯車に夢中になりすぎるあまり活動が遠心分離機作りからずれていってしまいそうなので、注意したい。
+・ハンドルが小さくて回しにくいので、これも改良したい。<br/>
+・歯車の仕組みを理解することや、さまざまな種類があるのが面白く、歯車にはまってきた。ただ、あまり歯車自体に夢中になると活動の焦点が遠心分離機作りからずれていってしまいそうなので、注意したい。
 <br/>

@@ -65,7 +65,7 @@ I visited Sengoku Densho again.<br/>
 A variety of gears are soldon the 3rd floor.<br/>
 ![Proto_1_1](/photo/Proto_1_1.jpg)<br/>
 <br/>
-### **What I bought**
+### What I bought
 ・[Spun gear (50 teeth, 1.0 module)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=8AGA-HGKC) ¥649<br/>
 ・[Handle(40mm, 3.0module)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=4AZU-JFFG()  ¥682<br/>
 ・Bevel gear (? teeth, 6.0 module) ¥490<br/>
@@ -75,7 +75,7 @@ A variety of gears are soldon the 3rd floor.<br/>
 <br/>
 Note: I couldn't find plate-shaped materials in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
 <br/>
-### **Additional items purchased**
+### Additional items purchased
 ・[Screw rod (3mm*59mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=5A8D-CJEJ)  ¥396<br/>
 ・Hexagon head nut(3mm) * 6 = ¥60<br/>
 ・[Mini Glue](https://www.amazon.co.jp/アロンアルフア-EXTRA-ミニ×4-0-5g×4-04611/dp/B000IGRZ2W/ref=asc_df_B000IGRZ2W/?tag=jpgo-22&linkCode=df0&hvadid=222868425990&hvpos=&hvnetw=g&hvrand=13755070881471756200&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20636&hvtargid=pla-440365886762&psc=1&th=1&psc=1) ¥396<br/>
@@ -150,5 +150,12 @@ Place: FabCafe Material<br/>
 <br/>
 ![Sample](/photo/93290-2.jpg)<br/>
 <br/>
+<br/>
+Yesterday I made a big mistake using clay as a foundation, so today I tried DIY again with a cork board. As I thought it seems better than doing it at home, I did it at FabCafe MTRL that has variety of making tools.<br/>
+Cork board is affordable material for cutting and making a hole. It was easy to deal it.
+<br/>
+<br/>
 ![Moving the handle](/photo/Spinning_2.gif)<br/>
 <br/>
+・安定感が大事<br/>
+・土台と歯車＋軸の関係性がよく分かっていない。スムーズに回らせるにはどうしたらいいか？<br/>

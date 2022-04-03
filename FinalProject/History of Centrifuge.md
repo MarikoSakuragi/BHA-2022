@@ -54,5 +54,9 @@ William B. Jensen. 2017. Fleeing the Center:A Brief History of the Laboratory Ce
 <br/>
 #### Babcock centrifuge<br/>
 Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  at the University of Wisconsin, developed Babcock centrifuge (See picture). He made it to "test for the butterfat content of milk known as the Babcock test"(Jensen 2017:1). The test became popular among creameries and cheese factories to prevent farmer from diluting milk.<br/>
+<br/>
+![Babcock_centrifuge](/photo/Babcock_centrifuge.jpeg)<br/>
+<br/>
 It is really similar to the centrifuge which I saw on the Shimazu Seisakusho's catalogue published in 1941. It could be thought that the designs of centrifuge both in science and dairy farming were alike until a certain point. It is quite interesting.<br/>
+（*Butterfat=乳脂肪*）
 <br/>

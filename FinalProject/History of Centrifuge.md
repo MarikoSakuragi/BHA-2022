@@ -47,7 +47,9 @@ p.219<br/>
 "**1946**: Edward Pickeles cofounded Spinco(Specialized Instruments Corp.) in Bermont, California, and marketed an ultracentrifuge based on his design. However, sales of the technology remained low and Spinco nealy went bankrupt in the early years.""<br/>
 <br/>
 "**1949**: Spinco introduces the Model L, the first preparative ultracentrifuge to reach a speed of 40,000rpm, and marking a change in the fortunes of Spinco."<br/>
-（・・・・）
+（・・・・）<br/>
+<br/>
+**Reference**<br/>
 William B. Jensen. 2017. Fleeing the Center:A Brief History of the Laboratory Centrifuge(Notes from the Oesper Collections), *Museum Notes*, No.47, 1-4.<br/>
 [https://drc.libraries.uc.edu/bitstream/handle/2374.UC/750867/Fleeing_the_Center.pdf?sequence=1](https://drc.libraries.uc.edu/bitstream/handle/2374.UC/750867/Fleeing_the_Center.pdf?sequence=1)<br/>
 （The articule for the exhibition シンシナティ大学化学生物学図書館とシンシナティ大学化学学部の共同事業である「化学史におけるエスパー・コレクション」から。エスパー（Ralph Edward Oesper: 1886-1977）は化学者で、1918年から1951年までシンシナティ大学で教鞭をとった。）<br/>
@@ -57,16 +59,18 @@ William B. Jensen. 2017. Fleeing the Center:A Brief History of the Laboratory Ce
 Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  at the University of Wisconsin, developed Babcock centrifuge (See picture). He made it to "test for the butterfat content of milk known as the Babcock test"(Jensen 2017:1). The test became popular among creameries and cheese factories to prevent farmer from diluting milk.<br/>
 （*Butterfat=乳脂肪*）<br/>
 [Wikipedia(Japanese)](https://wikipredia.net/ja/Babcock_test)<br/>
-（詳しく言えば、この検査では、牛乳を特製のフラスコの中に入れ、そこに濃硫酸を加え、脂肪の遊離を促す。700～1200rpm × 5min.）<br/>
+<br/>
+この検査では、牛乳を特製のフラスコの中に入れ、そこに濃硫酸を加え、脂肪の遊離を促す。<br/>
+700～1200rpm × 5min.<br/>
 <br/>
 ![Babcock_centrifuge](/photo/Babcock_centrifuge.jpeg)<br/>
 <br/>
-↓これが大型化？<br/>
+↓これが大型化してこう変化？<br/>
 ![Babcock_centrifuge_2](/photo/Babcock_centrifuge_2.jpeg)<br/>
 (Image from [here](https://www.alamy.com/the-chemistry-of-farm-practice-agricultural-chemistry-milk-and-its-products-205-fig-67centrifuge-for-the-babcock-test-please-note-that-these-images-are-extracted-from-scanned-page-images-that-may-have-been-digitally-enhanced-for-readability-coloration-and-appearance-of-these-illustrations-may-not-perfectly-resemble-the-original-work-keitt-thomas-ellison-from-old-catalog-new-york-j-wiley-amp-sons-inc-etc-etc-image234987983.html))<br/>
 <br/>
 The picture how it was used.<br/>
-![Babcock_centrifuge_3]()/photo/Babcock_centrifuge_3.png)<br/>
+![Babcock_centrifuge_3](photo/Babcock_centrifuge_3.png)<br/>
 (Image from [here](https://wi101.wisc.edu/2013/12/01/how-does-a-babcock-tester-work/))<br/>
 <br/>
 It is really similar to the centrifuge which I saw on the Shimazu Seisakusho's catalogue published in 1941. It could be thought that the designs of centrifuge both in science and dairy farming were alike until a certain point. It is quite interesting.<br/>

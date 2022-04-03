@@ -74,6 +74,8 @@ p.219<br/>
 Infographics: how centrifuge have developed<br/>
 ![History of Centrifuge Infogragh](/photo/LM_Centrifuge_Infographic.jpg)<br/>
 <br/>
+"**1864**: Antonin Prandtl developed and commercialized the first dairy centrifuge for separating cream from milk."<br/>
+<br/>
 "**1869**: Friedrich Miescher was the first to adopt a crude centrifuge for laboratory application, using it to isolate a cell oragelle. This process led to the discovery of an important class of biological constituents, later to be known as nucletic acids."<br/>
 （*Oragelle=細胞小器官*）<br/>
 <br/>
@@ -94,6 +96,10 @@ Infographics: how centrifuge have developed<br/>
 "**1946**: Edward Pickeles cofounded Spinco(Specialized Instruments Corp.) in Bermont, California, and marketed an ultracentrifuge based on his design. However, sales of the technology remained low and Spinco nealy went bankrupt in the early years.""<br/>
 <br/>
 "**1949**: Spinco introduces the Model L, the first preparative ultracentrifuge to reach a speed of 40,000rpm, and marking a change in the fortunes of Spinco."<br/>
+（・・・・）
+William B. Jensen. 2017. Fleeing the Center:A Brief History of the Laboratory Centrifuge(Notes from the Oesper Collections), *Museum Notes*, No.47, 1-4.<br/>
+[https://drc.libraries.uc.edu/bitstream/handle/2374.UC/750867/Fleeing_the_Center.pdf?sequence=1](https://drc.libraries.uc.edu/bitstream/handle/2374.UC/750867/Fleeing_the_Center.pdf?sequence=1)<br/>
+<br/>
 ### 3/22(Tue)
 どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
 ・[https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/](https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/)<br/>

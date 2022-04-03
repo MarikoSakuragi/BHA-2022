@@ -151,5 +151,5 @@ Anyway, it was good to know that the gears' teeth are meshing and able to move, 
 Place: FabCafe Material<br/>
 ![Sample](/photo/93290-2.jpg)<br/>
 <br/>
-![Moving the handle](/photo/Spinning_2.jpg)<br/>
+![Moving the handle](/photo/Spinning_2.gif)<br/>
 <br/>

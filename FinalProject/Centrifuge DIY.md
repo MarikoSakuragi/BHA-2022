@@ -3,36 +3,29 @@
 ## 3/22(Tue) Prototype 1
 
 どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
+<br/>
+### References & Notes<br/>
 ・[https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/](https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/)<br/>
-￼<br/>
 ・回転と力の伝わり方<br/>
 [https://www.mabuchi-motor.co.jp/motorize/teck/](https://www.mabuchi-motor.co.jp/motorize/teck/)<br/>
-<br/>
 歯車ABC 入門編 p.17<br/>
 [https://www.khkgears.co.jp/gear_technology/pdf/gearabc_a.pdf](https://www.khkgears.co.jp/gear_technology/pdf/gearabc_a.pdf)<br/>
-<br/>
 歯車の種類と動き<br/>
 [https://tutorials.shade3d.jp/歯車の種類と動き/post/2391](https://tutorials.shade3d.jp/歯車の種類と動き/post/2391)<br/>
 ⇨軸と歯車が組み合わさったものは「ウォームギア」というらしい<br/>
-⇨ネットにデータがありそう。探す。<br/>
+⇨ネットにデータがありそうなので探す。<br/>
 ↓<br/>
 [Makebotで検索（Search word: "worm gear"）](https://www.thingiverse.com/search?q=worm+gear&type=things&sort=relevant)<br/>
 ⇨色々出てきた。<br/>
-<br/>
 ・土台付き手回し歯車<br/>
 [https://www.thingiverse.com/thing:2791504](https://www.thingiverse.com/thing:2791504)<br/>
-￼<br/>
 ・ウォームギア<br/>
 [https://www.thingiverse.com/thing:2480647](https://www.thingiverse.com/thing:2480647)￼<br/>
-￼<br/>
-・かなり遠心分離機に近い構造のものも見つかった。回転数はどれほどだろう。￼<br/>
+・かなり遠心分離機に近い構造のものも見つかった。回転数はどれほどか。￼<br/>
 [https://www.thingiverse.com/thing:2170237](https://www.thingiverse.com/thing:2170237)￼<br/>
-￼<br/>
 ・「Centrifuge」で検索をかけたところ、[電動ドリルに取り付けただけの遠心分離機](https://www.thingiverse.com/thing:4583027)を発見した。これはなかなかの代物。<br/>
-<br/>
 ・手回し遠心分離機のデータを発見！これはかなり求めているものに近いのではないか。<br/>
 [https://www.thingiverse.com/thing:946640](https://www.thingiverse.com/thing:946640)<br/>
-<br/>
 ・ブンブン駒型<br/>
 [https://www.thingiverse.com/thing:1946291](https://www.thingiverse.com/thing:1946291)<br/>
 <br/>
@@ -61,7 +54,7 @@ A Swedish engineer invented the first centrifuge in 1880s in order to help cattl
 [https://youtu.be/nX0NNfV8nWw](https://youtu.be/nX0NNfV8nWw)<br/>
 [![thumbnail](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
 <br/>
-### 4/2(Sat)
+## 4/2(Sat)
 To understand and speculate the works of gear, I thought about making prototype by assembling gears.<br/>
 とりあえずモデルを作ってみる。それがうまく動けば、3Dモデルソフトでその再現を目指したい。<br/>
 <br/>
@@ -72,7 +65,7 @@ I visited Sengoku Densho again.<br/>
 A variety of gears are soldon the 3rd floor.<br/>
 ![Proto_1_1](/photo/Proto_1_1.jpg)<br/>
 <br/>
-**What I bought**
+### **What I bought**
 ・[Spun gear (50 teeth, 1.0 module)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=8AGA-HGKC) ¥649<br/>
 ・[Handle(40mm, 3.0module)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=4AZU-JFFG()  ¥682<br/>
 ・Bevel gear (? teeth, 6.0 module) ¥490<br/>
@@ -82,7 +75,7 @@ A variety of gears are soldon the 3rd floor.<br/>
 <br/>
 Note: I couldn't find plate-shaped materials in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
 <br/>
-**Additional items purchased**<br/>
+### **Additional items purchased**
 ・[Screw rod (3mm*59mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=5A8D-CJEJ)  ¥396<br/>
 ・Hexagon head nut(3mm) * 6 = ¥60<br/>
 ・[Mini Glue](https://www.amazon.co.jp/アロンアルフア-EXTRA-ミニ×4-0-5g×4-04611/dp/B000IGRZ2W/ref=asc_df_B000IGRZ2W/?tag=jpgo-22&linkCode=df0&hvadid=222868425990&hvpos=&hvnetw=g&hvrand=13755070881471756200&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20636&hvtargid=pla-440365886762&psc=1&th=1&psc=1) ¥396<br/>
@@ -137,6 +130,10 @@ After adjusting the height of the bevel gear, then it worked (just a little bit.
 ![GIF Cent_proto_3(working)](photo/Cent_proto_3(working).gif)<br/>
 Anyway, it was good to know that the gears' teeth are meshing and able to move, even though it moved awkward.<br/>
 <br/>
+Radio controlled car centrifuge?<br/>
+Maybe using motor-kits for radio controlled car is easier...?<br/>
+However, I will try to make hand-cranked centrifuge firstly as challenge.
+<br/>
 こっちを使ったほうがよっぽど早いのでは、という誘惑（3000円くらいだし）……。しかしひとまずは一から作ることに挑戦してみたい。<br/>
 ![Motor gear box](photo/Motor gear box.jpg)<br/>
 <br/>
@@ -147,8 +144,10 @@ Anyway, it was good to know that the gears' teeth are meshing and able to move, 
 ・ハンドルが小さくて回しにくいので、これも改良したい。<br/>
 ・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。
 <br/>
-## 3/23(Sun) Prototype 2
+<br/>
+## 4/3(Sun) Prototype 2
 Place: FabCafe Material<br/>
+<br/>
 ![Sample](/photo/93290-2.jpg)<br/>
 <br/>
 ![Moving the handle](/photo/Spinning_2.gif)<br/>

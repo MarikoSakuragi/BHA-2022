@@ -71,6 +71,9 @@ p.219<br/>
 <br/>
 [1951年のクリーンベンチ（毎日新聞）](https://photobank.mainichi.co.jp/kiji_detail.php?id=P20130813dd1dd1phj322000)<br/>
 <br/>
+Infographics: how centrifuge have developed<br/>
+![History of Centrifuge Infogragh](FinalProject/photo/LM_Centrifuge_Infographic.jpg)<br/>
+<br/>
 ### 3/22(Tue)
 どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
 ・[https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/](https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/)<br/>

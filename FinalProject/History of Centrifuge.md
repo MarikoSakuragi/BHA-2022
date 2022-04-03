@@ -55,6 +55,17 @@ William B. Jensen. 2017. Fleeing the Center:A Brief History of the Laboratory Ce
 （The articule for the exhibition シンシナティ大学化学生物学図書館とシンシナティ大学化学学部の共同事業である「化学史におけるエスパー・コレクション」から。エスパー（Ralph Edward Oesper: 1886-1977）は化学者で、1918年から1951年までシンシナティ大学で教鞭をとった。）<br/>
 <br/>
 ### Centrifuge in Dairy Farming
+### 4/1(Fri)
+**Movie: History of Centrifuge**<br/>
+[https://youtu.be/Q3CSUfjfgus](https://youtu.be/Q3CSUfjfgus)<br/>
+[![thumbnail](https://img.youtube.com/vi/Q3CSUfjfgus/0.jpg)](https://www.youtube.com/watch?v=Q3CSUfjfgus)<br/>
+The origin of centrifuge that was developed for milk separation.<br/>
+A Swedish engineer invented the first centrifuge in 1880s in order to help cattle farmers to separate fresh cream from milk.<br/>
+<br/>
+"How to work centrifuge basic principe"<br/>
+[https://youtu.be/nX0NNfV8nWw](https://youtu.be/nX0NNfV8nWw)<br/>
+[![thumbnail](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
+<br/>
 #### Babcock centrifuge<br/>
 Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  at the University of Wisconsin, developed Babcock centrifuge (See picture). He made it to "test for the butterfat content of milk known as the Babcock test"(Jensen 2017:1). The test became popular among creameries and cheese factories to prevent farmer from diluting milk.<br/>
 （*Butterfat=乳脂肪*）<br/>

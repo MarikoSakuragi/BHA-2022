@@ -149,5 +149,7 @@ Anyway, it was good to know that the gears' teeth are meshing and able to move, 
 <br/>
 ## 3/23(Sun) Prototype 2
 Place: FabCafe Material<br/>
-![完成図](/photo/93290-2.jpg)<br/>
+![Sample](/photo/93290-2.jpg)<br/>
+<br/>
+![Moving the handle](/photo/Spinning_2.jpg)<br/>
 <br/>

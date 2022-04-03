@@ -1,6 +1,6 @@
 # Centrifuge DIY
 
-### 3/22(Tue)
+## 3/22(Tue) Prototype 1
 
 どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
 ・[https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/](https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/)<br/>
@@ -146,4 +146,8 @@ Anyway, it was good to know that the gears' teeth are meshing and able to move, 
 ・今の歯車の数では回転数がかなり遅いと思われる。より速い回転を得たければ、もっと歯車の数を増やす必要がある。<br/>
 ・ハンドルが小さくて回しにくいので、これも改良したい。<br/>
 ・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。
+<br/>
+## 3/23(Sun) Prototype 2
+Place: FabCafe Material<br/>
+![完成図](/photo/93290-2.jpg)<br/>
 <br/>

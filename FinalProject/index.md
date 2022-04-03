@@ -71,7 +71,7 @@ p.219<br/>
 <br/>
 [1951年のクリーンベンチ（毎日新聞）](https://photobank.mainichi.co.jp/kiji_detail.php?id=P20130813dd1dd1phj322000)<br/>
 <br/>
-Infographics: how centrifuge have developed<br/>
+#### Infographics: how centrifuge have developed<br/>
 ![History of Centrifuge Infogragh](/photo/LM_Centrifuge_Infographic.jpg)<br/>
 <br/>
 "**1864**: Antonin Prandtl developed and commercialized the first dairy centrifuge for separating cream from milk."<br/>
@@ -99,6 +99,11 @@ Infographics: how centrifuge have developed<br/>
 （・・・・）
 William B. Jensen. 2017. Fleeing the Center:A Brief History of the Laboratory Centrifuge(Notes from the Oesper Collections), *Museum Notes*, No.47, 1-4.<br/>
 [https://drc.libraries.uc.edu/bitstream/handle/2374.UC/750867/Fleeing_the_Center.pdf?sequence=1](https://drc.libraries.uc.edu/bitstream/handle/2374.UC/750867/Fleeing_the_Center.pdf?sequence=1)<br/>
+（The articule for the exhibition シンシナティ大学化学生物学図書館とシンシナティ大学化学学部の共同事業である「化学史におけるエスパー・コレクション」から。エスパー（Ralph Edward Oesper: 1886-1977）は化学者で、1918年から1951年までシンシナティ大学で教鞭をとった。）<br/>
+<br/>
+#### Babcock centrifuge<br/>
+Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  at the University of Wisconsin, developed Babcock centrifuge (See picture). He made it to "test for the butterfat content of milk known as the Babcock test"(Jensen 2017:1). The test became popular among creameries and cheese factories to prevent farmer from diluting milk.<br/>
+It is really similar to the centrifuge which I saw on the Shimazu Seisakusho's catalogue published in 1941. It could be thought that the designs of centrifuge both in science and dairy farming were alike until a certain point. It is quite interesting.<br/>
 <br/>
 ### 3/22(Tue)
 どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
@@ -145,7 +150,7 @@ Fusion360ではなく3DCADを使用<br/>
 <br/>
 ・動画　かさ歯車その２<br/>
 [https://www.youtube.com/watch?v=4XWLYM0b8FI](https://www.youtube.com/watch?v=4XWLYM0b8FI)<br/>
-![https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg](https://www.youtube.com/watch?v=4XWLYM0b8FI](https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg)<br/>
+![https://img.youtube.com/vi/4XWLYM0b8FI/0.jpg](https://www.youtube.com/watch?v=4XWLYM0b8FI)<br/>
 こっちはFusion。英語で検索したら出てきた。見よう見まねでなんとか作れるだろうか。<br/>
 <br/>
 <br/>

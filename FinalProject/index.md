@@ -72,7 +72,7 @@ p.219<br/>
 [1951年のクリーンベンチ（毎日新聞）](https://photobank.mainichi.co.jp/kiji_detail.php?id=P20130813dd1dd1phj322000)<br/>
 <br/>
 Infographics: how centrifuge have developed<br/>
-![History of Centrifuge Infogragh](FinalProject/photo/LM_Centrifuge_Infographic.jpg)<br/>
+![History of Centrifuge Infogragh](/photo/LM_Centrifuge_Infographic.jpg)<br/>
 <br/>
 "**1869**: Friedrich Miescher was the first to adopt a crude centrifuge for laboratory application, using it to isolate a cell oragelle. This process led to the discovery of an important class of biological constituents, later to be known as nucletic acids."<br/>
 （*Oragelle=細胞小器官*）<br/>
@@ -88,7 +88,7 @@ Infographics: how centrifuge have developed<br/>
 真空遠心分離（？）<br/>
 "**1930s**: Edward Pickels and Johannes Bauer together build the first high-speed vacuum centrifuge suitable for the study of filterable viruses. Later, Pickels went on to develop the more convenient, electrically driven ultracentrifuge."<br/>
 <br/>
-卓上型遠心分離機の発明
+卓上型遠心分離機の発明<br/>
 "**1940s**: Ivan Sorvall started Sorvall in the 1940's, and invented the Superspeed centrifuge, the SS-1, an open tripod tabletop unit."<br/>
 <br/>
 "**1946**: Edward Pickeles cofounded Spinco(Specialized Instruments Corp.) in Bermont, California, and marketed an ultracentrifuge based on his design. However, sales of the technology remained low and Spinco nealy went bankrupt in the early years.""<br/>
@@ -173,10 +173,10 @@ A variety of gears are soldon the 3rd floor.<br/>
 ・[Screw rod](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=4A8D-BJEG) (3mm*29mm) * 2 = ¥594<br/>
 ・[Stainless shaft (6mm) ¥480 -> (5mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4L6A) ¥480<br/>
 <br/>
-Note: I couldn't find a plate in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
+Note: I couldn't find plate-shaped materials in Sengoku Densho that is suitable to fix gears. I should look it for other shops.<br/>
 <br/>
 **Additional items purchased**<br/>
-・[Screw rod (3mm*59mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=5A8D-CJEJ)  ¥396
+・[Screw rod (3mm*59mm)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=5A8D-CJEJ)  ¥396<br/>
 ・Hexagon head nut(3mm) * 6 = ¥60<br/>
 ・[Mini Glue](https://www.amazon.co.jp/アロンアルフア-EXTRA-ミニ×4-0-5g×4-04611/dp/B000IGRZ2W/ref=asc_df_B000IGRZ2W/?tag=jpgo-22&linkCode=df0&hvadid=222868425990&hvpos=&hvnetw=g&hvrand=13755070881471756200&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20636&hvtargid=pla-440365886762&psc=1&th=1&psc=1) ¥396<br/>
 ・Clay（ダイソー）¥110<br/>

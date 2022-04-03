@@ -52,9 +52,12 @@ William B. Jensen. 2017. Fleeing the Center:A Brief History of the Laboratory Ce
 [https://drc.libraries.uc.edu/bitstream/handle/2374.UC/750867/Fleeing_the_Center.pdf?sequence=1](https://drc.libraries.uc.edu/bitstream/handle/2374.UC/750867/Fleeing_the_Center.pdf?sequence=1)<br/>
 （The articule for the exhibition シンシナティ大学化学生物学図書館とシンシナティ大学化学学部の共同事業である「化学史におけるエスパー・コレクション」から。エスパー（Ralph Edward Oesper: 1886-1977）は化学者で、1918年から1951年までシンシナティ大学で教鞭をとった。）<br/>
 <br/>
+### Centrifuge in Dairy Farming
 #### Babcock centrifuge<br/>
 Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  at the University of Wisconsin, developed Babcock centrifuge (See picture). He made it to "test for the butterfat content of milk known as the Babcock test"(Jensen 2017:1). The test became popular among creameries and cheese factories to prevent farmer from diluting milk.<br/>
 （*Butterfat=乳脂肪*）<br/>
+[Wikipedia(Japanese)](https://wikipredia.net/ja/Babcock_test)<br/>
+（詳しく言えば、この検査では、牛乳を特製のフラスコの中に入れ、そこに濃硫酸を加え、脂肪の遊離を促す。700～1200rpm × 5min.）<br/>
 <br/>
 ![Babcock_centrifuge](/photo/Babcock_centrifuge.jpeg)<br/>
 <br/>
@@ -72,5 +75,6 @@ It is really similar to the centrifuge which I saw on the Shimazu Seisakusho's c
 [https://www.youtube.com/watch?v=hJoC3AyZBYk](https://www.youtube.com/watch?v=hJoC3AyZBYk)<br/>
 ![Babcock_centrifuge_4](/photo/Babcock_centrifuge_4.jpeg)<br/>
 ![Babcock_centrifuge_5](/photo/Babcock_centrifuge_5.jpeg)<br/>
+![Babcock_centrifuge_6](/photo/Babcock_centrifuge_6.jpeg)<br/>
 <br/>
 <br/>

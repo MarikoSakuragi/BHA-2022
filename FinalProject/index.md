@@ -74,6 +74,26 @@ p.219<br/>
 Infographics: how centrifuge have developed<br/>
 ![History of Centrifuge Infogragh](FinalProject/photo/LM_Centrifuge_Infographic.jpg)<br/>
 <br/>
+"**1869**: Friedrich Miescher was the first to adopt a crude centrifuge for laboratory application, using it to isolate a cell oragelle. This process led to the discovery of an important class of biological constituents, later to be known as nucletic acids."<br/>
+（*Oragelle=細胞小器官*）<br/>
+<br/>
+"**1879**: Gustaf de Laval, a Swedish engineer and inventor, demonstrates the first continuous centrifugal separator, leading to the widespread commercialization of the technology for the first time"<br/>
+<br/>
+超遠心機<br/>
+"**1920-1930**: Theodor Svedberg, a Swedish colloid chemist, develops the first ultracentrifuge. Capable of achieving 900,000×g, Svedberg used his centrifuge to determine the molecular weight and subunit structure of highly complex proteins such as hemoglobin"<br/>
+<br/>
+エアーコンプセッサー式、分析機器から飼料調整に以降<br/>
+"**1930**: Emile Henriot developed a centirifuge able to achieve high rotational speeds by means of a bearingless top, driven and supported by compressed air. This transitioned the ultracentrifuge out of the realm of a purely analytical instrument and into sample preparation."<br/>
+<br/>
+真空遠心分離（？）<br/>
+"**1930s**: Edward Pickels and Johannes Bauer together build the first high-speed vacuum centrifuge suitable for the study of filterable viruses. Later, Pickels went on to develop the more convenient, electrically driven ultracentrifuge."<br/>
+<br/>
+卓上型遠心分離機の発明
+"**1940s**: Ivan Sorvall started Sorvall in the 1940's, and invented the Superspeed centrifuge, the SS-1, an open tripod tabletop unit."<br/>
+<br/>
+"**1946**: Edward Pickeles cofounded Spinco(Specialized Instruments Corp.) in Bermont, California, and marketed an ultracentrifuge based on his design. However, sales of the technology remained low and Spinco nealy went bankrupt in the early years.""<br/>
+<br/>
+"**1949**: Spinco introduces the Model L, the first preparative ultracentrifuge to reach a speed of 40,000rpm, and marking a change in the fortunes of Spinco."<br/>
 ### 3/22(Tue)
 どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
 ・[https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/](https://monozukuri.sqcd-aid.com/日本の国でものづくり、ひとづくりを行いましょ/index-of-basic/28-1-introduction-of-gear/)<br/>

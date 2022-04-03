@@ -1,5 +1,9 @@
 # Final Project
 
+[Notes(First Ideas)](FinalProject/Notes.md)<br/>
+[History of Centrifuge](FinalProject/History of Centrifuge.md)<br/>
+[Centrifuge DIY](FinalProject/Centrifuge DIY.md)<br/>
+
 リサーチャーなので、調査をベースとしたものにしたい<br/>
 <br/>
 ## Ideas and keywords

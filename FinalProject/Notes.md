@@ -1,4 +1,4 @@
-###  Ideas and keywords
+#  Ideas and keywords
 ## 3/18
 I have no making/programming/modeling skills. If anything, my strong points to research steadily and writing documents. For this reason, I would like to make something based on (hopefully) thick research to make up for my weakness not having great making skills.<br/>
 <br/>

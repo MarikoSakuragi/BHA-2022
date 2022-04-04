@@ -247,8 +247,8 @@ The subject I took were bark, cherry blossom, soils, a manhole.<br/>
 Three days later, I found that there was something growing along the swab marks in two of the samples! These are the sample taken from soils and manhole. In the soil medium, there were something like bacteria which color was yellow and partly slightly purple. The color of manhole sample was light lemon. I wasn't expecting much honestlly, so I was happy to see the change on the medium. The other cherry petal and bark samples showed no change, so it seems that it is better to take samples from a moist place than a dry place.
 <br/>
 <br/>
-![Sample_Soil](/photo/Sample_bacteria.jpg)</br>
-![Sample_Manhole](/photo/Sample_Manhole.jpg)</br>
+![Sample_Soil](/photo/Sample_soil.jpg)</br>
+![Sample_Manhole](/photo/Sample_manhole.jpg)</br>
 <br/>
 ## Combucha
 **3/24(Thu)**<br/>

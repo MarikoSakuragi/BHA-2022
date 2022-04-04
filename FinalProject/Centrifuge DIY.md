@@ -43,17 +43,6 @@ Fusion360ではなく3DCADを使用<br/>
 こっちはFusion。英語で検索したら出てきた。見よう見まねでなんとか作れるだろうか。<br/>
 <br/>
 <br/>
-### 4/1(Fri)
-History of centrifuge<br/>
-[https://youtu.be/Q3CSUfjfgus](https://youtu.be/Q3CSUfjfgus)<br/>
-[![thumbnail](https://img.youtube.com/vi/Q3CSUfjfgus/0.jpg)](https://www.youtube.com/watch?v=Q3CSUfjfgus)<br/>
-The origin of centrifuge that was developed for milk separation.<br/>
-A Swedish engineer invented the first centrifuge in 1880s in order to help cattle farmers to separate fresh cream from milk.<br/>
-<br/>
-"How to work centrifuge basic principe"<br/>
-[https://youtu.be/nX0NNfV8nWw](https://youtu.be/nX0NNfV8nWw)<br/>
-[![thumbnail](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
-<br/>
 ## 4/2(Sat)
 To understand and speculate the works of gear, I thought about making prototype by assembling gears.<br/>
 とりあえずモデルを作ってみる。それがうまく動けば、3Dモデルソフトでその再現を目指したい。<br/>
@@ -157,5 +146,6 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 <br/>
 ![Moving the handle](/photo/Spinning_2.gif)<br/>
 <br/>
+・総制作時間：約2時間<br/>
 ・安定感が大事<br/>
 ・土台と歯車＋軸の関係性がよく分かっていない。スムーズに回らせるにはどうしたらいいか？<br/>

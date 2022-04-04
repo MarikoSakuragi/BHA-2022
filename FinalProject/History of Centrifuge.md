@@ -66,7 +66,7 @@ A Swedish engineer invented the first centrifuge in 1880s in order to help cattl
 [https://youtu.be/nX0NNfV8nWw](https://youtu.be/nX0NNfV8nWw)<br/>
 [![thumbnail](https://img.youtube.com/vi/nX0NNfV8nWw/0.jpg)](https://www.youtube.com/watch?v=nX0NNfV8nWw)<br/>
 <br/>
-#### Babcock centrifuge<br/>
+#### "Babcock centrifuge"<br/>
 Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  at the University of Wisconsin, developed Babcock centrifuge (See picture). He made it to "test for the butterfat content of milk known as the Babcock test"(Jensen 2017:1). The test became popular among creameries and cheese factories to prevent farmer from diluting milk.<br/>
 （*Butterfat=乳脂肪*）<br/>
 [Wikipedia(Japanese)](https://wikipredia.net/ja/Babcock_test)<br/>
@@ -81,7 +81,7 @@ Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  a
 (Image from [here](https://www.alamy.com/the-chemistry-of-farm-practice-agricultural-chemistry-milk-and-its-products-205-fig-67centrifuge-for-the-babcock-test-please-note-that-these-images-are-extracted-from-scanned-page-images-that-may-have-been-digitally-enhanced-for-readability-coloration-and-appearance-of-these-illustrations-may-not-perfectly-resemble-the-original-work-keitt-thomas-ellison-from-old-catalog-new-york-j-wiley-amp-sons-inc-etc-etc-image234987983.html))<br/>
 <br/>
 The picture how it was used.<br/>
-![Babcock_centrifuge_3](photo/Babcock_centrifuge_3.png)<br/>
+![Babcock_centrifuge_3](/photo/Babcock_centrifuge_3.png)<br/>
 (Image from [here](https://wi101.wisc.edu/2013/12/01/how-does-a-babcock-tester-work/))<br/>
 <br/>
 It is really similar to the centrifuge which I saw on the Shimazu Seisakusho's catalogue published in 1941. It could be thought that the designs of centrifuge both in science and dairy farming were alike until a certain point. It is quite interesting.<br/>

@@ -24,6 +24,7 @@ p.219<br/>
 <br/>
 #### Infographics: how centrifuge have developed<br/>
 ![History of Centrifuge Infogragh](/photo/LM_Centrifuge_Infographic.jpg)<br/>
+(Image from [here](https://cdn2.hubspot.net/hubfs/547446/LabManager/Downloads/Infographics/Centrifuge/LM_Centrifuge_Infographic-2017-final.pdf?t=1501057410560))<br/>
 <br/>
 "**1864**: Antonin Prandtl developed and commercialized the first dairy centrifuge for separating cream from milk."<br/>
 <br/>
@@ -74,10 +75,10 @@ Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  a
 この検査では、牛乳を特製のフラスコの中に入れ、そこに濃硫酸を加え、脂肪の遊離を促す。<br/>
 700～1200rpm × 5min.<br/>
 <br/>
-![Babcock_centrifuge](/photo/Babcock_centrifuge.jpeg)<br/>
+![Babcock_centrifuge](/photo/Babcock_centrifuge.jpg)<br/>
 <br/>
 ↓これが大型化してこう変化？<br/>
-![Babcock_centrifuge_2](/photo/Babcock_centrifuge_2.jpeg)<br/>
+![Babcock_centrifuge_2](/photo/Babcock_centrifuge_2.jpg)<br/>
 (Image from [here](https://www.alamy.com/the-chemistry-of-farm-practice-agricultural-chemistry-milk-and-its-products-205-fig-67centrifuge-for-the-babcock-test-please-note-that-these-images-are-extracted-from-scanned-page-images-that-may-have-been-digitally-enhanced-for-readability-coloration-and-appearance-of-these-illustrations-may-not-perfectly-resemble-the-original-work-keitt-thomas-ellison-from-old-catalog-new-york-j-wiley-amp-sons-inc-etc-etc-image234987983.html))<br/>
 <br/>
 The picture how it was used.<br/>
@@ -88,8 +89,8 @@ It is really similar to the centrifuge which I saw on the Shimazu Seisakusho's c
 <br/>
 **Movie**<br/>
 [https://www.youtube.com/watch?v=hJoC3AyZBYk](https://www.youtube.com/watch?v=hJoC3AyZBYk)<br/>
-![Babcock_centrifuge_4](/photo/Babcock_centrifuge_4.jpeg)<br/>
-![Babcock_centrifuge_5](/photo/Babcock_centrifuge_5.jpeg)<br/>
-![Babcock_centrifuge_6](/photo/Babcock_centrifuge_6.jpeg)<br/>
+![Babcock_centrifuge_4](/photo/Babcock_centrifuge_4.jpg)<br/>
+![Babcock_centrifuge_5](/photo/Babcock_centrifuge_5.jpg)<br/>
+![Babcock_centrifuge_6](/photo/Babcock_centrifuge_6.jpg)<br/>
 <br/>
 <br/>

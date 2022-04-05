@@ -249,7 +249,7 @@ Three days later, I found that there was something growing along the swab marks 
 <br/>
 ![Sample_Soil](/photo/Sample_soil.jpg)</br>
 ![Sample_Manhole](/photo/Sample_manhole.jpg)</br>
-<br/>
+</br>
 ## Combucha
 **3/24(Thu)**<br/>
 ### What is Combucha?
@@ -294,4 +294,5 @@ Waiting for growing...<br/>
 <br/>
 3/29(Tue) It appeard that I made a mistake! Combucha need not to put into refrigerator, rather it is better to be warmer place for the fermentation.<br/>
 <br/>
+4/5(Tue) I have checked how Combucha is going. But I couldn't feel any change inside it, and the smell was just like black tea.<br/>
 <br/>

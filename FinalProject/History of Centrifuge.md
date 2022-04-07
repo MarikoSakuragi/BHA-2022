@@ -82,7 +82,7 @@ Stephen Moulton Babcock (1843-1931), who was an American agricultural chemist  a
 (Image from [here](https://www.alamy.com/the-chemistry-of-farm-practice-agricultural-chemistry-milk-and-its-products-205-fig-67centrifuge-for-the-babcock-test-please-note-that-these-images-are-extracted-from-scanned-page-images-that-may-have-been-digitally-enhanced-for-readability-coloration-and-appearance-of-these-illustrations-may-not-perfectly-resemble-the-original-work-keitt-thomas-ellison-from-old-catalog-new-york-j-wiley-amp-sons-inc-etc-etc-image234987983.html))<br/>
 <br/>
 The picture how it was used.<br/>
-![Babcock_centrifuge_3](/photo/Babcock_centrifuge_3.png)<br/>
+![Babcock_centrifuge_3](/photo/Babcock_centrifuge_3.jpg)<br/>
 (Image from [here](https://wi101.wisc.edu/2013/12/01/how-does-a-babcock-tester-work/))<br/>
 <br/>
 It is really similar to the centrifuge which I saw on the Shimazu Seisakusho's catalogue published in 1941. It could be thought that the designs of centrifuge both in science and dairy farming were alike until a certain point. It is quite interesting.<br/>

@@ -184,10 +184,10 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 <br/>
 ![Moving the handle](/photo/Spinning_2.gif)<br/>
 <br/>
-かさ歯車も取り付けたかったけれど、薄いコルクにシャフトを取り付けるのが難しそうだったのと、かさ歯車とシャフトのの隙間を埋める方法をまだ思いつかなかったので、この日はここまででギブアップ。ただし前回よりは形になった。<br/>
-<br/>
 木の支えがちょっと心もとなかったので、マスキングテープで補強。<br/>
 ![Sample](/photo/93290-2.jpg)<br/>
+<br/>
+かさ歯車も取り付けたかったけれど、薄いコルクにシャフトを取り付けるのが難しそうだったのと、かさ歯車とシャフトのの隙間を埋める方法をまだ思いつかなかったので、この日はここまででギブアップ。ただし前回よりは形になったと思う。<br/>
 <br/>
 ## 4/4(Mon) Review & Advises
 ### Technical Advises
@@ -200,8 +200,9 @@ I was given many fruitful advises by the other members.<br/>
 ・Fix gears to shafts with "Imoneji 芋ねじ" (a tiny screw).<br/>
 <br/>
 Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mechanisms）](https://www.amazon.co.jp/メカニズムの事典-伊藤-茂/dp/4274069648/ref=asc_df_4274069648/?tag=jpgo-22&linkCode=df0&hvadid=280512638360&hvpos=&hvnetw=g&hvrand=15566208541528392394&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1009308&hvtargid=pla-525315917511&psc=1&th=1&psc=1)<br/>
-Proto2_8
+
 ### Feedback from others
+・It is necessary to add something "+α" to my ideas. ⇨**WHAT??**<br/>
 （・・・・・・・・・・・・・）<br/>
 <br/>
 ## 4/5(Tue) LEGO Centrifuge?

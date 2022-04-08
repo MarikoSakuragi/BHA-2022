@@ -244,12 +244,23 @@ The subject I took were bark, cherry blossom, soils, a manhole.<br/>
 ![Manhole](/photo/92750.jpg)<br/>
 <br/>
 **4/4 (Mon) Something appear on the mediums!**<br/>
-Three days later, I found that there was something growing along the swab marks in two of the samples! These are the sample taken from soils and manhole. In the soil medium, there were something like bacteria which color was yellow and partly slightly purple. The color of manhole sample was light lemon. I wasn't expecting much honestlly, so I was happy to see the change on the medium. The other cherry petal and bark samples showed no change, so it seems that it is better to take samples from a moist place than a dry place.
+Three days later, I found that there was something growing along the swab marks in two of the samples! These are the sample taken from soils and manhole. In the soil medium, there were something like bacteria which color was yellow and partly slightly purple. The color of manhole sample was light lemon. I wasn't expecting much honestly, so I was happy to see the change on the medium. The other cherry petal and bark samples showed no change, so it seems that it is better to take samples from a moist place than a dry place.
 <br/>
 <br/>
-![Sample_Soil](/photo/Sample_soil.jpg)</br>
-![Sample_Manhole](/photo/Sample_manhole.jpg)</br>
-</br>
+![Sample_Soil](/photo/Sample_soil.jpg)<br/>
+![Sample_Manhole](/photo/Sample_manhole.jpg)<br/>
+<br/>
+**4/8(Fri) Growing more**<br/>
+After 1 week from sampling day, I found molds on the other samples which I found almost nothing from them at 4/4. These patterns and kinds were different each other. It was really pleasure to watch. 
+<br/>
+<br/>
+![Sample_Soil_2](/photo/Sample_soil_2.jpg)<br/>
+![Sample_Manhole_2](/photo/Sample_manhole_2.jpg)<br/>
+![Sample_bark1_2](/photo/Sample_bark1_2.jpg)<br/>
+![Sample_bark2_2](/photo/Sample_bark2_2.jpg)<br/>
+![Sample_sakura_2](/photo/Sample_sakura_2.jpg)<br/>
+<br/>
+<br/>
 ## Combucha
 **3/24(Thu)**<br/>
 ### What is Combucha?

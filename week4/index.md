@@ -253,8 +253,8 @@ Three days later, I found that there was something growing along the swab marks 
 **Manhole**<br/>
 ![Sample_Manhole](/photo/Sample_manhole.jpg)<br/>
 <br/>
-**4/8(Fri) Growing more**<br/>
-After 1 week from sampling day, I found molds on the other samples which I found almost nothing from them at 4/4. Especially one of the bark samples, it was grew a lot! These patterns and kinds were different each other. It was really pleasure to watch.
+**4/8（Fri） Grow more**<br/>
+After 1 week from the sampling day, I found molds on the other samples which I found almost nothing from them at 4/4. Especially one of the bark samples, it was grew a lot! These patterns and kinds were different each other. It was really pleasure to watch.
 <br/>
 <br/>
 **Soil**<br/>
@@ -270,7 +270,7 @@ After 1 week from sampling day, I found molds on the other samples which I found
 **Sakura**<br/>
 ![Sample_sakura_2](/photo/Sample_sakura_2.jpg)<br/>
 <br/>
-**Question**<br/>
+**Questions**<br/>
 ・What kind of molds in these samples? I'm particularly curious about what is the purple one (took from soil).<br/>
 ・How to know what is the kinds which grow?<br/>
 <br/>

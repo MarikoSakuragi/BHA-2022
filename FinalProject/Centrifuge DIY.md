@@ -1,4 +1,6 @@
 # Centrifuge DIY
+（Abstract..........)<br/>
+<br/>
 
 ## 3/22(Tue) Prototype 1
 
@@ -131,7 +133,11 @@ However, I will try to make hand-cranked centrifuge firstly as challenge.
 ・棒の隙間を埋める<br/>
 ・今の歯車の数では回転数がかなり遅いと思われる。より速い回転を得たければ、もっと歯車の数を増やす必要がある。<br/>
 ・ハンドルが小さくて回しにくいので、これも改良したい。<br/>
-・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。
+・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。<br/>
+<br/>
+備忘録
+・もはや何でも遠心分離機に見えてきた<br/>
+・だんだん部品の名前を覚えてきた。ウォームギア、かさ歯車、シャフト etc...<br/>
 <br/>
 <br/>
 ## 4/3(Sun) Prototype 2
@@ -167,7 +173,8 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 上下の板をどうやって一致させるかを考えていなかった。<br/>
 最初はコルクボードの端切れを使って支えにできるかと思ったが、元々の薄さがかなり薄いのであまり補強にならないと分かる。そこで、使うつもりのなかった余りの木枠をノコギリで小さく切って棒状にして、木工ボンドで下の板に貼り付けた。するとそれなりにうまくいった。<br/>
 ![Proto2_5](/photo/Proto2_5.jpg)<br/>
-（危なっかしい手つき……）<br/>
+（This picture reveals I am completely a DIY layperson...!）<br/>
+（どっからどう見ても素人的な手つき……）<br/>
 <br/>
 ![Proto2_6](/photo/Proto2_6.jpg)<br/>
 ![Proto2_7](/photo/Proto2_7.jpg)<br/>
@@ -177,7 +184,7 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 ![Proto2_10](/photo/Proto2_10.jpg)<br/>
 <br/>
 歯車の噛み合いも問題なし。<br/>
-ただ、軸の部分がネジなので、回せば回すほどネジが締まっていき、歯車の位置が次第に変わってしまうという問題が発生した。<br/>
+ただ、軸の部分がネジなので、回せば回すほどネジが締まっていき、歯車の位置が次第に変わってしまうという問題が発生した。最終的にハンドルが動かせなくなってしまう。<br/>
 →ネジではなく、丸い棒を軸として使ったほうがよい？<br/>
 　その場合、歯車はどうやって棒のある位置に固定させるのか？<br/>
 ![Proto2_11](/photo/Proto2_11.jpg)<br/>
@@ -205,4 +212,16 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 ・It is necessary to add something "+α" to my ideas. ⇨**WHAT??**<br/>
 （・・・・・・・・・・・・・）<br/>
 <br/>
-## 4/5(Tue) LEGO Centrifuge?
+## 4/5(Tue) Feedback Part2 & LEGO Centrifuge?
+・再現するだけでは面白くない（ゲオルグさん）<br/>
+・タケコプターみたい（ミサさん）<br/>
+・昔の遠心分離機を参考に遠心分離機の仕組みを理解し、その理解によって遠心分離機にアレンジを加えられると面白いのではないか（ミサさん）<br/>
+・ゲオルグさん案：LEGOでプロトタイプ　歴代の遠心分離機をLEGOで再現する<br/>
+・ベルト式にするという案（ゲオルグさん）<br/>
+・使えるものにするかどうか<br/>
+<br/>
+<br/>
+## 4/8(Fri)
+I haven't used Fusion360 since Week3. I have to practice it.<br/>
+<br/>
+<br/>

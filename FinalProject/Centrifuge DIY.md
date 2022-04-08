@@ -218,8 +218,24 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 ・昔の遠心分離機を参考に遠心分離機の仕組みを理解し、その理解によって遠心分離機にアレンジを加えられると面白いのではないか（ミサさん）<br/>
 ・ゲオルグさん案：LEGOでプロトタイプ　歴代の遠心分離機をLEGOで再現する<br/>
 ・ベルト式にするという案（ゲオルグさん）<br/>
-・使えるものにするかどうか<br/>
+・使えるものにするかどうか（私は使えるものにしたい）<br/>
+・アナログなものにこだわりたい<br/>
+・LEGOを貸してもらったので、これで一度プロトタイプ第三弾を作ってみるつもり。<br/>
 <br/>
+## 4/7(Thu) Think More and Search LEGO parts
+・自転車を利用した遠心分離機は既に存在した（存在することにびっくりした）<br/>
+[A Clever Bike-Powered Centrifuge for Developing Countries](https://www.wired.com/2014/12/clever-bike-powered-centrifuge-developing-countries/)<br/>
+（写真）<br/>
+<br/>
+ゲオルグさん案<br/>
+・自転車ダイナモ・・・自転車の車輪に直接チューブを取り付けるより速度が高い<br/>
+・人力車？？<br/>
+<br/>
+・レゴのパーツをどのようにして手に入れるか<br/>
+・候補：メルカリ、Amazon、LEGOサイト、LEGOショップに直接、ホビーオフ<br/>
+・科学者のフィギュアをつけたい<br/>
+・みんなをモデルにした科学者フィギュアを作る（ゲオルグさん案）<br/>
+・バイオラボをレゴで作る？（面白いが別プロジェクトになりそうなので保留）<br/>
 <br/>
 ## 4/8(Fri)
 I haven't used Fusion360 since Week3. I have to practice it.<br/>

@@ -143,27 +143,42 @@ Place: FabCafe Material<br/>
 Yesterday I made a big mistake using clay as a foundation, so today I tried DIY again with a cork board. As I thought it seems better than doing it at home, I did it at FabCafe MTRL that has variety of making tools.<br/>
 Cork board is affordable material for cutting and making a hole. It was easy to deal it.
 <br/>
-![Moving the handle](/photo/Spinning_2.gif)<br/>
-<br/>
 ・総制作時間：約2時間<br/>
 ・安定感が大事<br/>
 ・土台と歯車＋軸の関係性がよく分かっていない。スムーズに回らせるにはどうしたらいいか？<br/>
 <br/>
+・コルクボードを木枠から切り抜く<br/>
 ![Proto2_movie1.gif](/photo/Proto2_movie1.gif)<br/>
 <br/>
 ![Proto2_movie2.gif](/photo/Proto2_movie2.gif)<br/>
 <br/>
+土台に適当な大きさの板を作る。カッターでコルクを切る。<br/>
+上の板：縦9×横10cm、下の板：奥行き9×横10cm<br/>
+下の板は薄っぺらかったので、同じ大きさのを２枚重ねてボンドで貼り合わせた。<br/>
 ![Proto2_1](/photo/Proto2_1.jpg)<br/>
 ![Proto2_2](/photo/Proto2_2.jpg)<br/>
+<br/>
+歯車の軸を通す位置を決め、キリで穴を開ける。コルクなので穴を開けるのは簡単だった。<br/>
 ![Proto2_3](/photo/Proto2_3.jpg)<br/>
+<br/>
+歯車をとりつける。<br/>
 ![Proto2_4](/photo/Proto2_4.jpg)<br/>
+<br/>
+上下の板をどうやって一致させるかを考えていなかった。<br/>
+最初はコルクボードの端切れを使って支えにできるかと思ったが、元々の薄さがかなり薄いのであまり補強にならないと分かる。そこで、使うつもりのなかった余りの木枠をノコギリで小さく切って棒状にして、木工ボンドで下の板に貼り付けた。すると、それなりにうまくいった。<br/>
 ![Proto2_5](/photo/Proto2_5.jpg)<br/>
 ![Proto2_6](/photo/Proto2_6.jpg)<br/>
 ![Proto2_7](/photo/Proto2_7.jpg)<br/>
+<br/>
 ![Proto2_8](/photo/Proto2_8.jpg)<br/>
 ![Proto2_9](/photo/Proto2_9.jpg)<br/>
 ![Proto2_10](/photo/Proto2_10.jpg)<br/>
+<br/>
+歯車の噛み合いも問題なし。<br/>
 ![Proto2_11](/photo/Proto2_11.jpg)<br/>
+<br/>
+<br/>
+![Moving the handle](/photo/Spinning_2.gif)<br/>
 <br/>
 ## 4/4(Mon) Review & Advises
 ### Technical Advises

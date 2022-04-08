@@ -270,6 +270,10 @@ After 1 week from sampling day, I found molds on the other samples which I found
 **Sakura**<br/>
 ![Sample_sakura_2](/photo/Sample_sakura_2.jpg)<br/>
 <br/>
+**Question**<br/>
+・What kind of molds in these samples? I'm particularly curious about what is the purple one (took from soil).<br/>
+・How to know what is the kinds which grow?<br/>
+<br/>
 <br/>
 ## Combucha
 **3/24(Thu)**<br/>

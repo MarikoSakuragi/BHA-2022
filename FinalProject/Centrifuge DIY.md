@@ -143,13 +143,27 @@ Place: FabCafe Material<br/>
 Yesterday I made a big mistake using clay as a foundation, so today I tried DIY again with a cork board. As I thought it seems better than doing it at home, I did it at FabCafe MTRL that has variety of making tools.<br/>
 Cork board is affordable material for cutting and making a hole. It was easy to deal it.
 <br/>
-<video src="movie/Proto_movie2.mp4" muted autoplay playline loop></video><br/>
-<br/>
 ![Moving the handle](/photo/Spinning_2.gif)<br/>
 <br/>
 ・総制作時間：約2時間<br/>
 ・安定感が大事<br/>
 ・土台と歯車＋軸の関係性がよく分かっていない。スムーズに回らせるにはどうしたらいいか？<br/>
+<br/>
+![Proto2_movie1.gif](/photo/Proto2_movie1.gif)<br/>
+<br/>
+![Proto2_movie2.gif](/photo/Proto2_movie2.gif)<br/>
+<br/>
+![Proto2_1](/photo/Proto2_1.jpg)<br/>
+![Proto2_2](/photo/Proto2_2.jpg)<br/>
+![Proto2_3](/photo/Proto2_3.jpg)<br/>
+![Proto2_4](/photo/Proto2_4.jpg)<br/>
+![Proto2_5](/photo/Proto2_5.jpg)<br/>
+![Proto2_6](/photo/Proto2_6.jpg)<br/>
+![Proto2_7](/photo/Proto2_7.jpg)<br/>
+![Proto2_8](/photo/Proto2_8.jpg)<br/>
+![Proto2_9](/photo/Proto2_9.jpg)<br/>
+![Proto2_10](/photo/Proto2_10.jpg)<br/>
+![Proto2_11](/photo/Proto2_11.jpg)<br/>
 <br/>
 ## 4/4(Mon) Review & Advises
 ### Technical Advises

@@ -140,7 +140,6 @@ Place: FabCafe Material<br/>
 <br/>
 ![Sample](/photo/93290-2.jpg)<br/>
 <br/>
-<br/>
 Yesterday I made a big mistake using clay as a foundation, so today I tried DIY again with a cork board. As I thought it seems better than doing it at home, I did it at FabCafe MTRL that has variety of making tools.<br/>
 Cork board is affordable material for cutting and making a hole. It was easy to deal it.
 <br/>
@@ -166,8 +165,10 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 ![Proto2_4](/photo/Proto2_4.jpg)<br/>
 <br/>
 上下の板をどうやって一致させるかを考えていなかった。<br/>
-最初はコルクボードの端切れを使って支えにできるかと思ったが、元々の薄さがかなり薄いのであまり補強にならないと分かる。そこで、使うつもりのなかった余りの木枠をノコギリで小さく切って棒状にして、木工ボンドで下の板に貼り付けた。すると、それなりにうまくいった。<br/>
+最初はコルクボードの端切れを使って支えにできるかと思ったが、元々の薄さがかなり薄いのであまり補強にならないと分かる。そこで、使うつもりのなかった余りの木枠をノコギリで小さく切って棒状にして、木工ボンドで下の板に貼り付けた。するとそれなりにうまくいった。<br/>
 ![Proto2_5](/photo/Proto2_5.jpg)<br/>
+（危なっかしい手つき……）<br/>
+<br/>
 ![Proto2_6](/photo/Proto2_6.jpg)<br/>
 ![Proto2_7](/photo/Proto2_7.jpg)<br/>
 <br/>
@@ -183,7 +184,10 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 <br/>
 ![Moving the handle](/photo/Spinning_2.gif)<br/>
 <br/>
-かさ歯車も取り付けたかったけれど、薄いコルクにシャフトを付けるのが難しそうだったのと、かさ歯車とシャフトのの隙間を埋める方法をまだ思いつかなかったので、この日はここまででギブアップ。ただし前回よりは形になった。<br/>
+かさ歯車も取り付けたかったけれど、薄いコルクにシャフトを取り付けるのが難しそうだったのと、かさ歯車とシャフトのの隙間を埋める方法をまだ思いつかなかったので、この日はここまででギブアップ。ただし前回よりは形になった。<br/>
+<br/>
+木の支えがちょっと心もとなかったので、マスキングテープで補強。<br/>
+![Sample](/photo/93290-2.jpg)<br/>
 <br/>
 ## 4/4(Mon) Review & Advises
 ### Technical Advises

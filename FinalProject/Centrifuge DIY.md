@@ -136,6 +136,7 @@ However, I will try to make hand-cranked centrifuge firstly as challenge.
 <br/>
 ## 4/3(Sun) Prototype 2
 Place: FabCafe Material<br/>
+総制作時間：約2時間<br/>
 <br/>
 ![Sample](/photo/93290-2.jpg)<br/>
 <br/>
@@ -143,16 +144,16 @@ Place: FabCafe Material<br/>
 Yesterday I made a big mistake using clay as a foundation, so today I tried DIY again with a cork board. As I thought it seems better than doing it at home, I did it at FabCafe MTRL that has variety of making tools.<br/>
 Cork board is affordable material for cutting and making a hole. It was easy to deal it.
 <br/>
-・総制作時間：約2時間<br/>
+<br/>
 ・安定感が大事<br/>
 ・土台と歯車＋軸の関係性がよく分かっていない。スムーズに回らせるにはどうしたらいいか？<br/>
 <br/>
 ・コルクボードを木枠から切り抜く<br/>
 ![Proto2_movie1.gif](/photo/Proto2_movie1.gif)<br/>
 <br/>
+土台に適当な大きさの板を作る。カッターでコルクを切る。<br/>
 ![Proto2_movie2.gif](/photo/Proto2_movie2.gif)<br/>
 <br/>
-土台に適当な大きさの板を作る。カッターでコルクを切る。<br/>
 上の板：縦9×横10cm、下の板：奥行き9×横10cm<br/>
 下の板は薄っぺらかったので、同じ大きさのを２枚重ねてボンドで貼り合わせた。<br/>
 ![Proto2_1](/photo/Proto2_1.jpg)<br/>
@@ -175,10 +176,14 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 ![Proto2_10](/photo/Proto2_10.jpg)<br/>
 <br/>
 歯車の噛み合いも問題なし。<br/>
+ただ、軸の部分がネジなので、回せば回すほどネジが締まっていき、歯車の位置が次第に変わってしまうという問題が発生した。<br/>
+→ネジではなく、丸い棒を軸として使ったほうがよい？<br/>
+　その場合、歯車はどうやって棒のある位置に固定させるのか？<br/>
 ![Proto2_11](/photo/Proto2_11.jpg)<br/>
 <br/>
-<br/>
 ![Moving the handle](/photo/Spinning_2.gif)<br/>
+<br/>
+かさ歯車も取り付けたかったけれど、薄いコルクにシャフトを付けるのが難しそうだったのと、かさ歯車とシャフトのの隙間を埋める方法をまだ思いつかなかったので、この日はここまででギブアップ。ただし前回よりは形になった。<br/>
 <br/>
 ## 4/4(Mon) Review & Advises
 ### Technical Advises

@@ -1,4 +1,4 @@
-## T4/7(Thu) hink More and Search LEGO parts
+## T4/7(Thu) Think More and Search LEGO parts
 ・OMG, there is bicycle centrifuge in the world!!<br/>
 ・自転車を利用した遠心分離機は既に存在した（存在することにびっくりした）<br/>
 [A Clever Bike-Powered Centrifuge for Developing Countries](https://www.wired.com/2014/12/clever-bike-powered-centrifuge-developing-countries/)<br/>

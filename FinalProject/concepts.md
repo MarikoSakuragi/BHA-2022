@@ -15,6 +15,6 @@
 ・For what it was used for? How was the design?<br/>
 Actually, I’d like to research about the other lab equipments’ history (ex. incubator). However, because my making skill is not high, I chose centrifuge, thinking about final work.<br/>
 ・Reproduce old style centrifuge by 3D printer, using it for experiments.<br/>
-　（Hopefully, I would like to add some newness on my work.）<br/>
+（Hopefully, I would like to add some newness on my work.）<br/>
 ・+ Record how my imagination and point of view change through the DIY process.<br/>
 <br/>

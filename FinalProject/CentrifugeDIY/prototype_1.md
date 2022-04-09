@@ -5,7 +5,7 @@ To understand and speculate the works of gear, I thought about making prototype 
 とりあえずモデルを作ってみる。それがうまく動けば、3Dモデルソフトでその再現を目指したい。<br/>
 <br/>
 Therefore, I came back Akihabara!!<br/>
-![Akihabara](/photo/Akihabara.jpg)<br/>
+![Akihabara](FinalProject/photo/Akihabara.jpg)<br/>
 <br/>
 I visited Sengoku Densho again.<br/>
 A variety of gears are soldon the 3rd floor.<br/>

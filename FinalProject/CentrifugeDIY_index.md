@@ -5,7 +5,7 @@
 ### [3/23(Wed) Research about gears 2](/CentrifugeDIY/gear_research_2.md)
 ### [4/2(Sat) Protoype 1](/CentrifugeDIY/prototype_1.md)
 ### [4/3(Sun) Prototype 2](/CentrifugeDIY/prototype_2.md)
-### [4/5(Tue) Feedback 1](/CentrifugeDIY/feedback_1.md)
+### [4/４(Mon) Feedback 1](/CentrifugeDIY/feedback_1.md)
 ### [4/5(Tue) Feedback 2 & LEGO Centrifuge?](/CentrifugeDIY/feedback_2.md)
 ### [4/6(Wed) Take-tombo Centrifuge?](/CentrifugeDIY/taketombo.md)
 ### [4/7(Thu) Think More and Search LEGO parts](/CentrifugeDIY/ideas_and_lego.md)

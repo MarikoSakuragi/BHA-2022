@@ -8,8 +8,8 @@
 ### [4/４(Mon) Feedback 1](feedback_1.md)
 ### [4/5(Tue) Feedback 2 & LEGO Centrifuge?](feedback_2.md)
 ### [4/6(Wed) Take-tombo Centrifuge?](taketombo.md)
-### [4/7(Thu) Think More and Search LEGO parts](/ideas_and_lego.md)
-### [4/8(Fri) Prototype 3　-- with LEGO!!](Cprototype_3.md)
+### [4/7(Thu) Think More and Search LEGO parts](ideas_and_lego.md)
+### [4/8(Fri) Prototype 3　-- with LEGO!!](prototype_3.md)
 ### [LEGO Parts](lego_parts.md)
 <br/>
 <br/>

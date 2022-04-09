@@ -1,14 +1,16 @@
 # Centrifuge DIY
 （Abstract..........)<br/>
 <br/>
-## [3/22(Tue)_Research about gears 1](#research_about_gears_1)
-## [3/23(Wed)_Research about gears 2](#research about gears_2)
-## [4/2(Sat) Protoype 1](#prototype_1)
-## [4/3(Sun) Prototype 2](#prototype_2)
-## [4/5(Tue) Feedback Part2 & LEGO Centrifuge?](#feedback_part2_&_lego_centrifuge)
-## [4/6(Wed) Take-tombo Centrifuge?](#take_tombo_centrifuge)
-## [4/7(Thu) Think More and Search LEGO parts](#think_more_and_search_lego_centrifuge)
-## [4/8(Fri) Prototype 3　-- with LEGO!!](#prototype_3_with lego!!)
+### [3/22(Tue)_Research about gears 1](/gear_research_1)
+### [3/23(Wed)_Research about gears 2](/gear_researh_2)
+### [4/2(Sat) Protoype 1](/prototype_1)
+### [4/3(Sun) Prototype 2](/prototype_2)
+### [4/5(Tue) Feedback 1](/feedback_1)
+### [4/5(Tue) Feedback 2 & LEGO Centrifuge?](/feedback_2)
+### [4/6(Wed) Take-tombo Centrifuge?](/taketombo)
+### [4/7(Thu) Think More and Search LEGO parts](/ideas_and_lego)
+### [4/8(Fri) Prototype 3　-- with LEGO!!](/prototype_3)
+### [LEGO Parts](/lego_parts)
 <br/>
 <br/>
 ## Research about gears 1

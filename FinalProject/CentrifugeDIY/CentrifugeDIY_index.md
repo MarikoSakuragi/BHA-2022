@@ -5,12 +5,11 @@
 ・How bio lab has became today’s form?<br/>
 ・Interests in old lab equipments, how they have been blackboxed.<br/>
 <br/>
-・DIYbio… Weird fusion of old and new<br/>
+・**DIYbio… Weird fusion of old and new**<br/>
 <br/>
-・My inspiration is from Urs Gardenz’s lecture (Gaudi Lab).<br/>
-    I am so impressed by his amazing invention of  DIY devices.<br/>
+・My inspiration is from Urs Gardenz’s lecture (Gaudi Lab).I am so impressed by his amazing invention of  DIY devices.<br/>
 ・Re-interpret and reconstruct lab equipments through historical research of lab equipments.<br/>
-・According him, such historical research helps for DIY as reference and inspirations, because old equipments are simpler and more open than modern devices.<br/>
+・According him, such historical research helps for DIY as reference and inspirations, because **old equipments are simpler and more open than modern devices**.<br/>
 ↓
 ### Project：Research/Reproduce/Reconstruct
 ・Research about the historical improvement of Centrifuge<br/>
@@ -21,7 +20,7 @@ Actually, I’d like to research about the other lab equipments’ history (ex. 
 ・+ Record how my imagination and point of view change through the DIY process.<br/>
 <br/>
 <br/>
-### Contents
+## Contents
 ### [3/22(Tue) Research about gears 1](gear_research_1.md)
 ### [3/23(Wed) Research about gears 2](gear_research_2.md)
 ### [4/2(Sat) Protoype 1](prototype_1.md)

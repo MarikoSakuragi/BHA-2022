@@ -1,16 +1,18 @@
 # Centrifuge DIY
 （Abstract..........)<br/>
 <br/>
-## [3/22(Tue)_Prototype_1](#3/22tue_research_about_gears)
-## [3/23(Wed)_Research about gears](#3/23wed_research about gears)
-## [4/2(Sat) Protoype 1](#42sat_prototype_1)
-## [4/3(Sun) Prototype 2](#43sun_prototype_2)
-## [4/5(Tue) Feedback Part2 & LEGO Centrifuge?](#45tue_feedback_Part2_&_lego_centrifuge)
-## [4/6(Wed) Take-tombo Centrifuge?](#46wed_take_tombo_centrifuge)
-## [4/7(Thu) Think More and Search LEGO parts](#47thu_think_more_and_search_lego_centrifuge)
-## [4/8(Fri) Prototype 3　-- with LEGO!!](#48fri_prototype_3__with lego)
-
-## 3/22(Tue) Research about gears
+## [3/22(Tue)_Research about gears 1](#research_about_gears_1)
+## [3/23(Wed)_Research about gears 2](#research about gears_2)
+## [4/2(Sat) Protoype 1](#prototype_1)
+## [4/3(Sun) Prototype 2](#prototype_2)
+## [4/5(Tue) Feedback Part2 & LEGO Centrifuge?](#feedback_part2_&_lego_centrifuge)
+## [4/6(Wed) Take-tombo Centrifuge?](#take_tombo_centrifuge)
+## [4/7(Thu) Think More and Search LEGO parts](#think_more_and_search_lego_centrifuge)
+## [4/8(Fri) Prototype 3　-- with LEGO!!](#prototype_3_with lego!!)
+<br/>
+<br/>
+## Research about gears 1
+### 3/22(Tue)
 
 I was wondering how to mesh two gears vertically to make hand-cranked centrifuge. I Googled it, and got known that the type of gear that mesh vertically is called "bevel-gear"（in Japanese, *Kasa-haguruma* かさ歯車）<br/>
 <br/>.
@@ -43,7 +45,8 @@ I was wondering how to mesh two gears vertically to make hand-cranked centrifuge
 <br/>
 わかったこと・・・一から設計するのはかなり骨が折れそうなので、すでに公開されている既存のリソースを有効活用し、できることならそれをアレンジするほうが、よっぽど簡単だと思われる。<br/>
 <br/>
-### 3/23(Wed) Research about gears
+### Research about gears 2
+### 3/23(Wed)
 Modeling guide lecture<br/>
 ・Movie: bevel-gear かさ歯車<br/>
 [https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg](https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg)<br/>
@@ -56,7 +59,8 @@ Fusion360ではなく3DCADを使用<br/>
 こっちはFusion。英語で検索したら出てきた。見よう見まねでなんとか作れるだろうか。<br/>
 <br/>
 <br/>
-## 4/2(Sat) Prototype 1
+## Prototype 1
+### 4/2(Sat)
 To understand and speculate the works of gear, I thought about making prototype by assembling gears.<br/>
 <br/>
 とりあえずモデルを作ってみる。それがうまく動けば、3Dモデルソフトでその再現を目指したい。<br/>
@@ -161,7 +165,8 @@ However, I will try to make hand-cranked centrifuge firstly as challenge.
 ・I have been hooked on gears because I find it interesting to understand how they work and the different types of gears. I should careful not to dedicate too much to only gears because my main purpose is replicate/recreate classic-style centrifuges, not learning gears itself!<br/>
 <br/>
 <br/>
-## 4/3(Sun) Prototype 2
+## Prototype 2
+### 4/3(Sun)
 Place: FabCafe Material<br/>
 Took about 2 hours<br/>
 <br/>
@@ -246,7 +251,8 @@ Since I was worried about the bound between the wood sticks and the foundation, 
 I wanted to add a vebel-gear to this, since it seemed difficult to attach the shaft to the thin cork and I had not yet figured out how to fill the gap between the bevel gear and the shaft, I gave up at this point for the day.<br/>
 But I think it was better than the last prototype!<br/>
 <br/>
-## 4/4(Mon) Review & Advises
+## Review & Advises
+### 4/4(Mon)
 ### Technical Advises
 I was given many fruitful advises by the other members.<br/>
 (Thanks a lot, Georg-san and Tsuchiya-san!!)<br/>
@@ -262,7 +268,8 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 ・It is necessary to add something "+α" to my ideas. ⇨**WHAT??**<br/>
 （・・・・・・・・・・・・・）<br/>
 <br/>
-## 4/5(Tue) Feedback Part2 & LEGO Centrifuge?
+## Feedback Part2 & LEGO Centrifuge?
+### 4/5(Tue)
 ・再現するだけでは面白くない（ゲオルグさん）<br/>
 ・タケコプターみたい（ミサさん）<br/>
 ・昔の遠心分離機を参考に遠心分離機の仕組みを理解し、その理解によって遠心分離機にアレンジを加えられると面白いのではないか（ミサさん）<br/>
@@ -272,7 +279,8 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 ・アナログなものにこだわりたい<br/>
 ・LEGOを貸してもらったので、これで一度プロトタイプ第三弾を作ってみるつもり。<br/>
 <br/>
-## 4/6(Wed) Take-tombo Centrifuge?
+## Take-tombo Centrifuge?
+###4/6(Wed)
 ミサさんが初期の遠心分離機がタケコプターみたいだと言ったのと、岩崎先生とゲオルグさんから、何かプラスアルファがあるといいと言われたので、空を飛ぶ遠心分離機はどうか。<br/>
 <br/>
 イメージ<br/>
@@ -288,7 +296,8 @@ How to make a Take-tombo that fly well from bamboo.
 <br/>
 →I rejected this idea.
 <br/>
-## 4/7(Thu) Think More and Search LEGO parts
+## Think More and Search LEGO parts
+### 4/7(Thu)
 ・OMG, there is bicycle centrifuge in the world!!<br/>
 ・自転車を利用した遠心分離機は既に存在した（存在することにびっくりした）<br/>
 [A Clever Bike-Powered Centrifuge for Developing Countries](https://www.wired.com/2014/12/clever-bike-powered-centrifuge-developing-countries/)<br/>
@@ -303,10 +312,9 @@ How to make a Take-tombo that fly well from bamboo.
 ・みんなをモデルにした科学者フィギュアを作る（ゲオルグさん案）<br/>
 ・バイオラボをレゴで作る？（面白いが別プロジェクトになりそうなので保留）<br/>
 <br/>
-## 4/8(Fri) Prototype 3　-- with LEGO!!
+## Prototype 3 with LEGO!!
+###4/8(Fri)
 I haven't used Fusion360 since Week3. I have to practice it.<br/>
-<br/>
-
 <br/>
 借りたレゴでプロトタイプ3号機を制作した。<br/>
 <br/>

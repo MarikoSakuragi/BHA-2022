@@ -1,6 +1,7 @@
 # Centrifuge DIY
 （Abstract..........)<br/>
 <br/>
+## [1. 3/22(Tue)_Prototype_1](#3/22tue_prototype_1)<br>
 
 ## 3/22(Tue) Prototype 1
 
@@ -267,6 +268,9 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 ## 4/6(Wed) たけとんぼ Centrifuge?
 ミサさんが初期の遠心分離機がタケコプターみたいだと言ったのと、岩崎先生とゲオルグさんから、何かプラスアルファがあるといいと言われたので、空を飛ぶ遠心分離機はどうか。<br/>
 <br/>
+イメージ<br/>
+![Sketch_1](/photo/Sketch_1.jpg)<br/>
+<br/>
 "Super Take-tombo" スーパー竹とんぼ<br/>
 How to make a Take-tombo that fly well from bamboo.
 [https://www.youtube.com/watch?v=_r4aK2asVog](https://www.youtube.com/watch?v=_r4aK2asVog)<br/>
@@ -281,7 +285,6 @@ How to make a Take-tombo that fly well from bamboo.
 ・OMG, there is bicycle centrifuge in the world!!<br/>
 ・自転車を利用した遠心分離機は既に存在した（存在することにびっくりした）<br/>
 [A Clever Bike-Powered Centrifuge for Developing Countries](https://www.wired.com/2014/12/clever-bike-powered-centrifuge-developing-countries/)<br/>
-![Sketch_1](/photo/Sketch_1.jpg)<br/>
 <br/>
 ゲオルグさん案<br/>
 ・自転車ダイナモ・・・自転車の車輪に直接チューブを取り付けるより速度が高い<br/>

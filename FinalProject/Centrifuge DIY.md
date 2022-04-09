@@ -357,5 +357,9 @@ I haven't used Fusion360 since Week3. I have to practice it.<br/>
 <br/>
 ・LEGOブロック専門店　Brickers<br/>
 [https://www.brickers.jp](https://www.brickers.jp)<br/>
-![Brickers_Website](/photo/Brickers_web.jpeg)<br/>
-パーツをバラで購入可能<br/>
+![Brickers_Website](/photo/Brickers_web.jpg)<br/>
+<br/>
+パーツをバラで購入可できるbr/>
+![Brickers_Website2](/photo/Brickers_web_2.jpg)<br/>
+<br/>
+<br/>

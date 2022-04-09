@@ -1,23 +1,22 @@
 # Centrifuge DIY
 （Abstract..........)<br/>
 <br/>
-### [3/22(Tue) Research about gears 1](/CentrifugeDIY/gear_research_1.md)
-### [3/23(Wed) Research about gears 2](/CentrifugeDIY/gear_research_2.md)
-### [4/2(Sat) Protoype 1](/CentrifugeDIY/prototype_1.md)
-### [4/3(Sun) Prototype 2](/CentrifugeDIY/prototype_2.md)
-### [4/４(Mon) Feedback 1](/CentrifugeDIY/feedback_1.md)
-### [4/5(Tue) Feedback 2 & LEGO Centrifuge?](/CentrifugeDIY/feedback_2.md)
-### [4/6(Wed) Take-tombo Centrifuge?](/CentrifugeDIY/taketombo.md)
-### [4/7(Thu) Think More and Search LEGO parts](/CentrifugeDIY/ideas_and_lego.md)
-### [4/8(Fri) Prototype 3　-- with LEGO!!](/CentrifugeDIY/prototype_3.md)
-### [LEGO Parts](/CentrifugeDIY/lego_parts.md)
+### [3/22(Tue) Research about gears 1](CentrifugeDIY/gear_research_1.md)
+### [3/23(Wed) Research about gears 2](CentrifugeDIY/gear_research_2.md)
+### [4/2(Sat) Protoype 1](CentrifugeDIY/prototype_1.md)
+### [4/3(Sun) Prototype 2](CentrifugeDIY/prototype_2.md)
+### [4/４(Mon) Feedback 1](CentrifugeDIY/feedback_1.md)
+### [4/5(Tue) Feedback 2 & LEGO Centrifuge?](CentrifugeDIY/feedback_2.md)
+### [4/6(Wed) Take-tombo Centrifuge?](CentrifugeDIY/taketombo.md)
+### [4/7(Thu) Think More and Search LEGO parts](CentrifugeDIY/ideas_and_lego.md)
+### [4/8(Fri) Prototype 3　-- with LEGO!!](CentrifugeDIY/prototype_3.md)
+### [LEGO Parts](CentrifugeDIY/lego_parts.md)
 <br/>
 <br/>
 ## Research about gears 1
 ### 3/22(Tue)
-
-I was wondering how to mesh two gears vertically to make hand-cranked centrifuge. I Googled it, and got known that the type of gear that mesh vertically is called "bevel-gear"（in Japanese, *Kasa-haguruma* かさ歯車）<br/>
-<br/>.
+I was wondering how to mesh two gears vertically to make hand-cranked centrifuge. I Googled it, and got known that the type of gear that mesh vertically is called "bevel-gear"（in Japanese, *Kasa-haguruma* かさ歯車）.<br/>
+<br/>
 どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
 <br/>
 ### References & Notes<br/>

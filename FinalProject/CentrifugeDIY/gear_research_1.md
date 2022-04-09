@@ -30,4 +30,3 @@ I was wondering how to mesh two gears vertically to make hand-cranked centrifuge
 <br/>
 わかったこと・・・一から設計するのはかなり骨が折れそうなので、すでに公開されている既存のリソースを有効活用し、できることならそれをアレンジするほうが、よっぽど簡単だと思われる。<br/>
 <br/>
-#

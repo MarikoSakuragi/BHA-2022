@@ -2,15 +2,15 @@
 （Abstract..........)<br/>
 <br/>
 ### [3/22(Tue) Research about gears 1](/CentrifugeDIY/gear_research_1.md)
-### [3/23(Wed) Research about gears 2](/gear_researh_2)
-### [4/2(Sat) Protoype 1](/prototype_1)
-### [4/3(Sun) Prototype 2](/prototype_2)
-### [4/5(Tue) Feedback 1](/feedback_1)
-### [4/5(Tue) Feedback 2 & LEGO Centrifuge?](/feedback_2)
-### [4/6(Wed) Take-tombo Centrifuge?](/taketombo)
-### [4/7(Thu) Think More and Search LEGO parts](/ideas_and_lego)
-### [4/8(Fri) Prototype 3　-- with LEGO!!](/prototype_3)
-### [LEGO Parts](/lego_parts)
+### [3/23(Wed) Research about gears 2](/CentrifugeDIY/gear_researh_2.md)
+### [4/2(Sat) Protoype 1](/CentrifugeDIY/prototype_1.md)
+### [4/3(Sun) Prototype 2](/CentrifugeDIY/prototype_2.md)
+### [4/5(Tue) Feedback 1](/CentrifugeDIY/feedback_1.md)
+### [4/5(Tue) Feedback 2 & LEGO Centrifuge?](/CentrifugeDIY/feedback_2.md)
+### [4/6(Wed) Take-tombo Centrifuge?](/CentrifugeDIY/taketombo.md)
+### [4/7(Thu) Think More and Search LEGO parts](/CentrifugeDIY/ideas_and_lego.md)
+### [4/8(Fri) Prototype 3　-- with LEGO!!](/CentrifugeDIY/prototype_3.md)
+### [LEGO Parts](/CentrifugeDIY/lego_parts.md)
 <br/>
 <br/>
 ## Research about gears 1

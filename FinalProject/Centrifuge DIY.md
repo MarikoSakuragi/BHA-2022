@@ -205,12 +205,13 @@ Fix the gears (strictlly speaking, connected gear and axis) on the cork board.<b
 I had not considered how to fit the top board(?) and the foundation.<br/>
 At first, I thought that the leftovers of cork board could be used for supporting, but it appeared that it was not helpful because the cork board was thin. Therefore, I cut the wooden frame -which I had not intended to use- into small sticks to support the foundation. Then, it worked reasonably well.<br/>
 ![Proto2_5](/photo/Proto2_5.jpg)<br/>
-（This picture shows I am completely DIY layperson!）<br/>
-（どっからどう見ても素人的な手つき……）<br/>
+This picture shows I am completely DIY layperson!<br/>
+どっからどう見ても素人の手つき。腰が引けている。<br/>
 <br/>
 ![Proto2_6](/photo/Proto2_6.jpg)<br/>
-![Proto2_7](/photo/Proto2_7.jpg)<br/>
 <br/>
+Combine all.<br/>
+![Proto2_7](/photo/Proto2_7.jpg)<br/>
 ![Proto2_8](/photo/Proto2_8.jpg)<br/>
 ![Proto2_9](/photo/Proto2_9.jpg)<br/>
 ![Proto2_10](/photo/Proto2_10.jpg)<br/>
@@ -235,6 +236,7 @@ Since I was worried about the bound between the wood sticks and the foundation, 
 <br/>
 かさ歯車も取り付けたかったけれど、薄いコルクにシャフトを取り付けるのが難しそうだったのと、かさ歯車とシャフトのの隙間を埋める方法をまだ思いつかなかったので、この日はここまででギブアップ。ただし前回よりは形になったと思う。<br/>
 I wanted to add a vebel-gear to this, since it seemed difficult to attach the shaft to the thin cork and I had not yet figured out how to fill the gap between the bevel gear and the shaft, I gave up at this point for the day.<br/>
+But I think it was better than the last prototype!<br/>
 <br/>
 ## 4/4(Mon) Review & Advises
 ### Technical Advises
@@ -276,10 +278,10 @@ How to make a Take-tombo that fly well from bamboo.
 →I rejected this idea.
 <br/>
 ## 4/7(Thu) Think More and Search LEGO parts
-・OMG, there is bicycle centrifuge in the world!!
+・OMG, there is bicycle centrifuge in the world!!<br/>
 ・自転車を利用した遠心分離機は既に存在した（存在することにびっくりした）<br/>
 [A Clever Bike-Powered Centrifuge for Developing Countries](https://www.wired.com/2014/12/clever-bike-powered-centrifuge-developing-countries/)<br/>
-（写真）<br/>
+![Sketch_1](/photo/Sketch_1.jpg)<br/>
 <br/>
 ゲオルグさん案<br/>
 ・自転車ダイナモ・・・自転車の車輪に直接チューブを取り付けるより速度が高い<br/>

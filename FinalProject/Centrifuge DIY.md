@@ -1,10 +1,16 @@
 # Centrifuge DIY
 （Abstract..........)<br/>
 <br/>
-## [3/22(Tue)_Prototype_1](#3/22tue_prototype_1)
+## [3/22(Tue)_Prototype_1](#3/22tue_research_about_gears)
 ## [3/23(Wed)_Research about gears](#3/23wed_research about gears)
+## [4/2(Sat) Protoype 1](#42sat_prototype_1)
+## [4/3(Sun) Prototype 2](#43sun_prototype_2)
+## [4/5(Tue) Feedback Part2 & LEGO Centrifuge?](#45tue_feedback_Part2_&_lego_centrifuge)
+## [4/6(Wed) Take-tombo Centrifuge?](#46wed_take_tombo_centrifuge)
+## [4/7(Thu) Think More and Search LEGO parts](#47thu_think_more_and_search_lego_centrifuge)
+## [4/8(Fri) Prototype 3　-- with LEGO!!](#48fri_prototype_3__with lego)
 
-## 3/22(Tue) Prototype 1
+## 3/22(Tue) Research about gears
 
 I was wondering how to mesh two gears vertically to make hand-cranked centrifuge. I Googled it, and got known that the type of gear that mesh vertically is called "bevel-gear"（in Japanese, *Kasa-haguruma* かさ歯車）<br/>
 <br/>.
@@ -50,7 +56,7 @@ Fusion360ではなく3DCADを使用<br/>
 こっちはFusion。英語で検索したら出てきた。見よう見まねでなんとか作れるだろうか。<br/>
 <br/>
 <br/>
-## 4/2(Sat)
+## 4/2(Sat) Prototype 1
 To understand and speculate the works of gear, I thought about making prototype by assembling gears.<br/>
 <br/>
 とりあえずモデルを作ってみる。それがうまく動けば、3Dモデルソフトでその再現を目指したい。<br/>
@@ -266,7 +272,7 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 ・アナログなものにこだわりたい<br/>
 ・LEGOを貸してもらったので、これで一度プロトタイプ第三弾を作ってみるつもり。<br/>
 <br/>
-## 4/6(Wed) たけとんぼ Centrifuge?
+## 4/6(Wed) Take-tombo Centrifuge?
 ミサさんが初期の遠心分離機がタケコプターみたいだと言ったのと、岩崎先生とゲオルグさんから、何かプラスアルファがあるといいと言われたので、空を飛ぶ遠心分離機はどうか。<br/>
 <br/>
 イメージ<br/>
@@ -297,7 +303,7 @@ How to make a Take-tombo that fly well from bamboo.
 ・みんなをモデルにした科学者フィギュアを作る（ゲオルグさん案）<br/>
 ・バイオラボをレゴで作る？（面白いが別プロジェクトになりそうなので保留）<br/>
 <br/>
-## 4/8(Fri) Prototype 3
+## 4/8(Fri) Prototype 3　-- with LEGO!!
 I haven't used Fusion360 since Week3. I have to practice it.<br/>
 <br/>
 
@@ -305,7 +311,7 @@ I haven't used Fusion360 since Week3. I have to practice it.<br/>
 借りたレゴでプロトタイプ3号機を制作した。<br/>
 <br/>
 **Reviews & Tasks**<br/>
-（携帯のメモそのまま。あとで訳す・・・・・）
+（携帯のメモそのまま。あとで翻訳・・・・・）br/>
 ・やはり、小さい車輪を繋ぎ合わせるだけでは回転数が少ない。大きい歯車が欲しい。<br/>
 <br/>
 ・チューブロットのような形をしていたのでよさそうだと思い、メガホン型のパーツを付ける。<br/>
@@ -357,10 +363,9 @@ I haven't used Fusion360 since Week3. I have to practice it.<br/>
 <br/>
 <br/>
 ・LEGOブロック専門店　Brickers<br/>
+パーツをバラで購入可できる<br/>
 [https://www.brickers.jp](https://www.brickers.jp)<br/>
 ![Brickers_Website](/photo/Brickers_web.jpg)<br/>
-<br/>
-パーツをバラで購入可できる<br/>
 ![Brickers_Website2](/photo/Brickers_web_2.jpg)<br/>
 <br/>
 <br/>

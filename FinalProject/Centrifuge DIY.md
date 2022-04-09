@@ -1,7 +1,8 @@
 # Centrifuge DIY
 （Abstract..........)<br/>
 <br/>
-## [1. 3/22(Tue)_Prototype_1](#3/22tue_prototype_1)<br>
+## [3/22(Tue)_Prototype_1](#3/22tue_prototype_1)
+## [3/23(Wed)_Research about gears](#3/23wed_research about gears)
 
 ## 3/22(Tue) Prototype 1
 
@@ -36,7 +37,7 @@ I was wondering how to mesh two gears vertically to make hand-cranked centrifuge
 <br/>
 わかったこと・・・一から設計するのはかなり骨が折れそうなので、すでに公開されている既存のリソースを有効活用し、できることならそれをアレンジするほうが、よっぽど簡単だと思われる。<br/>
 <br/>
-### 3/23(Wed)
+### 3/23(Wed) Research about gears
 Modeling guide lecture<br/>
 ・Movie: bevel-gear かさ歯車<br/>
 [https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg](https://img.youtube.com/vi/9XQ29WcXvPQ/0.jpg)<br/>

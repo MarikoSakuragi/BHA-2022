@@ -4,6 +4,7 @@
 
 ## 3/22(Tue) Prototype 1
 
+I was wondering how to mesh two gears vertically to make hand-cranked centrifuge. I Googled it, and got known that the type of gear that mesh vertically is called "bevel-gear"（in Japanese, *Kasa-haguruma* かさ歯車）.
 どうやったら歯車を垂直方向に噛み合わせることができるんだろうと思い（それができなければ遠心分離機が作れない）、ネットで調べてみる。垂直方向に組み合わさっている歯車は「かさ歯車」というらしい。<br/>
 <br/>
 ### References & Notes<br/>
@@ -133,16 +134,25 @@ However, I will try to make hand-cranked centrifuge firstly as challenge.
 ・棒の隙間を埋める<br/>
 ・今の歯車の数では回転数がかなり遅いと思われる。より速い回転を得たければ、もっと歯車の数を増やす必要がある。<br/>
 ・ハンドルが小さくて回しにくいので、これも改良したい。<br/>
-・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。<br/>
 <br/>
 備忘録
 ・もはや何でも遠心分離機に見えてきた<br/>
 ・だんだん部品の名前を覚えてきた。ウォームギア、かさ歯車、シャフト etc...<br/>
+・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。<br/>
+<br/>
+・Make foundation by cork-board. If it fails, I will look for other materials.<br/>
+・The rotation speed of above model which has a few gears seems to be very slow. If I want it to be faster, it is necessary to use more gears. <br/>
+・The handle is too tiny to handle. I want to improve this point. <br/>
+<br/>
+Memo
+・I became to see everything around me which is able to spin and with gears as usable for centrifuge. I felt interesting in such change of my point of view.<br/>
+・I have memorized some of names of gears and parts: worm gears, bevel gears, shaft, etc.<br/>
+・I have been hooked on gears because I find it interesting to understand how they work and the different types of gears. I should careful not to dedicate too much to only gears because my main purpose is replicate/recreate classic-style centrifuges, not learning gears itself!<br/>
 <br/>
 <br/>
 ## 4/3(Sun) Prototype 2
 Place: FabCafe Material<br/>
-総制作時間：約2時間<br/>
+Took about 2 hours<br/>
 <br/>
 ![Sample](/photo/93290-2.jpg)<br/>
 <br/>
@@ -153,14 +163,21 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 ・安定感が大事<br/>
 ・土台と歯車＋軸の関係性がよく分かっていない。スムーズに回らせるにはどうしたらいいか？<br/>
 <br/>
-・コルクボードを木枠から切り抜く<br/>
+・The important point is its stability.<br/>
+I have not understood the connection between foundation and gears, and gears and axes. I wonder how can I spin gears smoothly.<br/>
+<br/>
+コルクボードを木枠から切り抜く<br/>
+Cut cork board from the wood frame.<br/>
 ![Proto2_movie1.gif](/photo/Proto2_movie1.gif)<br/>
 <br/>
 土台に適当な大きさの板を作る。カッターでコルクを切る。<br/>
+Cut cork board and make adequate-size plate with a cutter.<br/>
 ![Proto2_movie2.gif](/photo/Proto2_movie2.gif)<br/>
 <br/>
 上の板：縦9×横10cm、下の板：奥行き9×横10cm<br/>
 下の板は薄っぺらかったので、同じ大きさのを２枚重ねてボンドで貼り合わせた。<br/>
+Top plate... Width:9cm Depth 10cm. Fountdation plate... Width 9cm Depth 10cm<br/>
+ <br/>
 ![Proto2_1](/photo/Proto2_1.jpg)<br/>
 ![Proto2_2](/photo/Proto2_2.jpg)<br/>
 <br/>
@@ -222,7 +239,21 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 ・アナログなものにこだわりたい<br/>
 ・LEGOを貸してもらったので、これで一度プロトタイプ第三弾を作ってみるつもり。<br/>
 <br/>
+## 4/6(Wed) たけとんぼ Centrifuge?
+ミサさんが初期の遠心分離機がタケコプターみたいだと言ったのと、岩崎先生とゲオルグさんから、何かプラスアルファがあるといいと言われたので、空を飛ぶ遠心分離機はどうか。<br/>
+<br/>
+"Super Take-tombo" スーパー竹とんぼ<br/>
+How to make a Take-tombo that fly well from bamboo.
+[https://www.youtube.com/watch?v=_r4aK2asVog](https://www.youtube.com/watch?v=_r4aK2asVog)<br/>
+<br/>
+"A mechanical launch pad" 竹とんぼ発射台装置<br/>
+[https://www.youtube.com/watch?v=t1t1HYFW4UA](https://www.youtube.com/watch?v=t1t1HYFW4UA)<br/>
+...Too mechanical. It is abviously too advanced for me to make the copy.<br/>
+<br/>
+→I rejected this idea.
+<br/>
 ## 4/7(Thu) Think More and Search LEGO parts
+・OMG, there is bicycle centrifuge in the world!!
 ・自転車を利用した遠心分離機は既に存在した（存在することにびっくりした）<br/>
 [A Clever Bike-Powered Centrifuge for Developing Countries](https://www.wired.com/2014/12/clever-bike-powered-centrifuge-developing-countries/)<br/>
 （写真）<br/>
@@ -237,7 +268,8 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 ・みんなをモデルにした科学者フィギュアを作る（ゲオルグさん案）<br/>
 ・バイオラボをレゴで作る？（面白いが別プロジェクトになりそうなので保留）<br/>
 <br/>
-## 4/8(Fri)
+## 4/8(Fri) Prototype 3
 I haven't used Fusion360 since Week3. I have to practice it.<br/>
 <br/>
+
 <br/>

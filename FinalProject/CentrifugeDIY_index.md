@@ -1,8 +1,8 @@
 # Centrifuge DIY
 （Abstract..........)<br/>
 <br/>
-### [3/22(Tue)_Research about gears 1](/CentrifugeDIY/gear_research_1)
-### [3/23(Wed)_Research about gears 2](/gear_researh_2)
+### [3/22(Tue) Research about gears 1](/CentrifugeDIY/gear_research_1.md)
+### [3/23(Wed) Research about gears 2](/gear_researh_2)
 ### [4/2(Sat) Protoype 1](/prototype_1)
 ### [4/3(Sun) Prototype 2](/prototype_2)
 ### [4/5(Tue) Feedback 1](/feedback_1)

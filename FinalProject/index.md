@@ -1,5 +1,5 @@
 # Final Project
 
-## [Notes(First Ideas)](Notes.md/)<br/>
-## [History of Centrifuge](History of Centrifuge.md/)<br/>
-## [Centrifuge DIY](CentrifugeDIY_index.md)<br/>
+## [Notes(First Ideas)](Notes/)<br/>
+## [History of Centrifuge](History of Centrifuge/)<br/>
+## [Centrifuge DIY](CentrifugeDIY/)<br/>

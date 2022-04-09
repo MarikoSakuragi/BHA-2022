@@ -354,3 +354,8 @@ I haven't used Fusion360 since Week3. I have to practice it.<br/>
 ・ハンドルの改良（持ち手にゴムを付けるなど）<br/>
 （可能性としては、ベルト式も）<br/>
 <br/>
+<br/>
+・LEGOブロック専門店　Brickers<br/>
+[https://www.brickers.jp](https://www.brickers.jp)<br/>
+![Brickers_Website](/photo/Brickers_web.jpeg)<br/>
+パーツをバラで購入可能<br/>

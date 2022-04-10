@@ -325,6 +325,8 @@ I have checked how Combucha is going. But I couldn't feel any change inside it, 
 <br/>
 4/10(Sun) <br/>
 I have forgot to check my Combucha for a while. I looked it today, and found that the SCOBY inside the bin got bigger. Though it is hard to explain what it was like, something thin, hazy, and translucent like *"obi"* (Kimono sash belt) were floating in the tea.<br/>
+![Combucha_after_1](/photo/Combucha_after_1.jpg)<br/>
+![Combucha_after_2](/photo/Combucha_after_2.jpg)<br/>
 <br/>
 The smell also changed from sour like vinegar  to like apricot. It seems smell better compared to that of first day.<br/>
 <br/>

@@ -317,7 +317,14 @@ Each of us took home Combucha filled in a container. I put it in a refrigerator.
 ![Combucha in refrigerator](/photo/92215.jpg)<br/>
 Waiting for growing...<br/>
 <br/>
-3/29(Tue) It appeard that I made a mistake! Combucha need not to put into refrigerator, rather it is better to be warmer place for the fermentation.<br/>
+3/29(Tue) <br/>
+It appeard that I made a mistake! Combucha need not to put into refrigerator, rather it is better to be warmer place for the fermentation.<br/>
 <br/>
-4/5(Tue) I have checked how Combucha is going. But I couldn't feel any change inside it, and the smell was just like black tea.<br/>
+4/5(Tue) <br/>
+I have checked how Combucha is going. But I couldn't feel any change inside it, and the smell was just like black tea.<br/>
+<br/>
+4/10(Sun) <br/>
+I have forgot to check my Combucha for a while. I looked it today, and found that the SCOBY inside the bin got bigger. Though it is hard to explain what it was like, something thin, hazy, and translucent like *"obi"* (Kimono sash belt) were floating in the tea.<br/>
+<br/>
+The smell also changed from sour like vinegar  to like apricot. It seems smell better compared to that of first day.<br/>
 <br/>

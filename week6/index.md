@@ -6,8 +6,10 @@
 ・The space in the lab was comparted to several rooms(including huge incubator rooms).<br/>
 ・Bunch of experimental machines are surrounded in the lab: incubators, freezers, centrifuges, cleanbenches, and autoclaves. <br/>
 ・There are so many caution statements.<br/>
-・There were notes on equipments, rooms, and white boards that was written about who uses/used and manages what stuff.<br/> 
-<br/>
+・There were notes on equipments, rooms, and white boards that was written about who uses/used and manages what stuff.<br/>
+・The specie that they deal with is cyanobacteria only.
+・光学顕微鏡（→扱っている生物の違い？）<br/>
+<br/>.
 (Extra: Their student room was very new and well organized. I envy it...)<br/>
 <br/>
 **Questions**<br/>
@@ -15,11 +17,11 @@
 ・Does lab equipments or environments of labs vary from another labs? I guess it might be different by organisms which they deal with.<br/>
 <br/>
 ### BioLab (DIY Lab)
+・It is small compared to Iwasaki lab.<br/>
 ・<br/>
 ・<br/>
 ・<br/>
-・<br/>
-・<br/>
+・We focus on not only one organism (such as cyanobacteria) but treat many types of organisms, not only one. We do various experiments in the lab.<br/>
 <br/>
 <br/>
 ## CRISPR

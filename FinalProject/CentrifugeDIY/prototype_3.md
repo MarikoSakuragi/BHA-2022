@@ -3,6 +3,25 @@ I haven't used Fusion360 since Week3. I have to practice it.<br/>
 <br/>
 借りたレゴでプロトタイプ3号機を制作した。<br/>
 <br/>
+![Proto3_1](/photo/Proto3_1.jpg)<br/>
+![Proto3_2](/photo/Proto3_2.jpg)<br/>
+![Proto3_3](/photo/Proto3_3.jpg)<br/>
+![Proto3_4](/photo/Proto3_4.jpg)<br/>
+![Proto3_5](/photo/Proto3_5.jpg)<br/>
+![Proto3_6](/photo/Proto3_6.jpg)<br/>
+![Proto3_7](/photo/Proto3_7.jpg)<br/>
+![Proto3_8](/photo/Proto3_8.jpg)<br/>
+![Proto3_9](/photo/Proto3_9.jpg)<br/>
+![Proto3_10](/photo/Proto3_10.jpg)<br/>
+![Proto3_11](/photo/Proto3_11.jpg)<br/>
+![Proto3_12](/photo/Proto3_12.jpg)<br/>
+![Proto3_13](/photo/Proto3_13.jpg)<br/>
+![Proto3_14](/photo/Proto3_14.jpg)<br/>
+![Proto3_15](/photo/Proto3_15.jpg)<br/>
+![Proto3_16](/photo/Proto3_16.jpg)<br/>
+![Proto3_17](/photo/Proto3_17.jpg)<br/>
+![Proto3_18](/photo/Proto3_18.jpg)<br/>
+<br/>
 **Reviews & Tasks**<br/>
 （携帯のメモそのまま。あとで翻訳・・・・・）<br/>
 ・やはり、小さい車輪を繋ぎ合わせるだけでは回転数が少ない。大きい歯車が欲しい。<br/>

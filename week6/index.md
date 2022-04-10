@@ -1,13 +1,12 @@
 # Week6: Life in Silico
 ## 4/4（Mon) Iwasaki Lab Tour
 TWINS, Waseda University<br/>
-<br/>
 ## Comparison between Two Laboratories
 ### Iwasaki Lab
 ・It was large!<br/>
 ・The space in the lab was comparted to several rooms(including huge incubator rooms).<br/>
 ・Bunch of experimental machines are surrounded in the lab: incubators, freezers, centrifuges, cleanbenches, and autoclaves. <br/>
-・There were so many caution statements.<br/>
+・There were many caution statements.<br/>
 ・There were notes on equipments, rooms, and white boards that was written about who uses/used and manages what stuff.<br/>
 ・Their research subjects that they use in the lab is only cyanobacteria.<br/>
 ・High magnification microscope (electronic microscope? I'm not sure this expression right).<br/>
@@ -31,10 +30,15 @@ TWINS, Waseda University<br/>
 ・Normal microscopes? (upright microscope and inverted microscope)<br/>
 ・Using distilled water in a box.<br/>
 ・Simple clean bench which doesn't have UV light and gas burner.<br/>
-・Using extension cords.
+・Using extension cords.<br/>
 <br/>
 **Questions**<br/>
 ・What is the difference of and electronic microscope and opitical microscope?<br/>
+<br/>
+## 4/5（Tue) Sampling at a Park
+Sigo-yama Park, Meguro-ku, tokyo<br/>
+<br/>
+<br/>
 <br/>
 ## CRISPR
 ### John La Cava - CRISPR research in Artistic Context

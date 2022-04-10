@@ -2,7 +2,7 @@
 ### Technical Advices
 I was given many fruitful advices by the other members.<br/>
 (Thanks a lot, Georg-san and Tsuchiya-san!!)<br/>
-<br/>
+↓
 ・Change screw（ねじ） that I used as axes to shafts(simple round sticks).<br/>
 ・Sandwitch gears with two plates? to make axes stable.<br/>
 ・Put gears not on single side but on both sides for balancing.<br/>
@@ -12,5 +12,5 @@ Book:[伊藤茂『メカニズムの事典』（Shigeru Ito, Encyclopedia of Mec
 
 ### Feedback from others
 ・It is necessary to add something "+α" to my ideas. ⇨**WHAT??**<br/>
-（・・・・・・・・・・・・・）<br/>
+・Bicycle centrifuge (suggested by Georg-san)<br/>
 <br/>

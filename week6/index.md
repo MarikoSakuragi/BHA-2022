@@ -1,11 +1,13 @@
 # Week6: Life in Silico
 ## 4/4（Mon) Iwasaki Lab Tour
-TWINS, Waseda University<br/>
+TWIns, Waseda University<br/>
 ## Comparison between Two Laboratories
+### Different points
 ### Iwasaki Lab
 ・It was large!<br/>
 ・The space in the lab was comparted to several rooms(including huge incubator rooms).<br/>
 ・Bunch of experimental machines are surrounded in the lab: incubators, freezers, centrifuges, cleanbenches, and autoclaves. <br/>
+・機械（インキュベーター）の価格や体積
 ・There were many caution statements.<br/>
 ・There were notes on equipments, rooms, and white boards that was written about who uses/used and manages what stuff.<br/>
 ・Their research subjects that they use in the lab is only cyanobacteria.<br/>
@@ -24,7 +26,7 @@ TWINS, Waseda University<br/>
 <br/>
 ### BioLab (DIY Lab)
 ・It is small compared to Iwasaki lab.<br/>
-・Basically, all lab machines in our lab are one, except of incubators.<br/>
+・Basically, all lab machines in our lab are just one, except of the incubators.<br/>
 ・There are few caution statements, notes, and lists for preventing faults or managing lab stuffs.<br/>
 ・We focus on not one organism (such as cyanobacteria) but treat many types of organisms. <br/>
 ・Normal microscopes? (upright microscope and inverted microscope)<br/>
@@ -34,6 +36,11 @@ TWINS, Waseda University<br/>
 <br/>
 **Questions**<br/>
 ・What is the difference of and electronic microscope and opitical microscope?<br/>
+<br/>
+### Similarity
+・Both are messy...<br/>
+・Taking off shoes and wear slippers(or sandals) at the entrance of lab.<br/>
+・Biosafety marks on the doors<br/>
 <br/>
 ## 4/5（Tue) Sampling at a Park
 Sigo-yama Park, Meguro-ku, tokyo<br/>

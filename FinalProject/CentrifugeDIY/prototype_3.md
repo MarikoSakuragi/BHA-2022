@@ -3,7 +3,7 @@ I haven't used Fusion360 since Week3. I have to practice it.<br/>
 <br/>
 借りたレゴでプロトタイプ3号機を制作した。<br/>
 <br/>
-![Proto3_1](/photo/Proto3_1.jpg)<br/>
+![Proto3_1](/FinalProject/photo/Proto3_1.jpg)<br/>
 ![Proto3_2](/photo/Proto3_2.jpg)<br/>
 ![Proto3_3](/photo/Proto3_3.jpg)<br/>
 ![Proto3_4](/photo/Proto3_4.jpg)<br/>

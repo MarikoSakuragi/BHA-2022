@@ -13,7 +13,7 @@ Cork board is affordable material for cutting and making a hole. It was easy to 
 ・土台と歯車＋軸の関係性がよく分かっていない。スムーズに回らせるにはどうしたらいいか？<br/>
 <br/>
 ・The important point is its stability.<br/>
-I have not understood the connection between foundation and gears, and gears and axes. I wonder how can I spin gears smoothly.<br/>
+・I have not understood the connection between foundation and gears, and gears and axes. I wonder how can I spin gears smoothly.<br/>
 <br/>
 **DIY process**<br/>
 <br/>

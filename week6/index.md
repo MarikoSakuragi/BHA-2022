@@ -13,6 +13,8 @@ TWINS, Waseda University<br/>
 ・High magnification microscope (electronic microscope? I'm not sure this expression right).<br/>
 ・The samples taken decades ago were still stored. <br/>
 ・Water purification system.<br/>
+・Clean bench with UV light and gas burner.<br/>
+・Electrical plugs hanging from the ceiling.<br/>
 <br/>
 (Extra: Their student room was very new and well organized. I envy it...)<br/>
 <br/>
@@ -25,9 +27,11 @@ TWINS, Waseda University<br/>
 ・It is small compared to Iwasaki lab.<br/>
 ・Basically, all lab machines in our lab are one, except of incubators.<br/>
 ・There are few caution statements, notes, and lists for preventing faults or managing lab stuffs.<br/>
-・We focus on not only one organism (such as cyanobacteria) but treat many types of organisms. We do various experiments in the lab.<br/>
+・We focus on not one organism (such as cyanobacteria) but treat many types of organisms. <br/>
 ・Normal microscopes? (upright microscope and inverted microscope)<br/>
 ・Using distilled water in a box.<br/>
+・Simple clean bench which doesn't have UV light and gas burner.<br/>
+・Using extension cords.
 <br/>
 **Questions**<br/>
 ・What is the difference of and electronic microscope and opitical microscope?<br/>

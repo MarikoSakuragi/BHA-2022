@@ -4,10 +4,10 @@ TWIns, Waseda University<br/>
 ## Comparison between Two Laboratories
 ### Different points
 ### Iwasaki Lab
-・It was large!<br/>
+・It was large above all!<br/>
 ・The space in the lab was comparted to several rooms(including huge incubator rooms).<br/>
 ・Bunch of experimental machines are surrounded in the lab: incubators, freezers, centrifuges, cleanbenches, and autoclaves. <br/>
-・機械（インキュベーター）の価格や体積
+・機器の価格やその大きさ
 ・There were many caution statements.<br/>
 ・There were notes on equipments, rooms, and white boards that was written about who uses/used and manages what stuff.<br/>
 ・Their research subjects that they use in the lab is only cyanobacteria.<br/>

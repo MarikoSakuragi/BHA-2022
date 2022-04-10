@@ -89,16 +89,16 @@ However, I will try to make hand-cranked centrifuge firstly as challenge.
 ・今の歯車の数では回転数がかなり遅いと思われる。より速い回転を得たければ、もっと歯車の数を増やす必要がある。<br/>
 ・ハンドルが小さくて回しにくいので、これも改良したい。<br/>
 <br/>
-備忘録
-・もはや何でも遠心分離機に見えてきた<br/>
-・だんだん部品の名前を覚えてきた。ウォームギア、かさ歯車、シャフト etc...<br/>
-・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。<br/>
-<br/>
 ・Make foundation by cork board. If it fails, I will look for other materials.<br/>
 ・The rotation speed of above model which has a few gears seems to be very slow. If I want it to be faster, it is necessary to use more gears. <br/>
 ・The handle is too tiny to handle. I want to improve this point. <br/>
 <br/>
 **Memo**<br/>
+備忘録<br/>
+・もはや何でも遠心分離機に見えてきた<br/>
+・だんだん部品の名前を覚えてきた。ウォームギア、かさ歯車、シャフト etc...<br/>
+・歯車の仕組みを理解することや、さまざまな種類があるのが面白くて、歯車にはまってきた。ただ、あまり歯車自体に夢中になると本来の目的を忘れそうなので、程々に。<br/>
+<br/>
 ・I became to see everything around me which is able to spin and with gears as usable for centrifuge. I felt interesting in such change of my point of view.<br/>
 ・I have memorized some of names of gears and parts: worm gears, bevel gears, shaft, etc.<br/>
 ・I have been hooked on gears because I find it interesting to understand how they work and the different types of gears. I should careful not to dedicate too much to only gears because my main purpose is replicate/recreate classic-style centrifuges, not learning gears itself!<br/>

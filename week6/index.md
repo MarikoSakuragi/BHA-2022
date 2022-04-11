@@ -29,14 +29,12 @@ TWIns, Waseda University<br/>
 ![IwasakiLab_caution_3](/photo/IwasakiLab_93823.jpg)<br/>
 ![IwasakiLab_caution_4](/photo/IwasakiLab_93858.jpg)<br/>
 ![IwasakiLab_1](/photo/IwasakiLab_93646.jpg)<br/>
-![IwasakiLab_](/photo/IwasakiLab_93646.jpg)<br/>
 <br/>
-![IwasakiLab_door](/photo/Iwasaki_lab_93638.jpg)<br/>
-![IwasakiLab_plugs](/photo/Iwasaki_lab_93648.jpg)<br/>
+![IwasakiLab_door](/photo/IwasakiLab_93638.jpg)<br/>
+![IwasakiLab_plugs](/photo/IwasakiLab_93648.jpg)<br/>
 ![IwasakiLab_cleanbench](/photo/IwasakiLab_93688.jpg)<br/>
 ![IwasakiLab_incubator](/photo/IwasakiLab_93689.jpg)<br/>
 ![IwasakiLab_incubatorroom](/photo/IwasakiLab_93715.jpg)<br/>
-![IwasakiLab_incubatorroom_2](/photo/IwasakiLab_93822.jpg)<br/>
 ![IwasakiLab_incubatorroom_2](/photo/IwasakiLab_93822.jpg)<br/>
 ![IwasakiLab_centrifuge_1](/photo/IwasakiLab_93676.jpg)<br/>
 ![IwasakiLab_centrifuge_2](/photo/IwasakiLab_93851.jpg)<br/>

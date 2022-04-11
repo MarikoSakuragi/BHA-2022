@@ -35,12 +35,21 @@ TWIns, Waseda University<br/>
 <br/>
 ![IwasakiLab_plugs](/photo/IwasakiLab_93648.jpg)<br/>
 <br/>
+Clean bench with UV light and gas burner<br/>
 ![IwasakiLab_cleanbench](/photo/IwasakiLab_93688.jpg)<br/>
+<br/>
 ![IwasakiLab_incubator](/photo/IwasakiLab_93689.jpg)<br/>
+![IwasakiLab_isyanobacteria](/photo/IwasakiLab_93696.jpg)<br/>
+<br/>
+Room for incubation cyanobacteria<br/>
 ![IwasakiLab_incubator room](/photo/IwasakiLab_93715.jpg)<br/>
 ![IwasakiLab_incubator room_2](/photo/IwasakiLab_93822.jpg)<br/>
+<br/>
+<br/>
 ![IwasakiLab_centrifuge_1](/photo/IwasakiLab_93676.jpg)<br/>
 ![IwasakiLab_centrifuge_2](/photo/IwasakiLab_93851.jpg)<br/>
+![IwasakiLab_centrifuge_3](/photo/IwasakiLab_93677.jpg)<br/>
+<br/>
 ![IwasakiLab_autoclave](/photo/IwasakiLab_93858.jpg)<br/>
 <br/>
 <br/>

@@ -1,13 +1,14 @@
 # Week6: Life in Silico
 ## 4/4（Mon) Iwasaki Lab Tour
 TWIns, Waseda University<br/>
+（Abstract of Iwasaki lab. I will write later...)<br/>
 ## Comparison between Two Laboratories
 ### Different points
 ### Iwasaki Lab
 ・It was large above all!<br/>
 ・The space in the lab was comparted to several rooms(including huge incubator rooms).<br/>
 ・Bunch of experimental machines are surrounded in the lab: incubators, freezers, centrifuges, cleanbenches, and autoclaves. <br/>
-・機器の価格やその大きさ
+・The lab equipments are highly efficient. I guess these are absolutely super expensive. <br/>
 ・There were many caution statements.<br/>
 ・There were notes on equipments, rooms, and white boards that was written about who uses/used and manages what stuff.<br/>
 ・Their research subjects that they use in the lab is only cyanobacteria.<br/>

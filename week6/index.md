@@ -24,6 +24,25 @@ TWIns, Waseda University<br/>
 ・Does lab equipments or environments of labs vary from another labs? I guess it might be different by organisms which they deal with.<br/>
 ・Do everyone in Iwasaki lab grasp where and what are all the stuffs in the lab, despite of  that the lab has numberless stuffs?<br/>
 <br/>
+![IwasakiLab_caution_1](/photo/IwasakiLab_93653.jpg)<br/>
+![IwasakiLab_caution_2](/photo/IwasakiLab_93654.jpg)<br/>
+![IwasakiLab_caution_3](/photo/IwasakiLab_93823.jpg)<br/>
+![IwasakiLab_caution_4](/photo/IwasakiLab_93858.jpg)<br/>
+![IwasakiLab_1](/photo/IwasakiLab_93646.jpg)<br/>
+![IwasakiLab_](/photo/IwasakiLab_93646.jpg)<br/>
+<br/>
+![IwasakiLab_door](/photo/Iwasaki_lab_93638.jpg)<br/>
+![IwasakiLab_plugs](/photo/Iwasaki_lab_93648.jpg)<br/>
+![IwasakiLab_cleanbench](/photo/IwasakiLab_93688.jpg)<br/>
+![IwasakiLab_incubator](/photo/IwasakiLab_93689.jpg)<br/>
+![IwasakiLab_incubatorroom](/photo/IwasakiLab_93715.jpg)<br/>
+![IwasakiLab_incubatorroom_2](/photo/IwasakiLab_93822.jpg)<br/>
+![IwasakiLab_incubatorroom_2](/photo/IwasakiLab_93822.jpg)<br/>
+![IwasakiLab_centrifuge_1](/photo/IwasakiLab_93676.jpg)<br/>
+![IwasakiLab_centrifuge_2](/photo/IwasakiLab_93851.jpg)<br/>
+![IwasakiLab_autoclave](/photo/IwasakiLab_93858.jpg)<br/>
+<br/>
+<br/>
 ### BioLab (DIY Lab)
 ・It is small compared to Iwasaki lab.<br/>
 ・Basically, all lab machines in our lab are just one, except of the incubators.<br/>
@@ -36,6 +55,9 @@ TWIns, Waseda University<br/>
 <br/>
 **Questions**<br/>
 ・What is the difference of and electronic microscope and opitical microscope?<br/>
+<br/>
+![IwasakiLab_1](/photo/IwasakiLab_93826.jpg)<br/>
+![IwasakiLab_2](/photo/IwasakiLab_93827.jpg)<br/>
 <br/>
 ### Similarity
 ・Both are messy...<br/>

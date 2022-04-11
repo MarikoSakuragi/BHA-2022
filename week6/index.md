@@ -24,6 +24,7 @@ TWIns, Waseda University<br/>
 ・I was interested in how they use the several experimental machines differently: for what experiments, for what purpose?<br/>
 ・Does lab equipments or environments of labs vary from another labs? I guess it might be different by organisms which they deal with.<br/>
 ・Do everyone in Iwasaki lab grasp where and what are all the stuffs in the lab, despite of  that the lab has numberless stuffs?<br/>
+・Hou mach is the maintenance fee of Iwasaki lab each year?<br/>
 <br/>
 ![IwasakiLab_caution_1](/photo/IwasakiLab_93653.jpg)<br/>
 ![IwasakiLab_caution_2](/photo/IwasakiLab_93654.jpg)<br/>
@@ -45,7 +46,7 @@ Room for incubation cyanobacteria<br/>
 ![IwasakiLab_incubator room](/photo/IwasakiLab_93715.jpg)<br/>
 ![IwasakiLab_incubator room_2](/photo/IwasakiLab_93822.jpg)<br/>
 <br/>
-<br/>
+Various Centrifuges<br/>
 ![IwasakiLab_centrifuge_1](/photo/IwasakiLab_93676.jpg)<br/>
 ![IwasakiLab_centrifuge_2](/photo/IwasakiLab_93851.jpg)<br/>
 ![IwasakiLab_centrifuge_3](/photo/IwasakiLab_93677.jpg)<br/>
@@ -66,11 +67,16 @@ Room for incubation cyanobacteria<br/>
 **Questions**<br/>
 ・What is the difference of and electronic microscope and opitical microscope?<br/>
 <br/>
-![IwasakiLab_1](/photo/IwasakiLab_93826.jpg)<br/>
-![IwasakiLab_2](/photo/IwasakiLab_93827.jpg)<br/>
 <br/>
 ### Similarity
 ・Both are messy...<br/>
+<br/>
+Numerous petri dishes were piling up. Why didn't they threw them away...?<br/>
+![IwasakiLab_1](/photo/IwasakiLab_93826.jpg)<br/>
+<br/>
+The lab was a mess. But I don't dislike this chaos.<br/>
+![IwasakiLab_2](/photo/IwasakiLab_93827.jpg)<br/>
+<br/>
 ・Taking off shoes and wear slippers(or sandals) at the entrance of lab.<br/>
 ・Biosafety marks on the doors<br/>
 <br/>

@@ -9,7 +9,7 @@ Therefore, I came back Akihabara!!<br/>
 <br/>
 I visited Sengoku Densho again.<br/>
 A variety of gears are soldon the 3rd floor.<br/>
-![Proto_1_1](/photo/Proto_1_1.jpg)<br/>
+![Proto_1_1](../photo/Proto_1_1.jpg)<br/>
 <br/>
 ### What I bought
 ・[Spun gear (50 teeth, 1.0 module)](https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=8AGA-HGKC) ¥649<br/>
@@ -32,48 +32,48 @@ Note: I bought clay and cork board, as I thought it could be used as a foundatio
 <br/>
 Total amount: ¥4,676<br/>
 <br/>
-![Proto_1_1_2](photo/Proto_1_1_2.jpg)<br/>
+![Proto_1_1_2](../photo/Proto_1_1_2.jpg)<br/>
 <br/>
 Handle<br/>
-![Proto_1_2](photo/Proto_1_2.jpg)<br/>
+![Proto_1_2](../photo/Proto_1_2.jpg)<br/>
 <br/>
-![Proto_1_3](photo/Proto_1_3.jpg)<br/>
+![Proto_1_3](../photo/Proto_1_3.jpg)<br/>
 <br/>
 Spun gear<br/>
-![Proto_1_4](photo/Proto_1_4.jpg)<br/>
+![Proto_1_4](../photo/Proto_1_4.jpg)<br/>
 <br/>
 Connect handle and spun gear with screw to move together.<br/>
-![Proto_1_4_2](photo/Proto_1_4_2.jpg)<br/>
-![Proto_1_4_3](photo/Proto_1_4_3.jpg)<br/>
+![Proto_1_4_2](../photo/Proto_1_4_2.jpg)<br/>
+![Proto_1_4_3](../photo/Proto_1_4_3.jpg)<br/>
 <br/>
 Screw rod<br/>
-![Proto_1_5](photo/Proto_1_5.jpg)<br/>
+![Proto_1_5](../photo/Proto_1_5.jpg)<br/>
 <br/>
 Pinion gear <br/>
-![Proto_1_5_2](photo/Proto_1_5_2.jpg)<br/>
+![Proto_1_5_2](../photo/Proto_1_5_2.jpg)<br/>
 <br/>
 Unfortunately, it appears that 6mm shaft is too big to fit after buying it. So, I had to go back the shop to changed it to 5mm. This time, however, it was still not match with the hole of bevel gear. I will have to deal with this problem later (fill a gap with something?).<br/>
 ![Proto_1_6](photo/Proto_1_6.jpg)<br/>
 <br/>
-![Proto_1_8](photo/Proto_1_8.jpg)<br/>
-![Proto_1_9](photo/Proto_1_9.jpg)<br/>
-![Proto_1_10](photo/Proto_1_10.jpg)<br/>
-![Proto_1_11](photo/Proto_1_11.jpg)<br/>
-![Proto_1_12](photo/Proto_1_12.jpg)<br/>
+![Proto_1_8](../photo/Proto_1_8.jpg)<br/>
+![Proto_1_9](../photo/Proto_1_9.jpg)<br/>
+![Proto_1_10](../photo/Proto_1_10.jpg)<br/>
+![Proto_1_11](../photo/Proto_1_11.jpg)<br/>
+![Proto_1_12](../photo/Proto_1_12.jpg)<br/>
 <br/>
-![Proto_1_13](photo/Proto_1_13.jpg)<br/>
-![GIF Cent_proto_1](photo/Cent_proto_1.gif)<br/>
+![Proto_1_13](../photo/Proto_1_13.jpg)<br/>
+![GIF Cent_proto_1](../photo/Cent_proto_1.gif)<br/>
 My choice that using clay as foundation was entirely mistake, though it helped  to adjust the positions of each parts. It was too soft to fix the gears and polls...<br/>
 土台がよわよわすぎた……😭😭<br/>
 Therefore, I will make foundation with material which is harder next time.<br/>
 <br/>
-![Proto_1_14](photo/Proto_1_14.jpg)<br/>
+![Proto_1_14](../photo/Proto_1_14.jpg)<br/>
 <br/>
 Not working version (pinion gear and bevel gear are not meshing well)<br/>
-![GIF Cent_proto_2(not working)](photo/Cent_proto_2(not working).gif)<br/>
+![GIF Cent_proto_2(not working)](../photo/Cent_proto_2(not working).gif)<br/>
 <br/>
 After adjusting the height of the bevel gear, then it worked (just a little bit...).<br/>
-![GIF Cent_proto_3(working)](photo/Cent_proto_3(working).gif)<br/>
+![GIF Cent_proto_3(working)](../photo/Cent_proto_3(working).gif)<br/>
 Anyway, it was good to know that the gears' teeth are meshing and able to move, even though it moved awkward.<br/>
 <br/>
 Radio controlled car centrifuge?<br/>
@@ -81,7 +81,7 @@ Maybe using motor-kits for radio controlled car is easier...?<br/>
 However, I will try to make hand-cranked centrifuge firstly as challenge.
 <br/>
 こっちを使ったほうがよっぽど早いのでは、という誘惑（3000円くらいだし）……。しかしひとまずは一から作ることに挑戦してみたい。<br/>
-![Motor gear box](photo/Motor gear box.jpg)<br/>
+![Motor gear box](../photo/Motor gear box.jpg)<br/>
 <br/>
 **Reviews & Tasks**<br/>
 ・コルクボードで土台を作ってみる。もしそれがうまくいかなければ、別の素材を探す。<br/>

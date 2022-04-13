@@ -1,6 +1,10 @@
 # Week 7: CRISPR Week
 ## CRISPR Basic
 #### What is CRISPR?
+CRISPR: Clustered Regularly Interspaced Short Palindromic Repeats<br/>
+<br/>
+（・・・・）<br/>
+<br/>
 [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXWkE3Ek)
 <br/>
 ### Guiding, Cutting, Checking
@@ -59,6 +63,8 @@ DNA sequences always extend to 5'(five prime) -> 3'(3 prime) direction.<br/>
 Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_biology))<br/>
 <br/>
 - Enzyme<br/>
+CRISPR-Cas9<br/>
+は原核生物の免疫システムに関する基礎研究の中で発見されたRNA依存性DNA切断酵素であり
 <br/>
 <br/>
 #### References<br/>
@@ -67,7 +73,7 @@ Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_b
 - What is the PAM? - A CRISPR Whiteboard Lesson<br/>
 [https://www.youtube.com/watch?v=iSEEw4Vs_B4)<br/>
 <br/>
-- 「CRISPR-Cas9 基本の「き」」コスモ・バイオ株式会社<br/>
+- CRISPR-Cas9 基本の「き」コスモ・バイオ株式会社<br/>
 [https://www.cosmobio.co.jp/product/detail/crispr-cas9-introduction-apb.asp?entry_id=15520]<br/>
 <br/>
 - Wikipedia, "Directionality (molecular biology)"<br/>
@@ -75,3 +81,7 @@ Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_b
 <br/>
 - Wikipedia, "Phosphodiester bond"<br/>
 [https://en.wikipedia.org/wiki/Phosphodiester_bond]
+<br/>
+- CRISPR　そしてゲノム編集へ… RNA Japan<br/>
+[https://www.rnaj.org/newsletters/item/844-nishimasu-1]<br/>
+<br/>

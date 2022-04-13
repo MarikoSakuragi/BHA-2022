@@ -5,18 +5,18 @@ TWIns, Waseda University<br/>
 ## Comparison between Two Laboratories
 ### Different points
 ### Iwasaki Lab
-・It was large above all!<br/>
-・The space in the lab was comparted to several rooms(including huge incubator rooms).<br/>
-・Bunch of experimental machines are surrounded in the lab: incubators, freezers, centrifuges, cleanbenches, and autoclaves. <br/>
-・The lab equipments are highly efficient. I guess these are absolutely super expensive. <br/>
-・There were many caution statements.<br/>
-・There were notes on equipments, rooms, and white boards that was written about who uses/used and manages what stuff.<br/>
-・Their research subjects that they use in the lab is only cyanobacteria.<br/>
-・High magnification microscope (electronic microscope? I'm not sure this expression right).<br/>
-・The samples taken decades ago were still stored. <br/>
-・Water purification system.<br/>
-・Clean bench with UV light and gas burner.<br/>
-・Electrical plugs hanging from the ceiling.<br/>
+- It was large above all!<br/>
+- The space in the lab was comparted to several rooms(including huge incubator rooms).<br/>
+- Bunch of experimental machines are surrounded in the lab: incubators, freezers, centrifuges, cleanbenches, and autoclaves. <br/>
+- The lab equipments are highly efficient. I guess these are absolutely super expensive. <br/>
+- There were many caution statements.<br/>
+- There were notes on equipments, rooms, and white boards that was written about who uses/used and manages what stuff.<br/>
+- Their research subjects that they use in the lab is only cyanobacteria.<br/>
+- High magnification microscope (electronic microscope? I'm not sure this expression right).<br/>
+- The samples taken decades ago were still stored. <br/>
+- Water purification system.<br/>
+- Clean bench with UV light and gas burner.<br/>
+- Electrical plugs hanging from the ceiling.<br/>
 <br/>
 (Extra: Their student room was very new and well organized. I envy it...)<br/>
 <br/>
@@ -55,30 +55,30 @@ Various Centrifuges<br/>
 <br/>
 <br/>
 ### BioLab (DIY Lab)
-・It is small compared to Iwasaki lab.<br/>
-・Basically, all lab machines in our lab are just one, except of the incubators.<br/>
-・There are few caution statements, notes, and lists for preventing faults or managing lab stuffs.<br/>
-・We focus on not one organism (such as cyanobacteria) but treat many types of organisms. <br/>
-・Normal microscopes? (upright microscope and inverted microscope)<br/>
-・Using distilled water in a box.<br/>
-・Simple clean bench which doesn't have UV light and gas burner.<br/>
-・Using extension cords.<br/>
+- It is small compared to Iwasaki lab.<br/>
+- Basically, all lab machines in our lab are just one, except of the incubators.<br/>
+- There are few caution statements, notes, and lists for preventing faults or managing lab stuffs.<br/>
+- We focus on not one organism (such as cyanobacteria) but treat many types of organisms. <br/>
+- Normal microscopes? (upright microscope and inverted microscope)<br/>
+- Using distilled water in a box.<br/>
+- Simple clean bench which doesn't have UV light and gas burner.<br/>
+- Using extension cords.<br/>
 <br/>
 #### <span style="background-color:LightGray">Questions</span>
-・What is the difference of and electronic microscope and opitical microscope?<br/>
+- What is the difference of and electronic microscope and opitical microscope?<br/>
 <br/>
 <br/>
 ### Similarity
-・Both are messy...<br/>
+- Both are messy...<br/>
 <br/>
 Numerous petri dishes were piling up. Why didn't they threw them away...?<br/>
 ![IwasakiLab_1](/photo/IwasakiLab_93826.jpg)<br/>
 <br/>
-The lab was a mess. But I don't dislike this chaos.<br/>
+- The lab was a mess. But I don't dislike this chaos.<br/>
 ![IwasakiLab_2](/photo/IwasakiLab_93827.jpg)<br/>
 <br/>
-・Taking off shoes and wear slippers(or sandals) at the entrance of lab.<br/>
-・Biosafety marks on the doors<br/>
+- Taking off shoes and wear slippers(or sandals) at the entrance of lab.<br/>
+- Biosafety marks on the doors<br/>
 <br/>
 ## 4/5（Tue) Sampling at a Park
 Sigo-yama Park, Meguro-ku, tokyo<br/>

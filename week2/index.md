@@ -36,6 +36,7 @@ Foldscope is a small and low-cost microscope made by paper. It was designed by M
 ![Foldscope](/photo/IMG20220308160240.jpeg)<br/>
 Let's check if you make correctly by sliding Panning guide and Focus ramp. If these are moved smoothly, it's done! Let's look through the microscope.<br/>
 <br/>
+
 #### <font color="Olive">- Observation</font>
 Foldscope's magnification is 140X. You may able to watch microorganisms and plants tissues. Our local cordinator Georg Tremmel reccomended us to use pond water as a sample for example. He said also that Tardigrade (Kumamushi）is also interest sample to watch by microscope. This time, we saw the cross section of a fern through the Foldscope.</br>
 When you want to see something, you put the sample on a slide glass, and set the slide glass above the lens. Then, adjust focus by moving Panning guide and Focus ramp. Panning guide can  adjust X and Y axis, and Focus ramp changes Z axis: the distance between lens and subject. <br/>

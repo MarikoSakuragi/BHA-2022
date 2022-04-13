@@ -64,8 +64,7 @@ Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_b
 <br/>
 - Enzyme<br/>
 "Enzymes are built of proteins folded into complicated shapes; they are present throughout the body.The chemical reactions that keep us alive – our metabolism – rely on the work that enzymes carry out."<br/>
-("Enzymes: How they work adn what they do" *Medical News Today*)<br/>
-[https://www.medicalnewstoday.com/articles/319704#the-basics](https://www.medicalnewstoday.com/articles/319704#the-basics)<br/>
+[Enzymes: How they work adn what they do - *Medical News Today*](https://www.medicalnewstoday.com/articles/319704#the-basics)<br/>
 <br/>
 **Cas9** is also the enzyme which cut genome:a dual RNA-guided DNA endonuclease enzyme.<br/>
 <br/>

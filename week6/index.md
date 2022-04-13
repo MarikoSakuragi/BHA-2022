@@ -20,7 +20,7 @@ TWIns, Waseda University<br/>
 <br/>
 (Extra: Their student room was very new and well organized. I envy it...)<br/>
 <br/>
-**Questions**<br/>
+#### <span style="background-color:LightGray">Questions</span>
 ・I was interested in how they use the several experimental machines differently: for what experiments, for what purpose?<br/>
 ・Does lab equipments or environments of labs vary from another labs? I guess it might be different by organisms which they deal with.<br/>
 ・Do everyone in Iwasaki lab grasp where and what are all the stuffs in the lab, despite of  that the lab has numberless stuffs?<br/>
@@ -64,7 +64,7 @@ Various Centrifuges<br/>
 ・Simple clean bench which doesn't have UV light and gas burner.<br/>
 ・Using extension cords.<br/>
 <br/>
-**Questions**<br/>
+#### <span style="background-color:LightGray">Questions</span>
 ・What is the difference of and electronic microscope and opitical microscope?<br/>
 <br/>
 <br/>

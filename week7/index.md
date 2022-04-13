@@ -1,5 +1,8 @@
 # CRISPR Week
 ## CRISPR Basic
+#### What is CRISPR?
+[CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXWkE3Ek)
+<br/>
 ### Guiding, Cutting, Checking
 #### <font color="Olive">Guiding</font>
 Making guide RNA to instruct CAS9 where to cut<br/>
@@ -8,14 +11,12 @@ Making guide RNA to instruct CAS9 where to cut<br/>
 3. 30m Destroying unnecessary DNA<br/>
 4. cleaning sgRNA<br/>
 
-<br/>
 #### <font color="Olive">Cutting</font>
 CAS9 precisely cuts DNA<br/>
 1. Setting the stage for CAS9 cutting<br/>
 2. Combining sgRNA + CAS9+targetDNA<br/>
 3. 60-90m cutting targetDNA<br/>
 
-<br/>
 #### <font color="Olive">Checking</font>
 Separate DNA fragment<br/>
 1. Preparing the GEL<br/>
@@ -24,9 +25,6 @@ Separate DNA fragment<br/>
 
 <br/>
 Heat shock? (PCR?)<br/>
-
-#### What is CRISPR?
-[CRISPR Cas9 - A Brief Introduction](https://youtu.be/1aJxXWkE3Ek)
 <br/>
 ### Make sure you know definitions of:
 - sgRNA<br/>
@@ -45,7 +43,7 @@ Specific sequence of nucleotides, around 2-6 base pairs, that follow the protosp
 CRISPR cut target sequences only when PAM follows just behind that sequences. It is thought that PAM is the system that microbes distinguish themselves from viruses.<br/>
 <br/>
 ![CRISPR Cas9 - A Brief Introduction](/photo/CRISPR_2.jpg)<br/>
-Image from [CRISPR Cas9 - A Brief Introduction](https://youtu.be/1aJxXWkE3Ek)<br/>
+Image from [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXWkE3Ek)<br/>
 <br/>
 - Promoter<br/>
 <br/>
@@ -54,14 +52,26 @@ Image from [CRISPR Cas9 - A Brief Introduction](https://youtu.be/1aJxXWkE3Ek)<br
 <br/>
 <br/>
 - 5' to 3' Directionality (“5 prime to 3 prime)<br/>
+It indicate the carbon numbers in the DNA's sugar backbone.
+DNA sequences always extend to 5'(five prime) -> 3'(3 prime) direction.<br/>
 <br/>
+![5' to 3' Direction](/photo/CRISPR_2.jpg)<br/>
+Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_biology))<br/>
 <br/>
 - Enzyme<br/>
 <br/>
 <br/>
-**References**<br/>
+#### References<br/>
+- CRISPR Cas9 - A Brief Introduction<br/>
+[https://youtu.be/1aJxXWkE3Ek)
 - What is the PAM? - A CRISPR Whiteboard Lesson<br/>
-[https://www.youtube.com/watch?v=iSEEw4Vs_B4](https://www.youtube.com/watch?v=iSEEw4Vs_B4)<br/>
+[https://www.youtube.com/watch?v=iSEEw4Vs_B4)<br/>
 <br/>
-- 「CRISPR-Cas9 基本の「き」」コスモ・バイオ株式会社[https://www.cosmobio.co.jp/product/detail/crispr-cas9-introduction-apb.asp?entry_id=15520]()<br/>
+- 「CRISPR-Cas9 基本の「き」」コスモ・バイオ株式会社<br/>
+[https://www.cosmobio.co.jp/product/detail/crispr-cas9-introduction-apb.asp?entry_id=15520]<br/>
 <br/>
+- Wikipedia, "Directionality (molecular biology)"<br/>
+[https://en.wikipedia.org/wiki/Directionality_(molecular_biology)]<br/>
+<br/>
+- Wikipedia, "Phosphodiester bond"<br/>
+[https://en.wikipedia.org/wiki/Phosphodiester_bond]

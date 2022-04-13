@@ -7,18 +7,21 @@ Making guide RNA to instruct CAS9 where to cut<br/>
 2. 60m Making sgRNA<br/>
 3. 30m Destroying unnecessary DNA<br/>
 4. cleaning sgRNA<br/>
+
 <br/>
 #### <font color="Olive">Cutting</font>
 CAS9 precisely cuts DNA<br/>
 1. Setting the stage for CAS9 cutting<br/>
 2. Combining sgRNA + CAS9+targetDNA<br/>
 3. 60-90m cutting targetDNA<br/>
+
 <br/>
 #### <font color="Olive">Checking</font>
 Separate DNA fragment<br/>
 1. Preparing the GEL<br/>
 2. Running the GEL<br/>
 3. Checking the GEL (UV light)<br/>
+
 <br/>
 Heat shock? (PCR?)<br/>
 
@@ -42,6 +45,7 @@ Specific sequence of nucleotides, around 2-6 base pairs, that follow the protosp
 CRISPR cut target sequences only when PAM follows just behind that sequences. It is thought that PAM is the system that microbes distinguish themselves from viruses.<br/>
 <br/>
 ![CRISPR Cas9 - A Brief Introduction](/photo/CRISPR_2.jpg)<br/>
+Image from [CRISPR Cas9 - A Brief Introduction](https://youtu.be/1aJxXWkE3Ek)<br/>
 <br/>
 - Promoter<br/>
 <br/>

@@ -59,6 +59,8 @@ CRISPR cut target sequences only when PAM follows just behind that sequences. It
 ![CRISPR Cas9 - A Brief Introduction](/photo/CRISPR_2.jpg)<br/>
 Image from [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXWkE3Ek)<br/>
 <br/>
+![CRISPR_memo](/photo/CRISPR_memo.jpg)<br/>
+<br/>
 - Promoter<br/>
 <br/>
 <br/>
@@ -66,7 +68,7 @@ Image from [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXW
 <br/>
 <br/>
 - 5' to 3' Directionality (“5 prime to 3 prime)<br/>
-It indicate the carbon numbers in the DNA's sugar backbone.
+"5' and "3'" indicate the carbon numbers in the DNA's sugar backbone.
 DNA sequences always extend to 5'(five prime) -> 3'(3 prime) direction.<br/>
 <br/>
 ![5' to 3' Direction](/photo/CRISPR_3.jpg)<br/>
@@ -74,7 +76,7 @@ Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_b
 <br/>
 - Enzyme<br/>
 "Enzymes are built of proteins folded into complicated shapes; they are present throughout the body.The chemical reactions that keep us alive – our metabolism – rely on the work that enzymes carry out."<br/>
-[Enzymes: How they work adn what they do - *Medical News Today*](https://www.medicalnewstoday.com/articles/319704#the-basics)<br/>
+[Enzymes: How they work and what they do - *Medical News Today*](https://www.medicalnewstoday.com/articles/319704#the-basics)<br/>
 <br/>
 **Cas9** is also the enzyme which cut genome:a dual RNA-guided DNA endonuclease enzyme.<br/>
 <br/>
@@ -102,3 +104,5 @@ Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_b
 (Genetical modified tomato by CRISPR-Cas9 was developed in 2020)<br/>
 [https://p-e-s.co.jp/higabatomato_column/genome-editing-for-sicilian-rouge/](https://p-e-s.co.jp/higabatomato_column/genome-editing-for-sicilian-rouge/)<br/>
 <br/>
+- Benchiling
+[https://www.benchling.com](https://www.benchling.com)<br/>

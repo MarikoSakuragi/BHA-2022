@@ -20,12 +20,14 @@ TWIns, Waseda University<br/>
 <br/>
 (Extra: Their student room was very new and well organized. I envy it...)<br/>
 <br/>
+
 #### <span style="background-color:LightGray">Questions</span>
-・I was interested in how they use the several experimental machines differently: for what experiments, for what purpose?<br/>
-・Does lab equipments or environments of labs vary from another labs? I guess it might be different by organisms which they deal with.<br/>
-・Do everyone in Iwasaki lab grasp where and what are all the stuffs in the lab, despite of  that the lab has numberless stuffs?<br/>
-・Hou mach is the maintenance fee of Iwasaki lab each year?<br/>
+- I was interested in how they use the several experimental machines differently: for what experiments, for what purpose?<br/>
+- Does lab equipments or environments of labs vary from another labs? I guess it might be different by organisms which they deal with.<br/>
+- Do everyone in Iwasaki lab grasp where and what are all the stuffs in the lab, despite of  that the lab has numberless stuffs?<br/>
+- How mach is the maintenance fee of Iwasaki lab each year?<br/>
 <br/>
+
 ![IwasakiLab_caution_1](/photo/IwasakiLab_93653.jpg)<br/>
 ![IwasakiLab_caution_2](/photo/IwasakiLab_93654.jpg)<br/>
 ![IwasakiLab_caution_3](/photo/IwasakiLab_93823.jpg)<br/>
@@ -67,11 +69,10 @@ Various Centrifuges<br/>
 #### <span style="background-color:LightGray">Questions</span>
 - What is the difference of and electronic microscope and opitical microscope?<br/>
 <br/>
-<br/>
+
 ### Similarity
 - Both are messy...<br/>
-<br/>
-Numerous petri dishes were piling up. Why didn't they threw them away...?<br/>
+(Numerous petri dishes were piling up. Why didn't they threw them away...?)<br/>
 ![IwasakiLab_1](/photo/IwasakiLab_93826.jpg)<br/>
 <br/>
 - The lab was a mess. But I don't dislike this chaos.<br/>
@@ -80,6 +81,7 @@ Numerous petri dishes were piling up. Why didn't they threw them away...?<br/>
 - Taking off shoes and wear slippers(or sandals) at the entrance of lab.<br/>
 - Biosafety marks on the doors<br/>
 <br/>
+
 ## 4/5（Tue) Sampling at a Park
 Sigo-yama Park, Meguro-ku, tokyo<br/>
 <br/>

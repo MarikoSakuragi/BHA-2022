@@ -63,10 +63,13 @@ DNA sequences always extend to 5'(five prime) -> 3'(3 prime) direction.<br/>
 Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_biology))<br/>
 <br/>
 - Enzyme<br/>
-CRISPR-Cas9<br/>
-は原核生物の免疫システムに関する基礎研究の中で発見されたRNA依存性DNA切断酵素であり
+"Enzymes are built of proteins folded into complicated shapes; they are present throughout the body.The chemical reactions that keep us alive – our metabolism – rely on the work that enzymes carry out."<br/>
+("Enzymes: How they work adn what they do" *Medical News Today*)<br/>
+[https://www.medicalnewstoday.com/articles/319704#the-basics](https://www.medicalnewstoday.com/articles/319704#the-basics)<br/>
 <br/>
+**Cas9** is also the enzyme which cut genome:a dual RNA-guided DNA endonuclease enzyme.<br/>
 <br/>
+
 #### References<br/>
 - CRISPR Cas9 - A Brief Introduction<br/>
 [https://youtu.be/1aJxXWkE3Ek](https://youtu.be/1aJxXWkE3Ek)<br/>

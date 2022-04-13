@@ -21,9 +21,23 @@ Heat shock? (PCR?)<br/>
 <br/>
 ## Make sure you know definitions of:
 - sgRNA<br/>
+sgRNA(segment RNA)=gRNA(guide RNA)<br/>
+<br/>
 - PAM sequence<br/>
+PAM: "Protospacer Adjacent Motif" (プロトスペーサー隣接配列)<br/>
+Specific sequence of nucleotides, around 2-6 base pairs, that follow the protospacer sequence in a viral genome<br/>
+<br/>
+CRISPR cut target sequences only when PAM follows just behind that sequences. It is thought that PAM is the system that microbes distinguish themselves from viruses.<br/>
+<br/>
 - Promoter<br/>
+<br/>
+<br/>
 - Plasmid<br/>
+<br/>
+<br/>
 - 5' to 3' Directionality (“5 prime to 3 prime)<br/>
+<br/>
+<br/>
 - Enzyme<br/>
+<br/>
 <br/>

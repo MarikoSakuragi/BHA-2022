@@ -1,4 +1,12 @@
 # Week 7: CRISPR Week
+## Homework
+- Explain, draw/sketch and understand the CRISPR/Cas9 mechanism. Name the involved parts, expand and learn the acronym, explain why this technology is a break-through, explain how it can be programmed.<br/>
+<br/>
+- Explain, draw/sketch and understand the DNA Repair mechanisms: HDR and NHEH<br/>
+<br/>
+- Make an account at [benchling.com](http://benchling.com/) and follow the CRISPR tutorial from Fabio Ferreira on Digital DNA Design.<br/>
+<br/>
+- *Extra Credit: Compare with other Genome Editing technologies like Restriction Enzymes, TALENs and ZFNs.*<br/>
 ## CRISPR Basic
 #### What is CRISPR?
 CRISPR: Clustered Regularly Interspaced Short Palindromic Repeats<br/>

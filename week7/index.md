@@ -1,4 +1,4 @@
-# CRISPR Week
+# Week 7: CRISPR Week
 ## CRISPR Basic
 #### What is CRISPR?
 [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXWkE3Ek)
@@ -55,7 +55,7 @@ Image from [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXW
 It indicate the carbon numbers in the DNA's sugar backbone.
 DNA sequences always extend to 5'(five prime) -> 3'(3 prime) direction.<br/>
 <br/>
-![5' to 3' Direction](/photo/CRISPR_2.jpg)<br/>
+![5' to 3' Direction](/photo/CRISPR_3.jpg)<br/>
 Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_biology))<br/>
 <br/>
 - Enzyme<br/>

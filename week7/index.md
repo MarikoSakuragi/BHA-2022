@@ -3,16 +3,16 @@
 <br/>
 This is the lecture about methodology of designing genes and how to get them.<br/>
 <br/>
-### Coding<br/>
+#### Coding<br/>
 （DNA配列に対して）Mutagenic event ->deletion -> insertion -> Substitution（置換）<br/>
 
-### CRISPR<br/>
+#### CRISPR<br/>
 Q. What is Linker loop?<br/>
 <br/>
 細胞が壊れたとき（皮膚の怪我など）・・・DNAは自力で修復しようとする<br/>
 →CRISPRはその仕組みを利用して、壊したDNAの配列の隙間に新たなDNA配列を挿入する<br/>
 
-### Design sgRNA: Tools and parakeets<br/>
+#### Design sgRNA: Tools and parakeets<br/>
 ・Target (coding and non-coding sequences)<br/>
 ・PAM(s)<br/>
 ・On-target efficiency<br/>
@@ -24,16 +24,16 @@ There are online tools for the design.<br/>
 （既に用意されているものがあるということらしい。どっちがどっち？）<br/>
 ・integration of multiple parameters<br/>
 <br/>
-### Some online tools to select sgRNA<br/>
+#### Some online tools to select sgRNA<br/>
 Fabio’s recommendation is “Benching”<br/>
 <br/>
-### Where to get the vectors (and sgRNAs)<br/>
+#### Where to get the vectors (and sgRNAs)<br/>
 A lot of companies sell the prasmids<br/>
-<br/>**Addgene** (Non-profit) 60€(?)<br/>
+- Addgene (Non-profit) 60€(?)<br/>
 [https://www.addgene.org/guides/crispr/](https://www.addgene.org/guides/crispr/)<br/>
 ↑There are also protocols for CRISPR.<br/>
-<br/>
-### How to use Benching
+
+#### How to use Benching
 Pick your gene. For example, ENSG0000254647<br/>
 ↓<br/>
 On Benching click “+”<br/>
@@ -42,6 +42,7 @@ On Benching click “+”<br/>
 -> Search External Databases<br/>
 -> Search for “ENSG0000254647”<br/>
 -> Import<br/>
+<br/>
 
 ## Homework
 - Explain, draw/sketch and understand the CRISPR/Cas9 mechanism. Name the involved parts, expand and learn the acronym, explain why this technology is a break-through, explain how it can be programmed.<br/>

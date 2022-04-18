@@ -43,6 +43,14 @@ On Benching click “+”<br/>
 -> Search for “ENSG0000254647”<br/>
 -> Import<br/>
 <br/>
+![Benchling_1](/photo/Benchling_1.jpg)<br/>
+<br/>
+![Benchling_2](/photo/Benchling_2.jpg)<br/>
+<br/>
+![Benchling_3](/photo/Benchling_3.jpg)<br/>
+<br/>
+![Benchling_4](/photo/Benchling_4.jpg)<br/>
+<br/>
 
 ## Homework
 - Explain, draw/sketch and understand the CRISPR/Cas9 mechanism. Name the involved parts, expand and learn the acronym, explain why this technology is a break-through, explain how it can be programmed.<br/>

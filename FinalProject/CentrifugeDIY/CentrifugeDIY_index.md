@@ -9,4 +9,6 @@
 ### [4/6(Wed) Take-tombo Centrifuge?](taketombo.md)
 ### [4/7(Thu) Think More and Search LEGO parts](ideas_and_lego.md)
 ### [4/8(Fri) Prototype 3　-- with LEGO!!](prototype_3.md)
+### [4/13(Wed) Prototype 4](prototype_4.md)
+### [4/17(Sun) Prototype 4.5](prototype_4.5.md)
 ### [LEGO Parts](lego_parts.md)

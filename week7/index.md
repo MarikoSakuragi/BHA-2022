@@ -12,11 +12,9 @@ Q. What is Linker loop?<br/>
 細胞が壊れたとき（皮膚の怪我など）・・・DNAは自力で修復しようとする<br/>
 →CRISPRはその仕組みを利用して、壊したDNAの配列の隙間に新たなDNA配列を挿入する<br/>
 ![CRISPR_lec_1](/photo/CRISPR_lec_1.jpg)<br/>
-![CRISPR_lec_1](/photo/CRISPR_lec_2.jpg)<br/>
-![CRISPR_lec_1](/photo/CRISPR_lec_3.jpg)<br/>
-![CRISPR_lec_1](/photo/CRISPR_lec_4.jpg)<br/>
-![CRISPR_lec_1](/photo/CRISPR_lec_5.jpg)<br/>
-![CRISPR_lec_1](/photo/CRISPR_lec_6.jpg)<br/>
+![CRISPR_lec_2](/photo/CRISPR_lec_2.jpg)<br/>
+![CRISPR_lec_3](/photo/CRISPR_lec_3.jpg)<br/>
+![CRISPR_lec_4](/photo/CRISPR_lec_4.jpg)<br/>
 
 #### Design sgRNA: Tools and parakeets<br/>
 ・Target (coding and non-coding sequences)<br/>
@@ -32,6 +30,7 @@ There are online tools for the design.<br/>
 <br/>
 #### Some online tools to select sgRNA<br/>
 Fabio’s recommendation is “Benching”<br/>
+![CRISPR_lec_5](/photo/CRISPR_lec_5.jpg)<br/>
 <br/>
 #### Where to get the vectors (and sgRNAs)<br/>
 A lot of companies sell the prasmids<br/>

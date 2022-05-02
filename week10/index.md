@@ -38,7 +38,7 @@ Bento Lab Biotechnology 101 Kit<br/>
 10. Heating these tubes in thermocycler of Bento Lab(90℃, 10sec)<br/>
 ![Extra_10](/photo/98410.jpg)<br/>
 <br/>
-11. Mix by flipping(5sec)<br/>
+11. Mix by flipping<br/>
 <br/>
 12. Centrifuge(8000G, 90sec)<br/>
 ![Extra_12_1](/photo/98405.jpg)<br/>
@@ -48,6 +48,7 @@ Bento Lab Biotechnology 101 Kit<br/>
 ![Extra_13_1](/photo/G_98501.jpg)<br/>
 <br/>
 ![Extra_13_2](/photo/98427.jpg)<br/>
+<br/>
 
 ## Introduction to PCR
 [Reference](https://bento.bio/protocol/biotechnology-101/introduction-to-pcr/)<br/>

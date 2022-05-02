@@ -10,5 +10,5 @@
 ### [・　Week7: CRISPR week](week7/)<br>
 ### [・　Week8: Personal Project](week8/)<br>
 ### [・　Week9: Personal Project](week9/)<br>
-### [・　Week10: Final Presentations](week10/)<br>
+### [・　Week10: PCR Experiments](week10/)<br>
 ### [・　Final Project](FinalProject)<br>

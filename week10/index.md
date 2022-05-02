@@ -5,14 +5,38 @@ Bento Lab Biotechnology 101 Kit<br/>
 <br/>
 
 ## DNA Extraction (From Saliva)
+1. 1.5ml Salva and lavel name on tubes<br/>
+<br/>
+2. Put pinch of salt into cup with water<br/>
+<br/>
+3. Gargling(30-60sec)<br/>
+<br/>
+4. Transfer (3) to 1.5ml tube<br/>
+<br/>
+5. Centrifuge(4,000G, 90sec)<br/>
+<br/>
+6. Remove supernatant by decanting<br/>
+<br/>
+7. Resuspend and flipping<br/>
+<br/>
+8. Transfer (7) to 200μl to PCR tube<br/>
+<br/>
+9. Labeling PCR tube<br/>
+<br/>
+10. Heating these tubes in thermocycler of Bento Lab(90℃, 10sec)<br/>
+<br/>
+11. Mix by flipping(5sec)<br/>
+<br/>
+12. Centrifuge(8000G, 90sec)<br/>
+<br/>
+13. Transfer supernatant to new PCR tube<br/>
+<br/>
 
-<br/>
-<br/>
 ## Introduction to PCR
 [Reference](https://bento.bio/protocol/biotechnology-101/introduction-to-pcr/)<br/>
 <br/>
 **Equipment**<br/>
-- Bento lab<br/>
+- Bento lab only<br/>
 <br/>
 
 ### Guide
@@ -33,6 +57,8 @@ At this point, the primers will attach, or anneal, to their binding positions on
 3. Third Step: Extending<br/>
 ![Extending](/photo/PCR_extending.jpg)<br/>
 In the next step, the reaction moves to an optimal temperature for the polymerase enzyme (1), from which PCR takes its name, to start working. The polymerase enzyme builds DNA strands, and it will extend the DNA from the primer along the DNA template, creating a new DNA strand, which combines with the single-stranded template to form a double strand. The polymerase enzyme uses dNTPs (2), free DNA nucleotide bases as the building blocks for the new strand.<br/>
+<br/>
+
 #### 2. PCR on Bento Lab
 <br/>
 #### 3. PCR with Biotechnology 101 Kit

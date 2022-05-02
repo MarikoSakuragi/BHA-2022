@@ -43,19 +43,25 @@ Bento Lab Biotechnology 101 Kit<br/>
 #### 1. What is PCR
 PCR (polymerase chain reaction) is a method used in molecular biology to make millions of physical copies of a specific DNA sequence, for example, a gene.<br/>
 <br/>
-A **primer** is **a short single strand of DNA that serves as a starting point for DNA synthesis of a new DNA strand**. It is required for DNA replication because the enzymes that catalyze this process, DNA polymerases, can only add new nucleotides to an existing fragment of DNA.<br/>
+**"Primer"** is **a short single strand of DNA that serves as a starting point for DNA synthesis of a new DNA strand**. It is required for DNA replication because the enzymes that catalyze this process, DNA polymerases, can only add new nucleotides to an existing fragment of DNA.<br/>
 <br/>
 1. First Step: Denaturing<br/>
+<br/>
 ![Denaturing](photo/PCR_denaturing.jpg)<br/>
+<br/>
 First, the DNA template is heated, which causes the double-stranded DNA to separate into two single strands.<br/>
 <br/>
 2. Second Step: Annealing<br/>
+<br/>
 ![Annealing](/photo/PCR_annealing.jpg)<br/>
+<br/>
 40-60℃: annealing temprature<br/>
 At this point, the primers will attach, or anneal, to their binding positions on the single strands of the template DNA.<br/>
 <br/>
 3. Third Step: Extending<br/>
+<br/>
 ![Extending](/photo/PCR_extending.jpg)<br/>
+<br/>
 In the next step, the reaction moves to an optimal temperature for the polymerase enzyme (1), from which PCR takes its name, to start working. The polymerase enzyme builds DNA strands, and it will extend the DNA from the primer along the DNA template, creating a new DNA strand, which combines with the single-stranded template to form a double strand. The polymerase enzyme uses dNTPs (2), free DNA nucleotide bases as the building blocks for the new strand.<br/>
 <br/>
 
@@ -77,12 +83,12 @@ Finally, you will prepare, as part of each experiment, specific template DNA (3)
 <br/>
 **Consumables**<br/>
 - 4 x Pipette Tips<br/>
-<br/>
 
 **Equipment**
 - Micropipette<br/><br/>
 - Bento Lab<br/>
 - Microwave<br/>
+<br/>
 
 ### Guide
 #### 1. What is Gel Electrophoresis?

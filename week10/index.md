@@ -1,5 +1,10 @@
-# Week 10: PCR
+# Week 10: PCR Experiments
 
+## Bento Lab
+![BentoLab_1](/photo/60486)<br/>
+![BentoLab_2](/photo/60508)<br/>
+![BentoLab_3](/photo/60506)<br/>
+<br/>
 Bento Lab Biotechnology 101 Kit<br/>
 [https://bento.bio/protocol/biotechnology-101/](https://bento.bio/protocol/biotechnology-101/)<br/>
 <br/>

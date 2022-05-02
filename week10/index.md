@@ -20,6 +20,7 @@ Bento Lab Biotechnology 101 Kit<br/>
 ![Extra_5_2](/photo/98378.jpg)<br/>
 <br/>
 6. Remove supernatant by decanting<br/>
+![Extra_6](/photo/G_98502.jpg)<br/>
 <br/>
 7. Resuspend and flipping<br/>
 ![Extra_7](/photo/flipping.gif)<br/>

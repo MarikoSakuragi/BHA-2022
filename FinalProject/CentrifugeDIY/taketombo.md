@@ -10,7 +10,7 @@ How to make a Take-tombo that fly well from bamboo.
 <br/>
 "A mechanical launch pad" 竹とんぼ発射台装置<br/>
 [https://www.youtube.com/watch?v=t1t1HYFW4UA](https://www.youtube.com/watch?v=t1t1HYFW4UA)<br/>
-...Too mechanical. It is abviously too advanced for me to make the copy.<br/>
+...Too mechanical. It is obviously too advanced for me to make the copy.<br/>
 <br/>
 →I rejected this idea.
 <br/>

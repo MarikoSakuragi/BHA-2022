@@ -8,28 +8,37 @@ Bento Lab Biotechnology 101 Kit<br/>
 1. 1.5ml Salva and lavel name on tubes<br/>
 <br/>
 2. Put pinch of salt into cup with water<br/>
+![Extra_2](/photo/98382.jpg)<br/>
 <br/>
 3. Gargling(30-60sec)<br/>
 <br/>
 4. Transfer (3) to 1.5ml tube<br/>
+![Extra_4](/photo/98382.jpg)<br/>
 <br/>
 5. Centrifuge(4,000G, 90sec)<br/>
+![Extra_5_1](/photo/98385.jpg)<br/>
+![Extra_5_2](/photo/98378.jpg)<br/>
 <br/>
 6. Remove supernatant by decanting<br/>
 <br/>
 7. Resuspend and flipping<br/>
+![Extra_7](/photo/flipping.gif)<br/>
 <br/>
 8. Transfer (7) to 200μl to PCR tube<br/>
 <br/>
 9. Labeling PCR tube<br/>
+![Extra_8](/photo/f98405.jpg)<br/>
 <br/>
 10. Heating these tubes in thermocycler of Bento Lab(90℃, 10sec)<br/>
+![Extra_10](/photo/98410.jpg)<br/>
 <br/>
 11. Mix by flipping(5sec)<br/>
 <br/>
 12. Centrifuge(8000G, 90sec)<br/>
+![Extra_12](/photo/98405.jpg)<br/>
 <br/>
 13. Transfer supernatant to new PCR tube<br/>
+![Extra_13](/photo/G_98501.jpg)<br/>
 <br/>
 
 ## Introduction to PCR

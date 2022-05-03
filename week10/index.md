@@ -10,19 +10,21 @@ Bento Lab Biotechnology 101 Kit<br/>
 <br/>
 
 ## DNA Extraction (From Saliva)
-1. 1.5ml Salva and lavel name on tubes<br/>
+1. 1.5ml Salva and label name on tubes<br/>
 <br/>
 2. Put pinch of salt into cup with water<br/>
 ![Extra_2](/photo/98382.jpg)<br/>
 <br/>
 3. Gargling(30-60sec)<br/>
 <br/>
-4. Transfer (3) to 1.5ml tube<br/>
+4. Transfer 3. to 1.5ml tube<br/>
 ![Extra_4](/photo/98392.jpg)<br/>
 <br/>
 5. Centrifuge(4,000G, 90sec)<br/>
 ![Extra_5_1](/photo/98385.jpg)<br/>
 ![Extra_5_2](/photo/98378.jpg)<br/>
+<br/>
+CAUTION: Be careful to the balance of tubes. It is dangerous if these are not put in the tube rod in well-balanced.<br/>
 <br/>
 6. Remove supernatant by decanting<br/>
 ![Extra_6_1](/photo/98405.jpg)<br/>
@@ -31,21 +33,22 @@ Bento Lab Biotechnology 101 Kit<br/>
 7. Resuspend and flipping<br/>
 ![Extra_7](/photo/flipping.gif)<br/>
 <br/>
-8. Transfer (7) to 200μl to PCR tube<br/>
+Flip near the bottom of the tube with your finger.<br/>
+It is also OK to thump it on the table.<br/>
+<br/>
+8. Transfer 7. to 200μl to PCR tube and label it.<br/>
 ![Extra_8](/photo/G_98501.jpg)<br/>
 <br/>
-9. Labeling PCR tube<br/>
+19. Heating these tubes in thermocycler of Bento Lab(90℃, 10sec)<br/>
+![Extra_9](/photo/98410.jpg)<br/>
 <br/>
-10. Heating these tubes in thermocycler of Bento Lab(90℃, 10sec)<br/>
-![Extra_10](/photo/98410.jpg)<br/>
+10. Mix by flipping<br/>
 <br/>
-11. Mix by flipping<br/>
+11. Centrifuge(8000G, 90sec)<br/>
+![Extra_11](/photo/98414.jpg)<br/>
 <br/>
-12. Centrifuge(8000G, 90sec)<br/>
-![Extra_12](/photo/98414.jpg)<br/>
-<br/>
-13. Transfer supernatant to new PCR tube<br/>
-![Extra_13](/photo/98427.jpg)<br/>
+12. Transfer supernatant to new PCR tube<br/>
+![Extra_12](/photo/98427.jpg)<br/>
 <br/>
 
 ## Introduction to PCR

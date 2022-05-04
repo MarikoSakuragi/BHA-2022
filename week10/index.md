@@ -102,11 +102,18 @@ Finally, you will prepare, as part of each experiment, specific template DNA (3)
 <br/>
 **Consumables**<br/>
 - 4 x Pipette Tips<br/>
-
-**Equipment**
+<br/>
+**Equipment**<br/>
 - Micropipette<br/><br/>
 - Bento Lab<br/>
 - Microwave<br/>
+<br/>
+**Reagents and Consumables**<br/>
+- Pipette Tips (4)<br/>
+- Gel Electrophoresis Tutorial Bag<br/>
+- Electrophoresis Materials Bag<br/>
+- Distilled or deionized water (1L) Not included. You can find this on eBay or Amazon.<br/>
+- Empty 1L plastic or glass bottle. Not included.<br/>
 <br/>
 
 ### Guide
@@ -126,12 +133,25 @@ Two rubber dams are used to create buffer zones around the electrodes during gel
 #### 5. Preparing the gel box for casting
 <br/>
 #### 6. Heating the gel solution in the microwave
+Heat the solution in a microwave for short bursts of 20-30 seconds.<br/>
+**!** Avoid heating the gel solution for too long.<br/>
+<br/>
+After each burst of microwaving, take our the beaker and swirl the solution. Once bubbles start appearing, the agarose should have dissolved. If you still see visibly solid pieces or strings of agarose, continue until they are dissolved.<br/>
 <br/>
 #### 7. Pouring the gel
+Once the agarose is fully melted and dissolved, let it cool to about 55°C – it should feel hot, but not too hot to touch.<br/>
+Pour the agarose **slowly** into the gel box until the 5mm mark.<br/>
+<br/>
+It will take about 30 min for the gel to solidify at room temperature. To speed up the process, you can also put the gel tray into the fridge.<br/>
 <br/>
 #### 8. Removing the comb and buffer dams
+Remove the comb and the buffer damsafter the gel has solidified.<br/>
+<br/>
+**!** Be careful not to damage the gel as you remove the comb and dams. When removing the comb, make sure not to pierce the gel.<br/>
 <br/>
 #### 9. Gel Buffer
+Use your prepared 0.5X TBE buffer solution again, and pour it over the gel until the gel is fully covered. The buffer should reach about 2-3mm above the gel.<br/>
+That is all of preparing the gell.<br/>
 <br/>
 #### 10. Loading the gels
 <br/>

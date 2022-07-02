@@ -2,7 +2,9 @@
 In this week, we are going to get used to fabrication tools (3D printer, laser cutter, and 3D design software). The purpose of this week is to learn how to make hardware by using fabrication tools.<br/>
 I guess this week gonna be a hardest challenge for me who haven’t had any experiences of using either design nor modeling software...<br/>
 <br/>
-## 1. Folking GitHub repositories
+
+## 1. Install and Test at least 2 different 3D Applications.
+## (1) Folking GitHub repositories
 "Folking" means to clone a remote repository and save it in your page.<br/>
 By folking, you can edit the codes and files of the original.<br/>
 <br/>
@@ -28,7 +30,7 @@ This time, I have localized BHA's DIY magnetic stirrer.<br/>
 <br/>
 Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/cg/blenderimportexport.html#S3)<br/>
 <br/>
-## 2. Using 3D modeling software
+## (2) Using 3D modeling software
 
 ### Lists of software
 I downloaded and tried to use these software shown below. However, I failed to download OpenSCAD and FreeCad due to the security reason of Macbook. About SketchUp, it appeared that it is usable to create something by myself but  cannot be used for installing STL file unless I update (that means I have to resister the paid version). Also, handling Blender was, in my impression, too high-level for amateur like me. I thought it would be necessary more practice for dealing with these softwares well.<br/>
@@ -87,7 +89,27 @@ About items...<br/>
 ![Gear7](/photo/Fusion_pic_7.jpeg)<br/>
 <br/>
 <br/>
-## 3. Akihabara Tour (optional)
+## 2. Hands-on Group Work: Design and Make a CleanBox
+Materials<br/>
+- Cardboard box<br/>
+- Plastic bag<br/>
+- Hairdryer<br/>
+- Tape<br/>
+- Cutter<br/>
+<br/>
+What is essential for a cleanbox is:<br/>
+- Spatial separation between in/outside of the box<br/>
+- Air flow (from inside to outside of the cleanbox)<br/>
+- The space to insert hands into it.<br/>
+<br/>
+<br/>
+## 3. Fork and Change the BHA Stirrer Repo
+<br/>
+<br/>
+## 4. Prepare the PocketPCR Case for 3D Printing
+<br/>
+<br/>
+## 5. Akihabara Tour (optional)
 ## 3/19(Sat)
 As an option of BHA, we did Akihabara tour for looking around electric parts shops. Akihabara is well-known as a electric town which has long history..<br/>
 ![Akihabara1](/photo/Akihabara_1.jpg)<br/>

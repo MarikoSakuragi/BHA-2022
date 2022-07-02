@@ -7,17 +7,23 @@
 ・ Find out the modification methods<br/>
 ・ Extra credit: find gene/gene sequence that has been changed<br/>
 <br/>
-1. Trenia
+1. Trenia (Torenia fournieri Lind)<br/>
+In 2014, the trenias which are improved to shine by genetical modification were shown in National Museum of Nature and Science, Tokyo. The National Agriculture and Food Research Organization (NARO), Tsukuba, Ibaraki Prefecture, developed it.<br/>
+**How?"**<br/>
+They induced a coding sequence of a yellowish green fluorescent protein from the marine plankton Chiridius poppei (CpYGFP) into trenia's DNA.
+<br/>
+**References**<br/>
 [https://scienceportal.jst.go.jp/newsflash/20141125_03/index.html](https://scienceportal.jst.go.jp/newsflash/20141125_03/index.html)<br/>
-・蛍光タンパク質遺伝子<br/>
-「海洋プランクトンの黄緑色蛍光タンパク質遺伝子を3重に連結して導入し、たくさんの蛍光タンパク質を作れるよう独自に工夫した。」<br/>
+[遺伝子組換え技術により開発された「光る花」の論文を公開](https://www.naro.go.jp/publicity_report/press/laboratory/flower/054854.html)<br/>
+[(Original article from Researchgate)Generation of fluorescent flowers exhibiting strong fluorescence by combination of fluorescent protein from marine plankton and recent genetic tools in Torenia fournieri Lind](https://www.researchgate.net/publication/272403245_Generation_of_fluorescent_flowers_exhibiting_strong_fluorescence_by_combination_of_fluorescent_protein_from_marine_plankton_and_recent_genetic_tools_in_Torenia_fournieri_Lind)<br/>
 <br/>
 2. Rapeseed （ナタネ／セイヨウアブラナ）<br/>
 セイヨウアブラナに除草剤耐性遺伝子を組み込んだもの<br/>
 <br/>
+**References**<br/>
+（・・・・・・・・・）<br/>
+<br/>
 3. Silkworm<br/>
-[遺伝子組換えカイコによるタンパク質受託発現](https://www.ozeki.co.jp/food_bio/protein_expression/silkworm.html)<br/>
-[【農業生物資源研究所】遺伝子組換えカイコで医薬開発に挑戦](https://www.nippon.com/ja/features/c00508/amp/)<br/>
 <br/>
 Silkworms have the ability to produce proteins by their threads. Using the ability, genetically modified silkworms are developed for the purpose to produce specific proteins: collagen, fibrinogen, albumin, GFP, etc.. This is a low-cost and efficient way of producing proteins. The modified silk is applied for cosmetics and pharmaceuticals.<br/>
 <br/>
@@ -25,6 +31,10 @@ Silkworms have the ability to produce proteins by their threads. Using the abili
 Scientists of technicians who work on the modification, they insert the target gene into the expression vector, inject the DNA into the portion of the egg by using microscope and a tiny needle.<br/>
 <br/>
 ![silkworm_modification](/photo/silkworm_modification.jpeg)<br/>
-(The image sites from["Using Genetically Modified Silkworms to Develop Cheaper Drugs"](https://www.nippon.com/en/features/c00508/))<br/>
+(The image is cited from [here](https://www.nippon.com/en/features/c00508/))<br/>
 <br/>
+**References**<br/>
+[遺伝子組換えカイコによるタンパク質受託発現](https://www.ozeki.co.jp/food_bio/protein_expression/silkworm.html)<br/>
+[【農業生物資源研究所】遺伝子組換えカイコで医薬開発に挑戦](https://www.nippon.com/ja/features/c00508/amp/)<br/>
+[Using Genetically Modified Silkworms to Develop Cheaper Drugs](https://www.nippon.com/en/features/c00508/)
 <br/>

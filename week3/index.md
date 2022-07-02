@@ -4,32 +4,7 @@ I guess this week gonna be a hardest challenge for me who haven’t had any expe
 <br/>
 
 ## 1. Install and Test at least 2 different 3D Applications.
-## (1) Folking GitHub repositories
-"Folking" means to clone a remote repository and save it in your page.<br/>
-By folking, you can edit the codes and files of the original.<br/>
-<br/>
-・Access to the original repository<br/>
-This time, I have localized BHA's DIY magnetic stirrer.<br/>
-![Local1](/photo/w3_screenshot_1.png)<br/>
-<br/>
-・To localize, push a "local" button on the upper right of the page.<br/>
-![Local2](/photo/w3_screenshot_2.png)<br/>
-<br/>
-・Then, the page is localized to your own page.<br/>
-![Local3](/photo/w3_screenshot_3.png)<br/>
-<br/>
-・Click your icon and select "Your repositories."<br/>
-![Local4](/photo/w3_screenshot_4.png)<br/>
-<br/>
-・When you select "Your repositories," you can check all your repositories.<br/>
-![Local5](/photo/w3_screenshot_5.png)<br/>
-<br/>
-・Click "Code" and "Open with GitHub Desktop," the GitHub Desktop automatically open, and you can edit the code.<br/>
-![Local6](/photo/w3_screenshot_6.png)<br/>
-<br/>
-<br/>
-Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/cg/blenderimportexport.html#S3)<br/>
-<br/>
+
 ## (2) Using 3D modeling software
 
 ### Lists of software
@@ -104,6 +79,42 @@ What is essential for a cleanbox is:<br/>
 <br/>
 <br/>
 ## 3. Fork and Change the BHA Stirrer Repo
+## (1) Folking GitHub repositories
+"Folking" means to clone a remote repository and save it in your page.<br/>
+By folking, you can edit the codes and files of the original.<br/>
+<br/>
+・Access to the original repository<br/>
+This time, I have localized BHA's DIY magnetic stirrer.<br/>
+![Local1](/photo/w3_screenshot_1.png)<br/>
+<br/>
+・To localize, push a "local" button on the upper right of the page.<br/>
+![Local2](/photo/w3_screenshot_2.png)<br/>
+<br/>
+・Then, the page is localized to your own page.<br/>
+![Local3](/photo/w3_screenshot_3.png)<br/>
+<br/>
+・Click your icon and select "Your repositories."<br/>
+![Local4](/photo/w3_screenshot_4.png)<br/>
+<br/>
+・When you select "Your repositories," you can check all your repositories.<br/>
+![Local5](/photo/w3_screenshot_5.png)<br/>
+<br/>
+・Click "Code" and "Open with GitHub Desktop," the GitHub Desktop automatically open, and you can edit the code.<br/>
+![Local6](/photo/w3_screenshot_6.png)<br/>
+<br/>
+<br/>
+Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/cg/blenderimportexport.html#S3)<br/>
+<br/>
+<br/>
+## (2) Find out where to get the parts online in Japan
+- [Akitsuki Densho online shop](https://akizukidenshi.com/catalog/)<br/>
+- [Aitendo](https://www.aitendo.com)<br/>
+- [Marutsu](https://www.marutsu.co.jp)<br/>
+- [Sengoku online](https://www.sengoku.co.jp)<br/>
+<br/>
+
+## (3) Update the BoM_Japan.md file with more current information.
+<br/>
 <br/>
 <br/>
 ## 4. Prepare the PocketPCR Case for 3D Printing

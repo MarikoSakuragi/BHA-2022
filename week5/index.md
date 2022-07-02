@@ -8,7 +8,9 @@
 ・ Extra credit: find gene/gene sequence that has been changed<br/>
 <br/>
 1. Trenia (Torenia fournieri Lind)<br/>
-In 2014, the trenias which are improved to shine by genetical modification were shown in National Museum of Nature and Science, Tokyo. The National Agriculture and Food Research Organization (NARO), Tsukuba, Ibaraki Prefecture, developed it.<br/>
+![trenia_1](photo/trenia_1.jpg)<br/>
+![trenia_2](photo/trenia_2.jpg)<br/>
+In 2014, the trenias which are improved to shine by genetic modification were shown in the National Museum of Nature and Science, Tokyo. The National Agriculture and Food Research Organization (NARO), Tsukuba, Ibaraki Prefecture, developed it. This is the first achievement that uses fluorescent proteins, not for the observations in micro-scale such as "the analysis of intracellular localization and protein–protein interaction," but for "for macro level observations of tissues or of the whole plant" as fluorescent flowers(Sasaki et al. 2014:309).<br/>
 **How?"**<br/>
 They induced a coding sequence of a yellowish green fluorescent protein from the marine plankton Chiridius poppei (CpYGFP) into trenia's DNA.
 <br/>

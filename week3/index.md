@@ -96,13 +96,17 @@ Use the cup as connection parts and fit a hairdryer into it.<br/>
 ![cleanbench_5](/photo/cleanbench_5.jpg)<br/>
 <br/>
 Make armholes on the side of the box.<br/>
-(We found that the width of the box was too big to insert hands from the side. We need to find a smaller box or consider the other designs to enter hands from the front next time.)<br/>
+<br/>
 ![cleanbench_6](/photo/cleanbench_6.jpg)<br/>
 <br/>
 The prototypes which we made.<br/>
 ![cleanbench_7](/photo/cleanbench_7.jpg)<br/>
 ![cleanbench_8](/photo/cleanbench_8.jpg)<br/>
 ![cleanbench_9](/photo/cleanbench_9.jpg)<br/>
+<br/>
+It is hard to say we succeeded to make a useful cleanbox.<br/>
+First of all, the plastic bag was not transparent, so the user had to look into the inside from the lower space which is open by lowering his/her head.<br/>
+Second, we found that the width of the box was too big to insert hands from the side. We need to find a smaller box or consider the other designs to enter hands from the front next time.<br/>
 ![cleanbench_10](/photo/cleanbench_10.jpg)<br/>
 <br/>
 ## 3. Fork and Change the BHA Stirrer Repo

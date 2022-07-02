@@ -15,13 +15,15 @@
 2. Rapeseed （ナタネ／セイヨウアブラナ）<br/>
 セイヨウアブラナに除草剤耐性遺伝子を組み込んだもの<br/>
 <br/>
-3. Sikworm
+3. Silkworm
 [https://www.affrc.maff.go.jp/koho/message/2019/message20190415-1.html](https://www.affrc.maff.go.jp/koho/message/2019/message20190415-1.html)<br/>
 [https://www.ozeki.co.jp/food_bio/protein_expression/silkworm.html](https://www.ozeki.co.jp/food_bio/protein_expression/silkworm.html)<br/>
 [https://www.nippon.com/ja/features/c00508/amp/](https://www.nippon.com/ja/features/c00508/amp/)<br/>
 <br/>
-目的のタンパク質を繭に作らせる。<br/>
-発現ベクターに目的遺伝子を挿入し、それをカイコの卵に注入するらしい。<br/>
-化粧品や医薬品にも利用されている。<br/>
-（説明を読んでもまだいまいち仕組みが分かっていない。）<br/>
+Silkworms have the ability to produce proteins by their threads. Using the ability, genetically modified silkworms are developed for the purpose to produce specific proteins.The modified silk is applied for cosmetics and phermaceuticals.<br/>
+Scientists of technicians who work on the modification, they insert the target gene into the expression vector, inject the DNA into the portion of the egg by using microscope and a tiny needle.<br/>
+<br/>
+![silkworm_modification](/photo/silkworm_modification.jpeg)<br/>
+(The image sites from["Using Genetically Modified Silkworms to Develop Cheaper Drugs"](https://www.nippon.com/en/features/c00508/))<br/>
+<br/>
 <br/>

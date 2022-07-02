@@ -145,16 +145,16 @@ Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/c
 <br/>
 
 ## (3) Update the BoM_Japan.md file with more current information.
-See "BioClub Tokyo" GitHub page<br/>
+See BioClub Tokyo GitHub page<br/>
 　↓<br/>
-["BHA Stirrer"](https://github.com/BioClub/BHA_Stirrer)) from repositories<br/>
+["BHA Stirrer"](https://github.com/BioClub/BHA_Stirrer) from repositories<br/>
 　↓<br/>
-[]"BoM_Japan.md"](https://github.com/BioClub/BHA_Stirrer/blob/master/BoM_Japan.md)<br/>
+["BoM_Japan.md"](https://github.com/BioClub/BHA_Stirrer/blob/master/BoM_Japan.md)<br/>
 <br/>
 ![Stirrer_Japan_1](/photo/Stirrer_Japan_1.jpeg)<br/>
 <br/>
 BoM_Japan.md<br/>
-You can see where you can get the parts in Japan which are necessary for BHA DIY stirrer.<br/>
+You can see where you can get the parts in Japan which are necessary for BHA DIY stirrer and those prices.<br/>
 ![Stirrer_Japan_2](/photo/Stirrer_Japan_2.jpeg)<br/>
 <br/>
 <br/>

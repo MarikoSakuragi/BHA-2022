@@ -65,25 +65,41 @@ About items...<br/>
 <br/>
 <br/>
 ## 2. Hands-on Group Work: Design and Make a CleanBox
-Materials<br/>
+### Materials for making DIY Cleanbox
 - Cardboard box<br/>
 - Plastic bag<br/>
 - Filter for ventilation fan<br/>
 - Hairdryer<br/>
 - Tape<br/>
+- Paper cup<br/>
 - Cutter<br/>
 <br/>
+
 ![cleanbench_1](/photo/cleanbench_1.jpg)<br/>
-What is essential for a cleanbox is:<br/>
+<br/>
+### What are essential for a cleanbox are:
 - Spatial separation between in/outside of the box<br/>
 - Air flow (from inside to outside of the cleanbox)<br/>
 - The space to insert hands into it.<br/>
 <br/>
+
+Sketches<br/>
 ![cleanbench_2](/photo/cleanbench_2.jpg)<br/>
 ![cleanbench_3](/photo/cleanbench_3.jpg)<br/>
+<br/>
+Cut a filter<br/>
 ![cleanbench_4](/photo/cleanbench_4.jpg)<br/>
+<br/>
+Cut out the bottom of the paper cup.
+Make a hole on the top of box to the size of the bottom of the cup.<br/>
+Use the cup as connection parts and fit a hairdryer into it.<br/>
 ![cleanbench_5](/photo/cleanbench_5.jpg)<br/>
+<br/>
+Make armholes on the side of the box.<br/>
+(We found that the width of the box was too big to insert hands from the side. We need to find a smaller box or consider the other designs to enter hands from the front next time.)<br/>
 ![cleanbench_6](/photo/cleanbench_6.jpg)<br/>
+<br/>
+The prototypes which we made.<br/>
 ![cleanbench_7](/photo/cleanbench_7.jpg)<br/>
 ![cleanbench_8](/photo/cleanbench_8.jpg)<br/>
 ![cleanbench_9](/photo/cleanbench_9.jpg)<br/>

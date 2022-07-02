@@ -105,7 +105,7 @@ The prototypes which we made.<br/>
 ![cleanbench_9](/photo/cleanbench_9.jpg)<br/>
 <br/>
 It is hard to say we succeeded to make a useful cleanbox.<br/>
-First of all, the plastic bag was not transparent, so the user had to look into the inside from the lower space which is open by lowering his/her head.<br/>
+First of all, there is problem of visibility. The plastic bag was not transparent, so the user had to look into the inside from the lower space which is open by lowering his/her head.<br/>
 Second, we found that the width of the box was too big to insert hands from the side. We need to find a smaller box or consider the other designs to enter hands from the front next time.<br/>
 ![cleanbench_10](/photo/cleanbench_10.jpg)<br/>
 <br/>
@@ -147,14 +147,14 @@ Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/c
 ## (3) Update the BoM_Japan.md file with more current information.
 See "BioClub Tokyo" GitHub page<br/>
 　↓<br/>
-"BHA Stirrer" from repositories<br/>
+["BHA Stirrer"](https://github.com/BioClub/BHA_Stirrer)) from repositories<br/>
 　↓<br/>
-"BoM_Japan.md"<br/>
-[https://github.com/BioClub/BHA_Stirrer](https://github.com/BioClub/BHA_Stirrer)<br/>
+[]"BoM_Japan.md"](https://github.com/BioClub/BHA_Stirrer/blob/master/BoM_Japan.md)<br/>
+<br/>
 ![Stirrer_Japan_1](/photo/Stirrer_Japan_1.jpeg)<br/>
 <br/>
 BoM_Japan.md<br/>
-[https://github.com/BioClub/BHA_Stirrer/blob/master/BoM_Japan.md](https://github.com/BioClub/BHA_Stirrer/blob/master/BoM_Japan.md)<br/>
+You can see where you can get the parts in Japan which are necessary for BHA DIY stirrer.<br/>
 ![Stirrer_Japan_2](/photo/Stirrer_Japan_2.jpeg)<br/>
 <br/>
 <br/>

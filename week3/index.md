@@ -145,7 +145,7 @@ Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/c
 <br/>
 
 ## (3) Update the BoM_Japan.md file with more current information.
-See BioClub Tokyo GitHub page<br/>
+See [BioClub Tokyo GitHub page](https://github.com/BioClub)<br/>
 　↓<br/>
 ["BHA Stirrer"](https://github.com/BioClub/BHA_Stirrer) from repositories<br/>
 　↓<br/>

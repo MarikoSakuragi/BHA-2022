@@ -79,10 +79,15 @@ What is essential for a cleanbox is:<br/>
 - Air flow (from inside to outside of the cleanbox)<br/>
 - The space to insert hands into it.<br/>
 <br/>
-![cleanbench_2](/photo/cleanbench_1.jpg)<br/>
-![cleanbench_3](/photo/cleanbench_1.jpg)<br/>
-![cleanbench_4](/photo/cleanbench_1.jpg)<br/>
-![cleanbench_5](/photo/cleanbench_1.jpg)<br/>
+![cleanbench_2](/photo/cleanbench_2.jpg)<br/>
+![cleanbench_3](/photo/cleanbench_3.jpg)<br/>
+![cleanbench_4](/photo/cleanbench_4.jpg)<br/>
+![cleanbench_5](/photo/cleanbench_5.jpg)<br/>
+![cleanbench_6](/photo/cleanbench_6.jpg)<br/>
+![cleanbench_7](/photo/cleanbench_7.jpg)<br/>
+![cleanbench_8](/photo/cleanbench_8.jpg)<br/>
+![cleanbench_9](/photo/cleanbench_9.jpg)<br/>
+![cleanbench_10](/photo/cleanbench_10.jpg)<br/>
 <br/>
 ## 3. Fork and Change the BHA Stirrer Repo
 ## (1) Folking GitHub repositories
@@ -120,7 +125,12 @@ Reference:[「Blenderでのインポート手順」](https://www.kkaneko.jp/db/c
 <br/>
 
 ## (3) Update the BoM_Japan.md file with more current information.
+[https://github.com/BioClub/BHA_Stirrer](https://github.com/BioClub/BHA_Stirrer)
+![Stirrer_Japan_1](/photo/Stirrer_Japan_1.jpeg)<br/>
 <br/>
+BoM_Japan<br/>
+[https://github.com/BioClub/BHA_Stirrer/blob/master/BoM_Japan.md](https://github.com/BioClub/BHA_Stirrer/blob/master/BoM_Japan.md)<br/>
+![Stirrer_Japan_2](/photo/Stirrer_Japan_2.jpeg)<br/>
 <br/>
 <br/>
 ## 4. Prepare the PocketPCR Case for 3D Printing

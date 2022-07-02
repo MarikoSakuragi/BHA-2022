@@ -68,15 +68,21 @@ About items...<br/>
 Materials<br/>
 - Cardboard box<br/>
 - Plastic bag<br/>
+- Filter for ventilation fan<br/>
 - Hairdryer<br/>
 - Tape<br/>
 - Cutter<br/>
 <br/>
+![cleanbench_1](/photo/cleanbench_1.jpg)<br/>
 What is essential for a cleanbox is:<br/>
 - Spatial separation between in/outside of the box<br/>
 - Air flow (from inside to outside of the cleanbox)<br/>
 - The space to insert hands into it.<br/>
 <br/>
+![cleanbench_2](/photo/cleanbench_1.jpg)<br/>
+![cleanbench_3](/photo/cleanbench_1.jpg)<br/>
+![cleanbench_4](/photo/cleanbench_1.jpg)<br/>
+![cleanbench_5](/photo/cleanbench_1.jpg)<br/>
 <br/>
 ## 3. Fork and Change the BHA Stirrer Repo
 ## (1) Folking GitHub repositories

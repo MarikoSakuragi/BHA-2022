@@ -14,7 +14,7 @@
 In 2014, the trenias which are improved to shine by genetic modification were shown in the National Museum of Nature and Science, Tokyo. The National Agriculture and Food Research Organization (NARO), Tsukuba, Ibaraki Prefecture, developed it. This is the first achievement that uses fluorescent proteins, not for the observations in micro-scale such as "the analysis of intracellular localization and protein–protein interaction," but for "for macro level observations of tissues or of the whole plant" as fluorescent flowers(Sasaki et al. 2014:309).<br/>
 <br/>
 **How?**<br/>
-They induced a coding sequence of a yellowish green fluorescent protein from the marine plankton Chiridius poppei (CpYGFP) into trenia's DNA.
+They induced a coding sequence of a yellowish green fluorescent protein from the marine plankton Chiridius poppei (CpYGFP) into trenia's DNA.<br/>
 <br/>
 **References**<br/>
 - [https://scienceportal.jst.go.jp/newsflash/20141125_03/index.html](https://scienceportal.jst.go.jp/newsflash/20141125_03/index.html)<br/>
@@ -23,7 +23,7 @@ They induced a coding sequence of a yellowish green fluorescent protein from the
 <br/>
 
 2. Oilseed Rape （ナタネ／セイヨウアブラナ）<br/>
-Many oilseed rape were genetically modified for herbicide and pest resistance.<br/>
+Many oilseed rape were genetically modified for herbicide and pest resistance. They have <br/>
 除草剤の成分GlyphosateやGlufosinateに対して耐性を持つ
 <br/>
 **How?**<br/>
@@ -33,7 +33,9 @@ Many oilseed rape were genetically modified for herbicide and pest resistance.<b
 （・・・・・・・・・）<br/>
 - [除草剤グルホシネート耐性及び稔性回復性セイヨウナタネ(改変bar, barstar, Brassica napus L.)(RF3, OECD UI :ACS-BNØØ 3-6)申請書等の概要](https://www.env.go.jp/info/iken/h190301a/a-5.pdf)<br/>
 - [Sampling test](https://earlybirds.ddo.jp/bunseki/topics/gmotest/gmotest3.html)<br/>
-- [Genetically modified oilseed rape monitoring](https://www.nies.go.jp/biology/en/research/frame/gm.html)<br/>
+- [Genetically modified oilseed rape monitoring (in Japan)](https://www.nies.go.jp/biology/en/research/frame/gm.html)<br/>
+<br/>
+- [Genetically modified food - Ministry of Health Labor and Welfare](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/shokuhin/bio/idenshi/index.html)<br/>
 <br/>
 
 3. Silkworm<br/>

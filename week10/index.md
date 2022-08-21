@@ -138,6 +138,7 @@ Dissolve agarose powder in the 0.5x TBE Buffer in a beaker.<br/>
 2. Ensure the black buffer dams are installed correctly, then install one of the combs.<br/>
 ![bento_comb](/photo/bento_comb.jpg)<br/>
 <br/>
+
 #### 5. Heating the gel solution in the microwave
 Heat the solution in a microwave for short bursts of 20-30 seconds.<br/>
 **!** Avoid heating the gel solution for too long.<br/>

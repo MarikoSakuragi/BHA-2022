@@ -74,8 +74,17 @@ CRISPR: Clustered Regularly Interspaced Short Palindromic Repeats<br/>
 （・・・・）<br/>
 **Why this technology is a break-through?**<br/>
 The practices to lose certain DNA abilities or to insert other DNA sequences into another DNA by cutting & pasting DNA have been around for a while.<br/>
+<br/>
+------------------------
+1st generation: ZFN<br/>
+          ⇩<br/>
+2nd generation: TALEN<br/>
+          ⇩<br/>
+3rd generation: CRISPR Cas9<br/>
+------------------------
+<br/>
 However, with conventional methods, it is difficult to incorporate the gene in the targeted position .<br/>
-CRISPR Cas9 is an innovative method since it enables gene editing more accurately than ever. <br/>
+CRISPR Cas9 is an innovative method since it enables gene editing much accurately than ever. <br/>
 <br/>
 [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXWkE3Ek)
 <br/>
@@ -181,3 +190,6 @@ Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_b
 <br/>
 - Pioneers of revolutionary CRISPR gene editing win chemistry Nobel (Nature)
 [https://www.nature.com/articles/d41586-020-02765-9](https://www.nature.com/articles/d41586-020-02765-9)<br/>
+<br/>
+- 「ゲノム編集」とは？遺伝子治療への応用の可能性は？
+[https://genetics.qlife.jp/interviews/dr-mashimo-20210215](https://genetics.qlife.jp/interviews/dr-mashimo-20210215)<br/>

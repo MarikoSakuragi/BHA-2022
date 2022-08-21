@@ -120,10 +120,17 @@ Image from [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXW
 ![CRISPR_memo](/photo/CRISPR_memo.jpg)<br/>
 <br/>
 - Promoter<br/>
-<br/>
+Promoter is a region of DNA upstream of a gene where relevant proteins (ex. RNA polymerase and transcription factors) bind to initiate transcription of that gene.<br/>
+プロモーターとは遺伝子の一部で、RNAポリメラーゼが結合し、遺伝子の転写（DNA→RNA）を始める領域のこと。<br/>
 <br/>
 - Plasmid<br/>
+![Plasmid](/photo/plasmid_pic.jpeg)<br/>
 <br/>
+Plasmid is  small circular DNA molecules which bacteria contains in addition to chromosome.<br/>
+Plasmids do not have genes necessary for normal life activities. However, genes in plasmids work independently when bacteria are exposed to special environments (high temperature, dryness, high salt content, etc.).<br/>
+Plasmids can copy themselves independently of the bacterial chromosome. Because of the independent replicability, aftificial plasmids are used as a vector for genetically modification in various scientific studies and industries. <br/>
+<br/>
+[Bacterial DNA- the role of plasmids - Science Learning Hub](https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids)
 <br/>
 - 5' to 3' Directionality (“5 prime to 3 prime)<br/>
 "5' and "3'" indicate the carbon numbers in the DNA's sugar backbone.

@@ -123,58 +123,53 @@ Finally, you will prepare, as part of each experiment, specific template DNA (3)
 Gel Electrophoresis is a common analysis method of DNA and it’s the key to visualising your results.<br/>
 
 #### 2. The Gel Box
-The orange lid (1) seals the gel box when the voltage is applied and also functions as a filter for the transilluminator, to render the fluorescing DNA visible.The base (2) is used to cast and run the gel. It has the red positive electrode, and the black negative one. Each of the electrodes is made of a thin platinum wire.<br/>
+The orange lid seals the gel box when the voltage is applied and also functions as a filter for the transilluminator, to render the fluorescing DNA visible.The base is used to cast and run the gel. It has the red positive electrode, and the black negative one. Each of the electrodes is made of a thin platinum wire.<br/>
 <br/>
-Two rubber dams are used to create buffer zones around the electrodes during gel casting (3). There are also combs to create 9 and 12 well gels (4).<br/>
-<br/>
-
-#### 3. Buffer Solution
+Two rubber dams are used to create buffer zones around the electrodes during gel casting. There are also combs to create 9 and 12 well gels.<br/>
 <br/>
 
-#### 4. Mixing the gels
+#### 3. Mixing the gels
 To make 1& agar gel:<br/>
 Dissolve agarose powder in the 0.5x TBE Buffer in a beaker.<br/>
 （スターラーで混ぜたことを書く）<br/>
 <br/>
-#### 5. Preparing the gel box for casting
+#### 4. Preparing the gel box for casting
 1. Slide open the gel box.<br/>
 2. Ensure the black buffer dams are installed correctly, then install one of the combs.<br/>
-![]（pic）<br/>
+![bento_comb](/photo/bento_comb.jpg)<br/>
 <br/>
-
-#### 6. Heating the gel solution in the microwave
+#### 5. Heating the gel solution in the microwave
 Heat the solution in a microwave for short bursts of 20-30 seconds.<br/>
 **!** Avoid heating the gel solution for too long.<br/>
 <br/>
 After each burst of microwaving, take our the beaker and swirl the solution. Once bubbles start appearing, the agarose should have dissolved. If you still see visibly solid pieces or strings of agarose, continue until they are dissolved.<br/>
 <br/>
-#### 7. Pouring the gel
+#### 6. Pouring the gel
 Once the agarose is fully melted and dissolved, let it cool to about 55°C – it should feel hot, but not too hot to touch.<br/>
 Pour the agarose **slowly** into the gel box until the 5mm mark.<br/>
 <br/>
 It will take about 30 min for the gel to solidify at room temperature. To speed up the process, you can also put the gel tray into the fridge.<br/>
 <br/>
-#### 8. Removing the comb and buffer dams
+#### 7. Removing the comb and buffer dams
 Remove the comb and the buffer damsafter the gel has solidified.<br/>
 <br/>
 **!** Be careful not to damage the gel as you remove the comb and dams. When removing the comb, make sure not to pierce the gel.<br/>
 <br/>
-#### 9. Gel Buffer
+#### 8. Gel Buffer
 Use your prepared 0.5X TBE buffer solution again, and pour it over the gel until the gel is fully covered. The buffer should reach about 2-3mm above the gel.<br/>
 That is all of preparing the gell.<br/>
 <br/>
-#### 10. Loading the gels
+#### 9. Loading the gels
 <br/>
-#### 11. Running the gel
+#### 10. Running the gel
 Run the gel for 40 minutes to separate the DNA fragments.<br/>
-<br/>
 1. Gently close the gel box by sliding the lid onto the gel tray. Then connect the leads to the Bento Lab’s power supply. Be careful not to spill anything.<br/>
+![running_1](/photo/bento_gelrun_1.jpg)<br/>
 2. Set the time and Volt (40min, 50V)<br/>
+![running_2](/photo/bento_gelrun_2.jpg)<br/>
 3. Start running.<br/>
 <br/>
-![running](/photo/bento_gelrun.jpg)<br/>
-<br/>
-#### 12. Results
+#### 11. Results
 <br/>
 ![results_1](/photo/results_1.jpg)<br/>
 ![results_2](/photo/results_2.jpg)<br/>

@@ -100,10 +100,6 @@ Finally, you will prepare, as part of each experiment, specific template DNA (3)
 ## Gel Electrophoresis
 [Reference](https://bento.bio/protocol/biotechnology-101/introduction-to-gel-electrophoresis/)<br/>
 <br/>
-**Consumables**<br/>
-- 4 x Pipette Tips<br/>
-- Distilled or deionized water<br/>
-<br/>
 **Equipment**<br/>
 - Micropipette<br/>
 - Bento Lab<br/>
@@ -127,11 +123,9 @@ The orange lid seals the gel box when the voltage is applied and also functions 
 <br/>
 Two rubber dams are used to create buffer zones around the electrodes during gel casting. There are also combs to create 9 and 12 well gels.<br/>
 <br/>
-
 #### 3. Mixing the gels
-To make 1& agar gel:<br/>
+To make 1% agar gel:<br/>
 Dissolve agarose powder in the 0.5x TBE Buffer in a beaker.<br/>
-（スターラーで混ぜたことを書く）<br/>
 <br/>
 #### 4. Preparing the gel box for casting
 1. Slide open the gel box.<br/>
@@ -161,6 +155,17 @@ Use your prepared 0.5X TBE buffer solution again, and pour it over the gel until
 That is all of preparing the gell.<br/>
 <br/>
 #### 9. Loading the gels
+In this step you will load one or several samples you prepared, into the gel you prepared earlier. You will also load the appropriate DNA ladder for the experiment. In the Biotechnology 101 Kit, all experiments are designed for a 100bp ladder.<br/>
+To load the samples into the wells of the gel, you will need the micropipette and several pipette tips<br/>
+<br/>
+Set your micropipette to 5μl.<br/>
+Firstly, load DNA ladder into the well furthest on the left by the micropipette, using a fresh pipette chip.After loading the well, discard the pipette tip.<br/>
+Next, load the each samples which you prepared into the wells from left to right.<br/>
+Make a note so that you remember which sample is in which well.<br/>
+<br/>
+Loading needs careful control. Support the hand holding the pipette with the non-dominant hand for better stability.<br/>
+![loading_1](/photo/loading_1.jpg)<br/>
+![loading_2](/photo/loading_2.jpg)<br/>
 <br/>
 #### 10. Running the gel
 Run the gel for 40 minutes to separate the DNA fragments.<br/>
@@ -170,7 +175,11 @@ Run the gel for 40 minutes to separate the DNA fragments.<br/>
 ![running_2](/photo/bento_gelrun_2.jpg)<br/>
 3. Start running.<br/>
 <br/>
+
 #### 11. Results
+This time, we did the DNA Analysis experiment to check whether the one has the ability to digest lactose. Concretely, we searched for the existence of the genetic variation of the gene MCM6, which controls the expression of LCT, the gene that encodes the lactase enzyme. We used a **Lactose Intolerance Primer** which was part of the reagents of Bento Lab Kit (the Biotechnology 101 Kit).<br/>
+<br/>
+The ladders appeared could be seen clearly.<br/>
 <br/>
 ![results_1](/photo/results_1.jpg)<br/>
 ![results_2](/photo/results_2.jpg)<br/>

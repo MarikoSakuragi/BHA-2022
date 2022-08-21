@@ -72,6 +72,10 @@ On Benching click “+”<br/>
 CRISPR: Clustered Regularly Interspaced Short Palindromic Repeats<br/>
 <br/>
 （・・・・）<br/>
+**Why this technology is a break-through?**<br/>
+The practices to lose certain DNA abilities or to insert other DNA sequences into another DNA by cutting & pasting DNA have been around for a while.<br/>
+However, with conventional methods, it is difficult to incorporate the gene in the targeted position .<br/>
+CRISPR Cas9 is an innovative method since it enables gene editing more accurately than ever. <br/>
 <br/>
 [CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXWkE3Ek)
 <br/>
@@ -124,13 +128,12 @@ Promoter is a region of DNA upstream of a gene where relevant proteins (ex. RNA 
 プロモーターとは遺伝子の一部で、RNAポリメラーゼが結合し、遺伝子の転写（DNA→RNA）を始める領域のこと。<br/>
 <br/>
 - Plasmid<br/>
-![Plasmid](/photo/plasmid_pic.jpeg)<br/>
+![Plasmid](/photo/plasmid_pic.jpg)<br/>
+Image from [Science Learning Hub](https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids)<br/>
 <br/>
 Plasmid is  small circular DNA molecules which bacteria contains in addition to chromosome.<br/>
 Plasmids do not have genes necessary for normal life activities. However, genes in plasmids work independently when bacteria are exposed to special environments (high temperature, dryness, high salt content, etc.).<br/>
 Plasmids can copy themselves independently of the bacterial chromosome. Because of the independent replicability, aftificial plasmids are used as a vector for genetically modification in various scientific studies and industries. <br/>
-<br/>
-[Bacterial DNA- the role of plasmids - Science Learning Hub](https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids)
 <br/>
 - 5' to 3' Directionality (“5 prime to 3 prime)<br/>
 "5' and "3'" indicate the carbon numbers in the DNA's sugar backbone.
@@ -172,3 +175,9 @@ Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_b
 <br/>
 - Benchiling
 [https://www.benchling.com](https://www.benchling.com)<br/>
+<br/>
+- Bacterial DNA- the role of plasmids - Science Learning Hub
+[https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids](https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids)
+<br/>
+- Pioneers of revolutionary CRISPR gene editing win chemistry Nobel (Nature)
+[https://www.nature.com/articles/d41586-020-02765-9](https://www.nature.com/articles/d41586-020-02765-9)<br/>

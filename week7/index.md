@@ -72,8 +72,6 @@ On Benching click “+”<br/>
 CRISPR: Clustered Regularly Interspaced Short Palindromic Repeats<br/>
 <br/>
 **Why this technology is a break-through?**<br/>
-The practices to lose certain DNA abilities or to insert other DNA sequences into another DNA by cutting & pasting DNA have been around for a while.However, with conventional methods, it is difficult to incorporate the gene in the targeted position.<br/>
-<br/>
 <br/>
 Different methods of gene editing<br/>
 -----------------------------------<br/>
@@ -81,10 +79,14 @@ Different methods of gene editing<br/>
           ⇩<br/>
 2nd generation: TALEN<br/>
           ⇩<br/>
-3rd generation: CRISPR Cas9<br/>
+3rd generation: CRISPR-Cas9<br/>
 -----------------------------------<br/>
-CRISPR Cas9 is an innovative method since it enables gene editing much more accurately than ever. <br/>
-CRISPR is a technology that makes use of the DNA repair mechanism and has the advantage of being able to cut "only" one targeted spot in a long piece of DNA.<br/>
+The practices to lose certain DNA abilities or to insert other DNA sequences into another DNA by cutting & pasting DNA have been around for a while.However, with conventional methods, it is difficult to incorporate the gene in the targeted position.<br/>
+<br/>
+CRISPR-Cas9 is an innovative method since it enables gene editing much more accurately than ever. <br/>
+It is a technology that makes use of the DNA repair mechanism and has the advantage of being able to cut "only" one targeted spot in a long piece of DNA.<br/>
+<br/>
+Since the accuracy and efficiency increased by CRISPR-Cas9, the extent of gene editing was highly expanded, it is applied to medicine, drug discovery, and agriculture studies.<br/>
 <br/>
 [CRISPR Cas9 - A Brief Introduction (YouTube)](https://youtu.be/1aJxXWkE3Ek)
 <br/>

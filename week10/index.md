@@ -102,10 +102,12 @@ Finally, you will prepare, as part of each experiment, specific template DNA (3)
 <br/>
 **Consumables**<br/>
 - 4 x Pipette Tips<br/>
+- Distilled or deionized water<br/>
 <br/>
 **Equipment**<br/>
-- Micropipette<br/><br/>
+- Micropipette<br/>
 - Bento Lab<br/>
+- Beaker<br/>
 - Microwave<br/>
 <br/>
 **Reagents and Consumables**<br/>
@@ -128,10 +130,18 @@ Two rubber dams are used to create buffer zones around the electrodes during gel
 
 #### 3. Buffer Solution
 <br/>
+
 #### 4. Mixing the gels
+To make 1& agar gel:<br/>
+Dissolve agarose powder in the 0.5x TBE Buffer in a beaker.<br/>
+（スターラーで混ぜたことを書く）<br/>
 <br/>
 #### 5. Preparing the gel box for casting
+1. Slide open the gel box.<br/>
+2. Ensure the black buffer dams are installed correctly, then install one of the combs.<br/>
+![]（pic）<br/>
 <br/>
+
 #### 6. Heating the gel solution in the microwave
 Heat the solution in a microwave for short bursts of 20-30 seconds.<br/>
 **!** Avoid heating the gel solution for too long.<br/>
@@ -156,6 +166,16 @@ That is all of preparing the gell.<br/>
 #### 10. Loading the gels
 <br/>
 #### 11. Running the gel
+Run the gel for 40 minutes to separate the DNA fragments.<br/>
+<br/>
+1. Gently close the gel box by sliding the lid onto the gel tray. Then connect the leads to the Bento Lab’s power supply. Be careful not to spill anything.<br/>
+2. Set the time and Volt (40min, 50V)<br/>
+3. Start running.<br/>
+<br/>
+![running](/photo/bento_gelrun.jpg)<br/>
 <br/>
 #### 12. Results
+<br/>
+![results_1](/photo/results_1.jpg)<br/>
+![results_2](/photo/results_2.jpg)<br/>
 <br/>

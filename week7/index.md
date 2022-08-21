@@ -84,10 +84,10 @@ The practices to lose certain DNA abilities or to insert other DNA sequences int
 3rd generation: CRISPR Cas9<br/>
 -----------------------------------<br/>
 <br/>
-
-CRISPR Cas9 is an innovative method since it enables gene editing much accurately than ever. <br/>
+CRISPR Cas9 is an innovative method since it enables gene editing much more accurately than ever. <br/>
+CRISPR is a technology that makes use of the DNA repair mechanism and has the advantage of being able to cut "only" one targeted spot in a long piece of DNA.<br/>
 <br/>
-[CRISPR Cas9 - A Brief Introduction(YouTube)](https://youtu.be/1aJxXWkE3Ek)
+[CRISPR Cas9 - A Brief Introduction (YouTube)](https://youtu.be/1aJxXWkE3Ek)
 <br/>
 ### Guiding, Cutting, Checking
 #### <font color="Olive">Guiding</font>
@@ -138,6 +138,7 @@ Promoter is a region of DNA upstream of a gene where relevant proteins (ex. RNA 
 プロモーターとは遺伝子の一部で、RNAポリメラーゼが結合し、遺伝子の転写（DNA→RNA）を始める領域のこと。<br/>
 <br/>
 - Plasmid<br/>
+<br/>
 ![Plasmid](/photo/plasmid_pic.jpg)<br/>
 Image from [Science Learning Hub](https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids)<br/>
 <br/>
@@ -183,14 +184,14 @@ Image from [Wikipedia](https://en.wikipedia.org/wiki/Directionality_(molecular_b
 (Genetical modified tomato by CRISPR-Cas9 was developed in 2020)<br/>
 [https://p-e-s.co.jp/higabatomato_column/genome-editing-for-sicilian-rouge/](https://p-e-s.co.jp/higabatomato_column/genome-editing-for-sicilian-rouge/)<br/>
 <br/>
-- Benchiling
+- Benchiling<br/>
 [https://www.benchling.com](https://www.benchling.com)<br/>
 <br/>
-- Bacterial DNA- the role of plasmids - Science Learning Hub
-[https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids](https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids)
+- Bacterial DNA- the role of plasmids - Science Learning Hub<br/>
+[https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids](https://www.sciencelearn.org.nz/resources/1900-bacterial-dna-the-role-of-plasmids)<br/>
 <br/>
-- Pioneers of revolutionary CRISPR gene editing win chemistry Nobel (Nature)
-[https://www.nature.com/articles/d41586-020-02765-9](https://www.nature.com/articles/d41586-020-02765-9)<br/>
-<br/>
-- 「ゲノム編集」とは？遺伝子治療への応用の可能性は？
+- 「ゲノム編集」とは？遺伝子治療への応用の可能性は？<br/>
 [https://genetics.qlife.jp/interviews/dr-mashimo-20210215](https://genetics.qlife.jp/interviews/dr-mashimo-20210215)<br/>
+<br/>
+- ゲノム編集の現状について（PDF）<br/>
+[https://www8.cao.go.jp/cstp/tyousakai/life/haihu90/siryo4-1.pdf](https://www8.cao.go.jp/cstp/tyousakai/life/haihu90/siryo4-1.pdf)<br/>

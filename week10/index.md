@@ -84,9 +84,10 @@ At this point, the primers will attach, or anneal, to their binding positions on
 In the next step, the reaction moves to an optimal temperature for the polymerase enzyme (1), from which PCR takes its name, to start working. The polymerase enzyme builds DNA strands, and it will extend the DNA from the primer along the DNA template, creating a new DNA strand, which combines with the single-stranded template to form a double strand. The polymerase enzyme uses dNTPs (2), free DNA nucleotide bases as the building blocks for the new strand.<br/>
 <br/>
 
-#### 2. PCR on Bento Lab
-<br/>
 #### 3. PCR with Biotechnology 101 Kit
+<br/>
+![101kit](/photo/101kit.jpg)<br/>
+<br/>
 For all experiments using PCR in the Biotechnology 101 Kit, you will be provided with a specific set of primers. (1)<br/>
 <br/>
 In the 101 kit, there are PCR tubes with a freeze-dried PCR master mix bead (2). This bead contains:<br/>
@@ -95,6 +96,14 @@ In the 101 kit, there are PCR tubes with a freeze-dried PCR master mix bead (2).
 - Buffer to ensure the right conditions for the reaction.<br/>
 <br/>
 Finally, you will prepare, as part of each experiment, specific template DNA (3). These need to be mixed in precise proportions, for which you will need the micropipette (4).<br/>
+<br/>
+**Reagents**<br/>
+- 6 PCR Primer Mixes for DNA Analysis Projects (200 reactions)<br/>
+- 5x FIREPol® Master Mix Ready To Load (100 µL, 25 reactions)<br/>
+- 0.5 g Agarose Tablets (10 tablets)<br/>
+- 10X TBE Electrophoresis Buffer (50 mL)<br/>
+- GelGreen® DNA Stain (100 µL)<br/>
+- 100 bp DNA Ladder (200 µL)<br/>
 <br/>
 
 ## Gel Electrophoresis
@@ -170,9 +179,11 @@ Loading needs careful control. Support the hand holding the pipette with the non
 #### 10. Running the gel
 Run the gel for 40 minutes to separate the DNA fragments.<br/>
 1. Gently close the gel box by sliding the lid onto the gel tray. Then connect the leads to the Bento Lab’s power supply. Be careful not to spill anything.<br/>
-![running_1](/photo/bento_gelrun_1.jpg)<br/>
+![running_1](/photo/bento_gelrun_1.jpg)<br/><br/>
+<br/>
 2. Set the time and Volt (40min, 50V)<br/>
 ![running_2](/photo/bento_gelrun_2.jpg)<br/>
+<br/>
 3. Start running.<br/>
 <br/>
 
